@@ -1,0 +1,62 @@
+::js::
+(
+Quality Data: Show & Tell {tab}
+Hey There,
+
+I'm a doc at NCFP who's going to be sharing quality data from time to time. Meridios is good for looking at patient exceptions but it's cumbersome to make graphs. So I made these for you :-)
+
+See attached graphs. It's a summary of our quality measures. Just a note: the drop in August on all the measures is that we had a glitch in our reporting. Trends tend to hold but the absolute numbers shift down afterwards. (We had thought it was pulling patients seen in the past 3 years but it was actually the past 12 months.)
+
+NCQA 90th Percentile is our general target -- that's higher than the number that's been used for the performance bonus the past few years. That's the dotted line on the charts.
+
+This data is already 'out there'. Insurers and patients can find this sort of data. Obviously it's a small part of good clinical care. But it's a measurable part that we've been tracking as FCN.
+
+
+
+Some tips:
+
+* Forward this to your CA so you can start a conversation.
+Does your CA have a way of checking if outside measures (Pap, Mammo, Colonoscopy, Eye Exam) were completed?
+Who runs Meridios for your personal practice?
+
+
+Let me know if you have advice about how we could share quality data better!
+
+Jonathan Ploudre
+
+)
+
+::jtdap::
+(
+It looks like you've been improving your Tdaps. Maybe your CA has a new process?
+)
+
+::jpap::
+(
+You've been improving your paps. Better recall? Better records retrieval? More persuasion for overdue patients?
+)
+
+::jmammo::
+(
+Looks like your mammography rate is going up. Doing a better job of reminding? Getting more records?
+)
+
+::jcolo::
+(
+Your colorectal screening has been going up. Is that more FIT or more referrals?
+)
+
+::jeye::
+(
+Your retinopathy screening has really been going up. Is that a CA-based process or PSR-based or both?
+)
+
+::jppsv::
+(
+Looks like your pneumovax in diabetic patient has been going up this year. Is your CA getting better at checking Pneumovax status?
+)
+
+::jmonof::
+(
+Looks like monofilament testing is being documented more often. Is that your CA or are you doing that?
+)
