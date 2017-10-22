@@ -1,0 +1,1951 @@
+PVID,FIRSTNAME,LASTNAME,Metricname,SeenNum,SeenDenom,SeenAvg,LastUpdate
+1.37442E+15,Richard,Binder MD,Nephropathy Assessment,58,78,0.7436,33:22.7
+1.37442E+15,S. Harry,Herdman MD,Nephropathy Assessment,67,87,0.7701,33:22.7
+1.3745E+15,Margaret,Burden MD,Nephropathy Assessment,33,39,0.8462,33:22.7
+1.3745E+15,Robin,Caldwell MD,Nephropathy Assessment,131,191,0.6859,33:22.7
+1.3745E+15,David,Gavareski MD,Nephropathy Assessment,84,111,0.7568,33:22.7
+1.3745E+15,Karen,Goodman ARNP,Nephropathy Assessment,58,80,0.725,33:22.7
+1.3745E+15,Larry,Hartwell MD,Nephropathy Assessment,114,154,0.7403,33:22.7
+1.3745E+15,James,Hopper MD,Nephropathy Assessment,52,75,0.6933,33:22.7
+1.3745E+15,John,Hruby MD,Nephropathy Assessment,61,103,0.5922,33:22.7
+1.3745E+15,Kellie,Jacobs MD,Nephropathy Assessment,40,59,0.678,33:22.7
+1.3745E+15,Stephen,Lewis MD,Nephropathy Assessment,140,186,0.7527,33:22.7
+1.3745E+15,Richard,McClenahan MD,Nephropathy Assessment,75,101,0.7426,33:22.7
+1.3745E+15,Karen,O'Keefe MD,Nephropathy Assessment,31,56,0.5536,33:22.7
+1.3745E+15,Bruce,Pederson MD,Nephropathy Assessment,142,200,0.71,33:22.7
+1.3745E+15,Melana,"Schimke, MD",Nephropathy Assessment,19,23,0.8261,33:22.7
+1.3745E+15,Miriam,Shapiro MD,Nephropathy Assessment,34,53,0.6415,33:22.7
+1.3745E+15,Chao-Ying,Wu MD,Nephropathy Assessment,82,108,0.7593,33:22.7
+1.37822E+15,Steven,Bloom MD,Nephropathy Assessment,81,120,0.675,33:22.7
+1.37822E+15,Jason,Short MD,Nephropathy Assessment,85,120,0.7083,33:22.7
+1.4004E+15,Matt,Werner MD,Nephropathy Assessment,71,87,0.8161,33:22.7
+1.41225E+15,Jennifer,Bates MD,Nephropathy Assessment,56,69,0.8116,33:22.7
+1.42737E+15,Edward,Bloom MD,Nephropathy Assessment,108,144,0.75,33:22.7
+1.43401E+15,Jessica,Bloom MD,Nephropathy Assessment,13,19,0.6842,33:22.7
+1.43523E+15,April,Wakefield-Pagels MD,Nephropathy Assessment,57,86,0.6628,33:22.7
+1.44067E+15,John,Hiemstra DO,Nephropathy Assessment,158,221,0.7149,33:22.7
+1.45553E+15,Teresa,Regier ARNP,Nephropathy Assessment,43,84,0.5119,33:22.7
+1.48275E+15,Deborah,Hall MD,Nephropathy Assessment,56,82,0.6829,33:22.7
+1.4913E+15,Ian,"Bonner, MD",Nephropathy Assessment,56,85,0.6588,33:22.7
+1.3745E+15,Stephen,Lewis MD,Mammogram Ages 52 -74,152,249,0.6104,34:25.9
+1.3745E+15,Richard,McClenahan MD,Mammogram Ages 52 -74,128,196,0.6531,34:25.9
+1.69701E+15,Claudia,Rey MD,Pap Smear Report,390,549,0.7104,45:39.7
+1.69943E+15,Erik,Bylund MD,Pap Smear Report,150,317,0.4732,45:39.7
+1.69943E+15,Martin,Dubek MD,Pap Smear Report,,,,45:39.7
+1.69943E+15,Roger,Estep MD,Pap Smear Report,130,192,0.6771,45:39.7
+1.69943E+15,Jonathan,Gamson MD,Pap Smear Report,134,331,0.4048,45:39.7
+1.69943E+15,Janet,Hansom MD,Pap Smear Report,360,490,0.7347,45:39.7
+1.69943E+15,Lucia,Muller MD,Pap Smear Report,218,343,0.6356,45:39.7
+1.69943E+15,Jonathan,Ploudre MD,Pap Smear Report,227,344,0.6599,45:39.7
+1.69943E+15,L Sloane,Winkes MD,Pap Smear Report,291,374,0.7781,45:39.7
+1.69943E+15,Joseph,McConahey PA-C,Pap Smear Report,,,,45:39.7
+1.69943E+15,Erinn,Case ARNP,Pap Smear Report,356,606,0.5875,45:39.7
+1.70464E+15,Lisa,Brodsky,Pap Smear Report,148,253,0.585,45:39.7
+1.7054E+15,Jessica,Klassen ARNP,Pap Smear Report,26,80,0.325,45:39.7
+1.72069E+15,Margaret,Sweeney,Pap Smear Report,360,418,0.8612,45:39.7
+1.72069E+15,Franklin,Bjorseth,Pap Smear Report,138,211,0.654,45:39.7
+1.72069E+15,Michael,James,Pap Smear Report,124,257,0.4825,45:39.7
+1.72069E+15,Robert,Rieger,Pap Smear Report,244,307,0.7948,45:39.7
+1.72121E+15,Meghan,Lelonek,Pap Smear Report,463,717,0.6457,45:39.7
+1.7443E+15,Sally,McPherson ARNP,Pap Smear Report,173,320,0.5406,45:39.7
+1.74454E+15,Michael,Fleming PA-C,Pap Smear Report,55,114,0.4825,45:39.7
+1.75121E+15,Sara,Bowling,Pap Smear Report,351,552,0.6359,45:39.7
+1.77055E+15,William,Eiford PA-C,Pap Smear Report,,,,45:39.7
+1.77659E+15,Sarah,Herrman ARNP,Pap Smear Report,,,,45:39.7
+1.78471E+15,Patricia,Payne-Zajac PA-C,Pap Smear Report,,,,45:39.7
+1.78472E+15,Lillian,Pavlik ARNP,Pap Smear Report,,,,45:39.7
+1.78627E+15,Lauren,Sauve ARNP,Pap Smear Report,161,321,0.5016,45:39.7
+1.7962E+15,Catherine,Gambs MD,Pap Smear Report,349,557,0.6266,45:39.7
+1.7962E+15,Rebecca,Brejcha ARNP,Pap Smear Report,,,,45:39.7
+1.80589E+15,Vicki,Short MD,Pap Smear Report,332,604,0.5497,45:39.7
+1.80624E+15,Heather,Thomson ARNP,Pap Smear Report,33,52,0.6346,45:39.7
+1.81237E+15,Patrick,McLaughlin MD,Pap Smear Report,236,401,0.5885,45:39.7
+1.3745E+15,Karen,O'Keefe MD,Mammogram Ages 52 -74,266,350,0.76,34:25.9
+1.3745E+15,Bruce,Pederson MD,Mammogram Ages 52 -74,158,338,0.4675,34:25.9
+1.3745E+15,Melana,"Schimke, MD",Mammogram Ages 52 -74,127,242,0.5248,34:25.9
+1.3745E+15,Miriam,Shapiro MD,Mammogram Ages 52 -74,251,356,0.7051,34:25.9
+1.3745E+15,Chao-Ying,Wu MD,Mammogram Ages 52 -74,229,320,0.7156,34:25.9
+1.37822E+15,Steven,Bloom MD,Mammogram Ages 52 -74,108,206,0.5243,34:25.9
+1.37822E+15,Jason,Short MD,Mammogram Ages 52 -74,131,205,0.639,34:25.9
+1.4004E+15,Matt,Werner MD,Mammogram Ages 52 -74,195,300,0.65,34:25.9
+1.41225E+15,Jennifer,Bates MD,Mammogram Ages 52 -74,169,239,0.7071,34:25.9
+1.42737E+15,Edward,Bloom MD,Mammogram Ages 52 -74,195,303,0.6436,34:25.9
+1.43401E+15,Jessica,Bloom MD,Mammogram Ages 52 -74,119,163,0.7301,34:25.9
+1.43523E+15,April,Wakefield-Pagels MD,Mammogram Ages 52 -74,253,387,0.6537,34:25.9
+1.44067E+15,John,Hiemstra DO,Mammogram Ages 52 -74,237,357,0.6639,34:25.9
+1.45553E+15,Teresa,Regier ARNP,Mammogram Ages 52 -74,119,300,0.3967,34:25.9
+1.48275E+15,Deborah,Hall MD,Mammogram Ages 52 -74,270,446,0.6054,34:25.9
+1.4913E+15,Ian,"Bonner, MD",Mammogram Ages 52 -74,120,188,0.6383,34:25.9
+1.51359E+15,Laura,Fox DO,Mammogram Ages 52 -74,190,276,0.6884,34:25.9
+1.51868E+15,Mary,Swanson MD,Mammogram Ages 52 -74,149,190,0.7842,34:25.9
+1.52207E+15,Rodney,Anderson MD,Mammogram Ages 52 -74,224,306,0.732,34:25.9
+1.52258E+15,Anneliese,Floyd MD,Mammogram Ages 52 -74,165,229,0.7205,34:25.9
+1.53182E+15,Elizabeth,"Gaylord ARNP, ND",Mammogram Ages 52 -74,130,201,0.6468,34:25.9
+1.53865E+15,Sarah,Stewart ARNP,Mammogram Ages 52 -74,4,8,0.5,34:25.9
+1.54522E+15,Frederick,Gunningham MD,Mammogram Ages 52 -74,102,177,0.5763,34:25.9
+1.56252E+15,John,Raduege MD,Mammogram Ages 52 -74,219,326,0.6718,34:25.9
+1.5688E+15,Erin,Maloney PA-C,Mammogram Ages 52 -74,,,,34:25.9
+1.57225E+15,Renay,"Fredette MD, MSNu",Mammogram Ages 52 -74,107,183,0.5847,34:25.9
+1.59785E+15,Michael,Steele MD,Mammogram Ages 52 -74,192,367,0.5232,34:25.9
+1.61408E+15,Lisa,VanHofwegen MD,Mammogram Ages 52 -74,123,184,0.6685,34:25.9
+1.6363E+15,Shannon,Billau DO,Mammogram Ages 52 -74,244,360,0.6778,34:25.9
+1.66055E+15,Deborah,Roessler MD,Mammogram Ages 52 -74,364,590,0.6169,34:25.9
+1.68536E+15,Shelby,Hein MD,Mammogram Ages 52 -74,337,500,0.674,34:25.9
+1.69133E+15,Rory,Bradt DO,Mammogram Ages 52 -74,116,197,0.5888,34:25.9
+1.69254E+15,Greg,Anderson MD,Mammogram Ages 52 -74,106,166,0.6386,34:25.9
+1.69701E+15,Claudia,Rey MD,Mammogram Ages 52 -74,139,237,0.5865,34:25.9
+1.69943E+15,Erik,Bylund MD,Mammogram Ages 52 -74,100,183,0.5464,34:25.9
+1.69943E+15,Martin,Dubek MD,Mammogram Ages 52 -74,,,,34:25.9
+1.69943E+15,Roger,Estep MD,Mammogram Ages 52 -74,56,77,0.7273,34:25.9
+1.69943E+15,Jonathan,Gamson MD,Mammogram Ages 52 -74,160,284,0.5634,34:25.9
+1.69943E+15,Janet,Hansom MD,Mammogram Ages 52 -74,255,391,0.6522,34:25.9
+1.69943E+15,Lucia,Muller MD,Mammogram Ages 52 -74,137,205,0.6683,34:25.9
+1.69943E+15,Jonathan,Ploudre MD,Mammogram Ages 52 -74,131,204,0.6422,34:25.9
+1.69943E+15,L Sloane,Winkes MD,Mammogram Ages 52 -74,161,206,0.7816,34:25.9
+1.69943E+15,Joseph,McConahey PA-C,Mammogram Ages 52 -74,,,,34:25.9
+1.69943E+15,Erinn,Case ARNP,Mammogram Ages 52 -74,135,257,0.5253,34:25.9
+1.70464E+15,Lisa,Brodsky,Mammogram Ages 52 -74,66,104,0.6346,34:25.9
+1.7054E+15,Jessica,Klassen ARNP,Mammogram Ages 52 -74,17,57,0.2982,34:25.9
+1.72069E+15,Margaret,Sweeney,Mammogram Ages 52 -74,175,235,0.7447,34:25.9
+1.72069E+15,Franklin,Bjorseth,Mammogram Ages 52 -74,127,213,0.5962,34:25.9
+1.72069E+15,Michael,James,Mammogram Ages 52 -74,135,238,0.5672,34:25.9
+1.72069E+15,Robert,Rieger,Mammogram Ages 52 -74,99,146,0.6781,34:25.9
+1.72121E+15,Meghan,Lelonek,Mammogram Ages 52 -74,108,194,0.5567,34:25.9
+1.7443E+15,Sally,McPherson ARNP,Mammogram Ages 52 -74,94,160,0.5875,34:25.9
+1.74454E+15,Michael,Fleming PA-C,Mammogram Ages 52 -74,12,35,0.3429,34:25.9
+1.75121E+15,Sara,Bowling,Mammogram Ages 52 -74,147,249,0.5904,34:25.9
+1.77055E+15,William,Eiford PA-C,Mammogram Ages 52 -74,,,,34:25.9
+1.77659E+15,Sarah,Herrman ARNP,Mammogram Ages 52 -74,,,,34:25.9
+1.78471E+15,Patricia,Payne-Zajac PA-C,Mammogram Ages 52 -74,,,,34:25.9
+1.78472E+15,Lillian,Pavlik ARNP,Mammogram Ages 52 -74,,,,34:25.9
+1.78627E+15,Lauren,Sauve ARNP,Mammogram Ages 52 -74,114,177,0.6441,34:25.9
+1.7962E+15,Catherine,Gambs MD,Mammogram Ages 52 -74,147,295,0.4983,34:25.9
+1.7962E+15,Rebecca,Brejcha ARNP,Mammogram Ages 52 -74,,,,34:25.9
+1.80589E+15,Vicki,Short MD,Mammogram Ages 52 -74,223,341,0.654,34:25.9
+1.80624E+15,Heather,Thomson ARNP,Mammogram Ages 52 -74,7,11,0.6364,34:25.9
+1.81237E+15,Patrick,McLaughlin MD,Mammogram Ages 52 -74,79,160,0.4938,34:25.9
+1.37045E+15,Steven,Alexander MD,Pneumovax - Smokers w/current pneumovax,48,80,0.6,35:04.1
+1.37442E+15,Bertha,Safford MD,Pneumovax - Smokers w/current pneumovax,61,87,0.7011,35:04.1
+1.37442E+15,Richard,Binder MD,Pneumovax - Smokers w/current pneumovax,31,45,0.6889,35:04.1
+1.37442E+15,S. Harry,Herdman MD,Pneumovax - Smokers w/current pneumovax,42,73,0.5753,35:04.1
+1.3745E+15,Margaret,Burden MD,Pneumovax - Smokers w/current pneumovax,17,44,0.3864,35:04.1
+1.3745E+15,Robin,Caldwell MD,Pneumovax - Smokers w/current pneumovax,72,173,0.4162,35:04.1
+1.3745E+15,David,Gavareski MD,Pneumovax - Smokers w/current pneumovax,26,59,0.4407,35:04.1
+1.3745E+15,Karen,Goodman ARNP,Pneumovax - Smokers w/current pneumovax,34,88,0.3864,35:04.1
+1.3745E+15,Larry,Hartwell MD,Pneumovax - Smokers w/current pneumovax,56,106,0.5283,35:04.1
+1.3745E+15,James,Hopper MD,Pneumovax - Smokers w/current pneumovax,19,51,0.3725,35:04.1
+1.3745E+15,John,Hruby MD,Pneumovax - Smokers w/current pneumovax,56,121,0.4628,35:04.1
+1.3745E+15,Kellie,Jacobs MD,Pneumovax - Smokers w/current pneumovax,21,49,0.4286,35:04.1
+1.3745E+15,Stephen,Lewis MD,Pneumovax - Smokers w/current pneumovax,112,252,0.4444,35:04.1
+1.3745E+15,Richard,McClenahan MD,Pneumovax - Smokers w/current pneumovax,33,78,0.4231,35:04.1
+1.3745E+15,Karen,O'Keefe MD,Pneumovax - Smokers w/current pneumovax,10,42,0.2381,35:04.1
+1.3745E+15,Bruce,Pederson MD,Pneumovax - Smokers w/current pneumovax,68,163,0.4172,35:04.1
+1.3745E+15,Melana,"Schimke, MD",Pneumovax - Smokers w/current pneumovax,8,68,0.1176,35:04.1
+1.3745E+15,Miriam,Shapiro MD,Pneumovax - Smokers w/current pneumovax,15,37,0.4054,35:04.1
+1.3745E+15,Chao-Ying,Wu MD,Pneumovax - Smokers w/current pneumovax,20,42,0.4762,35:04.1
+1.37822E+15,Steven,Bloom MD,Pneumovax - Smokers w/current pneumovax,38,91,0.4176,35:04.1
+1.37822E+15,Jason,Short MD,Pneumovax - Smokers w/current pneumovax,42,105,0.4,35:04.1
+1.4004E+15,Matt,Werner MD,Pneumovax - Smokers w/current pneumovax,52,90,0.5778,35:04.1
+1.41225E+15,Jennifer,Bates MD,Pneumovax - Smokers w/current pneumovax,42,71,0.5915,35:04.1
+1.42737E+15,Edward,Bloom MD,Pneumovax - Smokers w/current pneumovax,52,128,0.4063,35:04.1
+1.43401E+15,Jessica,Bloom MD,Pneumovax - Smokers w/current pneumovax,5,17,0.2941,35:04.1
+1.43523E+15,April,Wakefield-Pagels MD,Pneumovax - Smokers w/current pneumovax,26,51,0.5098,35:04.1
+1.44067E+15,John,Hiemstra DO,Pneumovax - Smokers w/current pneumovax,79,153,0.5163,35:04.1
+1.45553E+15,Teresa,Regier ARNP,Pneumovax - Smokers w/current pneumovax,35,149,0.2349,35:04.1
+1.37045E+15,Steven,Alexander MD,Nephropathy Assessment,126,170,0.7412,33:22.7
+1.37442E+15,Bertha,Safford MD,Nephropathy Assessment,81,104,0.7788,33:22.7
+1.48275E+15,Deborah,Hall MD,Pneumovax - Smokers w/current pneumovax,44,83,0.5301,35:04.1
+1.4913E+15,Ian,"Bonner, MD",Pneumovax - Smokers w/current pneumovax,38,131,0.2901,35:04.1
+1.51359E+15,Laura,Fox DO,Pneumovax - Smokers w/current pneumovax,17,44,0.3864,35:04.1
+1.51868E+15,Mary,Swanson MD,Pneumovax - Smokers w/current pneumovax,14,36,0.3889,35:04.1
+1.52207E+15,Rodney,Anderson MD,Pneumovax - Smokers w/current pneumovax,36,59,0.6102,35:04.1
+1.52258E+15,Anneliese,Floyd MD,Pneumovax - Smokers w/current pneumovax,22,40,0.55,35:04.1
+1.53182E+15,Elizabeth,"Gaylord ARNP, ND",Pneumovax - Smokers w/current pneumovax,12,33,0.3636,35:04.1
+1.53865E+15,Sarah,Stewart ARNP,Pneumovax - Smokers w/current pneumovax,1,9,0.1111,35:04.1
+1.54522E+15,Frederick,Gunningham MD,Pneumovax - Smokers w/current pneumovax,53,156,0.3397,35:04.1
+1.56252E+15,John,Raduege MD,Pneumovax - Smokers w/current pneumovax,44,97,0.4536,35:04.1
+1.5688E+15,Erin,Maloney PA-C,Pneumovax - Smokers w/current pneumovax,,,,35:04.1
+1.57225E+15,Renay,"Fredette MD, MSNu",Pneumovax - Smokers w/current pneumovax,35,66,0.5303,35:04.1
+1.59785E+15,Michael,Steele MD,Pneumovax - Smokers w/current pneumovax,121,323,0.3746,35:04.1
+1.61408E+15,Lisa,VanHofwegen MD,Pneumovax - Smokers w/current pneumovax,12,32,0.375,35:04.1
+1.6363E+15,Shannon,Billau DO,Pneumovax - Smokers w/current pneumovax,24,60,0.4,35:04.1
+1.66055E+15,Deborah,Roessler MD,Pneumovax - Smokers w/current pneumovax,49,100,0.49,35:04.1
+1.3745E+15,Bruce,Pederson MD,Diabetes Care Gaps ,179,200,0.895,45:33.4
+1.3745E+15,Melana,"Schimke, MD",Diabetes Care Gaps ,23,23,1,45:33.4
+1.3745E+15,Miriam,Shapiro MD,Diabetes Care Gaps ,45,53,0.8491,45:33.4
+1.3745E+15,Chao-Ying,Wu MD,Diabetes Care Gaps ,100,108,0.9259,45:33.4
+1.37822E+15,Steven,Bloom MD,Diabetes Care Gaps ,108,120,0.9,45:33.4
+1.37822E+15,Jason,Short MD,Diabetes Care Gaps ,108,120,0.9,45:33.4
+1.4004E+15,Matt,Werner MD,Diabetes Care Gaps ,84,87,0.9655,45:33.4
+1.41225E+15,Jennifer,Bates MD,Diabetes Care Gaps ,67,69,0.971,45:33.4
+1.42737E+15,Edward,Bloom MD,Diabetes Care Gaps ,133,144,0.9236,45:33.4
+1.43401E+15,Jessica,Bloom MD,Diabetes Care Gaps ,18,19,0.9474,45:33.4
+1.43523E+15,April,Wakefield-Pagels MD,Diabetes Care Gaps ,75,86,0.8721,45:33.4
+1.44067E+15,John,Hiemstra DO,Diabetes Care Gaps ,206,221,0.9321,45:33.4
+1.45553E+15,Teresa,Regier ARNP,Diabetes Care Gaps ,63,84,0.75,45:33.4
+1.48275E+15,Deborah,Hall MD,Diabetes Care Gaps ,73,82,0.8902,45:33.4
+1.4913E+15,Ian,"Bonner, MD",Diabetes Care Gaps ,76,85,0.8941,45:33.4
+1.51359E+15,Laura,Fox DO,Diabetes Care Gaps ,34,35,0.9714,45:33.4
+1.51868E+15,Mary,Swanson MD,Diabetes Care Gaps ,39,40,0.975,45:33.4
+1.52207E+15,Rodney,Anderson MD,Diabetes Care Gaps ,95,101,0.9406,45:33.4
+1.52258E+15,Anneliese,Floyd MD,Diabetes Care Gaps ,36,41,0.878,45:33.4
+1.53182E+15,Elizabeth,"Gaylord ARNP, ND",Diabetes Care Gaps ,16,19,0.8421,45:33.4
+1.53865E+15,Sarah,Stewart ARNP,Diabetes Care Gaps ,,,,45:33.4
+1.54522E+15,Frederick,Gunningham MD,Diabetes Care Gaps ,119,129,0.9225,45:33.4
+1.56252E+15,John,Raduege MD,Diabetes Care Gaps ,132,137,0.9635,45:33.4
+1.5688E+15,Erin,Maloney PA-C,Diabetes Care Gaps ,,,,45:33.4
+1.57225E+15,Renay,"Fredette MD, MSNu",Diabetes Care Gaps ,53,64,0.8281,45:33.4
+1.59785E+15,Michael,Steele MD,Diabetes Care Gaps ,224,233,0.9614,45:33.4
+1.61408E+15,Lisa,VanHofwegen MD,Diabetes Care Gaps ,26,29,0.8966,45:33.4
+1.6363E+15,Shannon,Billau DO,Diabetes Care Gaps ,48,51,0.9412,45:33.4
+1.66055E+15,Deborah,Roessler MD,Diabetes Care Gaps ,88,92,0.9565,45:33.4
+1.68536E+15,Shelby,Hein MD,Diabetes Care Gaps ,72,77,0.9351,45:33.4
+1.37045E+15,Steven,Alexander MD,DM PTS 40 to 75 w/STATIN,87,97,0.8969,44:12.3
+1.37442E+15,Bertha,Safford MD,DM PTS 40 to 75 w/STATIN,55,76,0.7237,44:12.3
+1.37442E+15,Richard,Binder MD,DM PTS 40 to 75 w/STATIN,50,61,0.8197,44:12.3
+1.37442E+15,S. Harry,Herdman MD,DM PTS 40 to 75 w/STATIN,41,59,0.6949,44:12.3
+1.3745E+15,Margaret,Burden MD,DM PTS 40 to 75 w/STATIN,24,32,0.75,44:12.3
+1.3745E+15,Robin,Caldwell MD,DM PTS 40 to 75 w/STATIN,100,128,0.7813,44:12.3
+1.3745E+15,David,Gavareski MD,DM PTS 40 to 75 w/STATIN,50,79,0.6329,44:12.3
+1.3745E+15,Karen,Goodman ARNP,DM PTS 40 to 75 w/STATIN,52,68,0.7647,44:12.3
+1.3745E+15,Larry,Hartwell MD,DM PTS 40 to 75 w/STATIN,74,100,0.74,44:12.3
+1.3745E+15,James,Hopper MD,DM PTS 40 to 75 w/STATIN,38,54,0.7037,44:12.3
+1.3745E+15,John,Hruby MD,DM PTS 40 to 75 w/STATIN,44,68,0.6471,44:12.3
+1.3745E+15,Kellie,Jacobs MD,DM PTS 40 to 75 w/STATIN,35,49,0.7143,44:12.3
+1.3745E+15,Stephen,Lewis MD,DM PTS 40 to 75 w/STATIN,101,141,0.7163,44:12.3
+1.3745E+15,Richard,McClenahan MD,DM PTS 40 to 75 w/STATIN,56,73,0.7671,44:12.3
+1.3745E+15,Karen,O'Keefe MD,DM PTS 40 to 75 w/STATIN,37,45,0.8222,44:12.3
+1.3745E+15,Bruce,Pederson MD,DM PTS 40 to 75 w/STATIN,85,148,0.5743,44:12.3
+1.3745E+15,Melana,"Schimke, MD",DM PTS 40 to 75 w/STATIN,11,19,0.5789,44:12.3
+1.3745E+15,Miriam,Shapiro MD,DM PTS 40 to 75 w/STATIN,35,41,0.8537,44:12.3
+1.3745E+15,Chao-Ying,Wu MD,DM PTS 40 to 75 w/STATIN,62,77,0.8052,44:12.3
+1.37822E+15,Steven,Bloom MD,DM PTS 40 to 75 w/STATIN,44,92,0.4783,44:12.3
+1.37822E+15,Jason,Short MD,DM PTS 40 to 75 w/STATIN,80,96,0.8333,44:12.3
+1.4004E+15,Matt,Werner MD,DM PTS 40 to 75 w/STATIN,50,68,0.7353,44:12.3
+1.41225E+15,Jennifer,Bates MD,DM PTS 40 to 75 w/STATIN,43,58,0.7414,44:12.3
+1.42737E+15,Edward,Bloom MD,DM PTS 40 to 75 w/STATIN,98,113,0.8673,44:12.3
+1.43401E+15,Jessica,Bloom MD,DM PTS 40 to 75 w/STATIN,13,15,0.8667,44:12.3
+1.43523E+15,April,Wakefield-Pagels MD,DM PTS 40 to 75 w/STATIN,51,67,0.7612,44:12.3
+1.44067E+15,John,Hiemstra DO,DM PTS 40 to 75 w/STATIN,105,131,0.8015,44:12.3
+1.45553E+15,Teresa,Regier ARNP,DM PTS 40 to 75 w/STATIN,53,74,0.7162,44:12.3
+1.48275E+15,Deborah,Hall MD,DM PTS 40 to 75 w/STATIN,55,70,0.7857,44:12.3
+1.4913E+15,Ian,"Bonner, MD",DM PTS 40 to 75 w/STATIN,50,67,0.7463,44:12.3
+1.51359E+15,Laura,Fox DO,DM PTS 40 to 75 w/STATIN,19,30,0.6333,44:12.3
+1.51868E+15,Mary,Swanson MD,DM PTS 40 to 75 w/STATIN,29,36,0.8056,44:12.3
+1.52207E+15,Rodney,Anderson MD,DM PTS 40 to 75 w/STATIN,53,64,0.8281,44:12.3
+1.52258E+15,Anneliese,Floyd MD,DM PTS 40 to 75 w/STATIN,26,36,0.7222,44:12.3
+1.53182E+15,Elizabeth,"Gaylord ARNP, ND",DM PTS 40 to 75 w/STATIN,15,18,0.8333,44:12.3
+1.53865E+15,Sarah,Stewart ARNP,DM PTS 40 to 75 w/STATIN,,,,44:12.3
+1.54522E+15,Frederick,Gunningham MD,DM PTS 40 to 75 w/STATIN,58,93,0.6237,44:12.3
+1.56252E+15,John,Raduege MD,DM PTS 40 to 75 w/STATIN,96,113,0.8496,44:12.3
+1.5688E+15,Erin,Maloney PA-C,DM PTS 40 to 75 w/STATIN,,,,44:12.3
+1.57225E+15,Renay,"Fredette MD, MSNu",DM PTS 40 to 75 w/STATIN,33,42,0.7857,44:12.3
+1.59785E+15,Michael,Steele MD,DM PTS 40 to 75 w/STATIN,108,152,0.7105,44:12.3
+1.37045E+15,Steven,Alexander MD,Smoking Cessation Advice or Treatment ,11,13,0.8462,33:28.5
+1.37442E+15,Bertha,Safford MD,Smoking Cessation Advice or Treatment ,15,17,0.8824,33:28.5
+1.37442E+15,Richard,Binder MD,Smoking Cessation Advice or Treatment ,4,7,0.5714,33:28.5
+1.37442E+15,S. Harry,Herdman MD,Smoking Cessation Advice or Treatment ,2,3,0.6667,33:28.5
+1.3745E+15,Margaret,Burden MD,Smoking Cessation Advice or Treatment ,,1,,33:28.5
+1.3745E+15,Robin,Caldwell MD,Smoking Cessation Advice or Treatment ,8,11,0.7273,33:28.5
+1.3745E+15,David,Gavareski MD,Smoking Cessation Advice or Treatment ,8,9,0.8889,33:28.5
+1.3745E+15,Karen,Goodman ARNP,Smoking Cessation Advice or Treatment ,2,4,0.5,33:28.5
+1.3745E+15,Larry,Hartwell MD,Smoking Cessation Advice or Treatment ,1,9,0.1111,33:28.5
+1.3745E+15,James,Hopper MD,Smoking Cessation Advice or Treatment ,4,4,1,33:28.5
+1.3745E+15,John,Hruby MD,Smoking Cessation Advice or Treatment ,10,13,0.7692,33:28.5
+1.3745E+15,Kellie,Jacobs MD,Smoking Cessation Advice or Treatment ,1,1,1,33:28.5
+1.3745E+15,Stephen,Lewis MD,Smoking Cessation Advice or Treatment ,24,27,0.8889,33:28.5
+1.3745E+15,Richard,McClenahan MD,Smoking Cessation Advice or Treatment ,7,8,0.875,33:28.5
+1.3745E+15,Karen,O'Keefe MD,Smoking Cessation Advice or Treatment ,2,2,1,33:28.5
+1.3745E+15,Bruce,Pederson MD,Smoking Cessation Advice or Treatment ,1,15,0.0667,33:28.5
+1.3745E+15,Melana,"Schimke, MD",Smoking Cessation Advice or Treatment ,1,2,0.5,33:28.5
+1.3745E+15,Miriam,Shapiro MD,Smoking Cessation Advice or Treatment ,1,1,1,33:28.5
+1.3745E+15,Chao-Ying,Wu MD,Smoking Cessation Advice or Treatment ,2,7,0.2857,33:28.5
+1.37822E+15,Steven,Bloom MD,Smoking Cessation Advice or Treatment ,8,14,0.5714,33:28.5
+1.37822E+15,Jason,Short MD,Smoking Cessation Advice or Treatment ,4,6,0.6667,33:28.5
+1.4004E+15,Matt,Werner MD,Smoking Cessation Advice or Treatment ,8,9,0.8889,33:28.5
+1.41225E+15,Jennifer,Bates MD,Smoking Cessation Advice or Treatment ,9,10,0.9,33:28.5
+1.42737E+15,Edward,Bloom MD,Smoking Cessation Advice or Treatment ,3,5,0.6,33:28.5
+1.43401E+15,Jessica,Bloom MD,Smoking Cessation Advice or Treatment ,1,1,1,33:28.5
+1.37045E+15,Steven,Alexander MD,Pap Smear Report,136,283,0.4806,45:39.7
+1.37442E+15,Bertha,Safford MD,Pap Smear Report,248,318,0.7799,45:39.7
+1.37442E+15,Richard,Binder MD,Pap Smear Report,116,173,0.6705,45:39.7
+1.37442E+15,S. Harry,Herdman MD,Pap Smear Report,358,553,0.6474,45:39.7
+1.3745E+15,Margaret,Burden MD,Pap Smear Report,340,566,0.6007,45:39.7
+1.3745E+15,Robin,Caldwell MD,Pap Smear Report,168,481,0.3493,45:39.7
+1.3745E+15,David,Gavareski MD,Pap Smear Report,228,329,0.693,45:39.7
+1.3745E+15,Karen,Goodman ARNP,Pap Smear Report,698,1115,0.626,45:39.7
+1.3745E+15,Larry,Hartwell MD,Pap Smear Report,88,241,0.3651,45:39.7
+1.3745E+15,James,Hopper MD,Pap Smear Report,94,185,0.5081,45:39.7
+1.3745E+15,John,Hruby MD,Pap Smear Report,90,142,0.6338,45:39.7
+1.3745E+15,Kellie,Jacobs MD,Pap Smear Report,544,684,0.7953,45:39.7
+1.3745E+15,Stephen,Lewis MD,Pap Smear Report,287,399,0.7193,45:39.7
+1.3745E+15,Richard,McClenahan MD,Pap Smear Report,182,289,0.6298,45:39.7
+1.3745E+15,Karen,O'Keefe MD,Pap Smear Report,371,446,0.8318,45:39.7
+1.3745E+15,Bruce,Pederson MD,Pap Smear Report,108,295,0.3661,45:39.7
+1.3745E+15,Melana,"Schimke, MD",Pap Smear Report,395,654,0.604,45:39.7
+1.3745E+15,Miriam,Shapiro MD,Pap Smear Report,390,501,0.7784,45:39.7
+1.3745E+15,Chao-Ying,Wu MD,Pap Smear Report,204,337,0.6053,45:39.7
+1.37822E+15,Steven,Bloom MD,Pap Smear Report,109,294,0.3707,45:39.7
+1.37822E+15,Jason,Short MD,Pap Smear Report,218,370,0.5892,45:39.7
+1.4004E+15,Matt,Werner MD,Pap Smear Report,303,501,0.6048,45:39.7
+1.41225E+15,Jennifer,Bates MD,Pap Smear Report,331,414,0.7995,45:39.7
+1.42737E+15,Edward,Bloom MD,Pap Smear Report,300,462,0.6494,45:39.7
+1.43401E+15,Jessica,Bloom MD,Pap Smear Report,322,399,0.807,45:39.7
+1.43523E+15,April,Wakefield-Pagels MD,Pap Smear Report,523,810,0.6457,45:39.7
+1.44067E+15,John,Hiemstra DO,Pap Smear Report,240,429,0.5594,45:39.7
+1.45553E+15,Teresa,Regier ARNP,Pap Smear Report,218,469,0.4648,45:39.7
+1.48275E+15,Deborah,Hall MD,Pap Smear Report,532,819,0.6496,45:39.7
+1.4913E+15,Ian,"Bonner, MD",Pap Smear Report,305,544,0.5607,45:39.7
+1.51359E+15,Laura,Fox DO,Pap Smear Report,393,575,0.6835,45:39.7
+1.51868E+15,Mary,Swanson MD,Pap Smear Report,314,416,0.7548,45:39.7
+1.52207E+15,Rodney,Anderson MD,Pap Smear Report,227,279,0.8136,45:39.7
+1.52258E+15,Anneliese,Floyd MD,Pap Smear Report,394,538,0.7323,45:39.7
+1.53182E+15,Elizabeth,"Gaylord ARNP, ND",Pap Smear Report,383,537,0.7132,45:39.7
+1.53865E+15,Sarah,Stewart ARNP,Pap Smear Report,63,133,0.4737,45:39.7
+1.54522E+15,Frederick,Gunningham MD,Pap Smear Report,252,389,0.6478,45:39.7
+1.56252E+15,John,Raduege MD,Pap Smear Report,227,368,0.6168,45:39.7
+1.5688E+15,Erin,Maloney PA-C,Pap Smear Report,,,,45:39.7
+1.57225E+15,Renay,"Fredette MD, MSNu",Pap Smear Report,260,370,0.7027,45:39.7
+1.59785E+15,Michael,Steele MD,Pap Smear Report,231,430,0.5372,45:39.7
+1.61408E+15,Lisa,VanHofwegen MD,Pap Smear Report,265,388,0.683,45:39.7
+1.6363E+15,Shannon,Billau DO,Pap Smear Report,489,808,0.6052,45:39.7
+1.66055E+15,Deborah,Roessler MD,Pap Smear Report,639,1048,0.6097,45:39.7
+1.68536E+15,Shelby,Hein MD,Pap Smear Report,525,810,0.6481,45:39.7
+1.69133E+15,Rory,Bradt DO,Pap Smear Report,221,433,0.5104,45:39.7
+1.69254E+15,Greg,Anderson MD,Pap Smear Report,121,210,0.5762,45:39.7
+1.48275E+15,Deborah,Hall MD,Blood Pressure NOT Controlled  >140/90 mm Hg    ,8,82,0.0976,32:55.2
+1.4913E+15,Ian,"Bonner, MD",Blood Pressure NOT Controlled  >140/90 mm Hg    ,11,85,0.1294,32:55.2
+1.51359E+15,Laura,Fox DO,Blood Pressure NOT Controlled  >140/90 mm Hg    ,5,35,0.1429,32:55.2
+1.51868E+15,Mary,Swanson MD,Blood Pressure NOT Controlled  >140/90 mm Hg    ,4,40,0.1,32:55.2
+1.52207E+15,Rodney,Anderson MD,Blood Pressure NOT Controlled  >140/90 mm Hg    ,6,101,0.0594,32:55.2
+1.52258E+15,Anneliese,Floyd MD,Blood Pressure NOT Controlled  >140/90 mm Hg    ,7,41,0.1707,32:55.2
+1.53182E+15,Elizabeth,"Gaylord ARNP, ND",Blood Pressure NOT Controlled  >140/90 mm Hg    ,1,19,0.0526,32:55.2
+1.53865E+15,Sarah,Stewart ARNP,Blood Pressure NOT Controlled  >140/90 mm Hg    ,,,,32:55.2
+1.54522E+15,Frederick,Gunningham MD,Blood Pressure NOT Controlled  >140/90 mm Hg    ,24,129,0.186,32:55.2
+1.56252E+15,John,Raduege MD,Blood Pressure NOT Controlled  >140/90 mm Hg    ,16,137,0.1168,32:55.2
+1.5688E+15,Erin,Maloney PA-C,Blood Pressure NOT Controlled  >140/90 mm Hg    ,,,,32:55.2
+1.57225E+15,Renay,"Fredette MD, MSNu",Blood Pressure NOT Controlled  >140/90 mm Hg    ,6,64,0.0938,32:55.2
+1.59785E+15,Michael,Steele MD,Blood Pressure NOT Controlled  >140/90 mm Hg    ,40,233,0.1717,32:55.2
+1.61408E+15,Lisa,VanHofwegen MD,Blood Pressure NOT Controlled  >140/90 mm Hg    ,3,29,0.1034,32:55.2
+1.6363E+15,Shannon,Billau DO,Blood Pressure NOT Controlled  >140/90 mm Hg    ,7,51,0.1373,32:55.2
+1.66055E+15,Deborah,Roessler MD,Blood Pressure NOT Controlled  >140/90 mm Hg    ,9,92,0.0978,32:55.2
+1.68536E+15,Shelby,Hein MD,Blood Pressure NOT Controlled  >140/90 mm Hg    ,10,77,0.1299,32:55.2
+1.69133E+15,Rory,Bradt DO,Blood Pressure NOT Controlled  >140/90 mm Hg    ,10,96,0.1042,32:55.2
+1.69254E+15,Greg,Anderson MD,Blood Pressure NOT Controlled  >140/90 mm Hg    ,15,103,0.1456,32:55.2
+1.69701E+15,Claudia,Rey MD,Blood Pressure NOT Controlled  >140/90 mm Hg    ,11,98,0.1122,32:55.2
+1.69943E+15,Erik,Bylund MD,Blood Pressure NOT Controlled  >140/90 mm Hg    ,32,124,0.2581,32:55.2
+1.69943E+15,Martin,Dubek MD,Blood Pressure NOT Controlled  >140/90 mm Hg    ,,,,32:55.2
+1.69943E+15,Roger,Estep MD,Blood Pressure NOT Controlled  >140/90 mm Hg    ,17,87,0.1954,32:55.2
+1.69943E+15,Jonathan,Gamson MD,Blood Pressure NOT Controlled  >140/90 mm Hg    ,48,152,0.3158,32:55.2
+1.69943E+15,Janet,Hansom MD,Blood Pressure NOT Controlled  >140/90 mm Hg    ,13,67,0.194,32:55.2
+1.69943E+15,Lucia,Muller MD,Blood Pressure NOT Controlled  >140/90 mm Hg    ,12,39,0.3077,32:55.2
+1.69943E+15,Jonathan,Ploudre MD,Blood Pressure NOT Controlled  >140/90 mm Hg    ,21,109,0.1927,32:55.2
+1.69943E+15,L Sloane,Winkes MD,Blood Pressure NOT Controlled  >140/90 mm Hg    ,11,49,0.2245,32:55.2
+1.69943E+15,Joseph,McConahey PA-C,Blood Pressure NOT Controlled  >140/90 mm Hg    ,,,,32:55.2
+1.69943E+15,Erinn,Case ARNP,Blood Pressure NOT Controlled  >140/90 mm Hg    ,10,57,0.1754,32:55.2
+1.70464E+15,Lisa,Brodsky,Blood Pressure NOT Controlled  >140/90 mm Hg    ,1,18,0.0556,32:55.2
+1.7054E+15,Jessica,Klassen ARNP,Blood Pressure NOT Controlled  >140/90 mm Hg    ,4,24,0.1667,32:55.2
+1.72069E+15,Margaret,Sweeney,Blood Pressure NOT Controlled  >140/90 mm Hg    ,8,71,0.1127,32:55.2
+1.72069E+15,Franklin,Bjorseth,Blood Pressure NOT Controlled  >140/90 mm Hg    ,26,106,0.2453,32:55.2
+1.72069E+15,Michael,James,Blood Pressure NOT Controlled  >140/90 mm Hg    ,37,141,0.2624,32:55.2
+1.72069E+15,Robert,Rieger,Blood Pressure NOT Controlled  >140/90 mm Hg    ,9,71,0.1268,32:55.2
+1.72121E+15,Meghan,Lelonek,Blood Pressure NOT Controlled  >140/90 mm Hg    ,5,54,0.0926,32:55.2
+1.7443E+15,Sally,McPherson ARNP,Blood Pressure NOT Controlled  >140/90 mm Hg    ,17,82,0.2073,32:55.2
+1.74454E+15,Michael,Fleming PA-C,Blood Pressure NOT Controlled  >140/90 mm Hg    ,2,23,0.087,32:55.2
+1.75121E+15,Sara,Bowling,Blood Pressure NOT Controlled  >140/90 mm Hg    ,6,34,0.1765,32:55.2
+1.77055E+15,William,Eiford PA-C,Blood Pressure NOT Controlled  >140/90 mm Hg    ,,,,32:55.2
+1.77659E+15,Sarah,Herrman ARNP,Blood Pressure NOT Controlled  >140/90 mm Hg    ,,,,32:55.2
+1.78471E+15,Patricia,Payne-Zajac PA-C,Blood Pressure NOT Controlled  >140/90 mm Hg    ,,,,32:55.2
+1.78472E+15,Lillian,Pavlik ARNP,Blood Pressure NOT Controlled  >140/90 mm Hg    ,,,,32:55.2
+1.78627E+15,Lauren,Sauve ARNP,Blood Pressure NOT Controlled  >140/90 mm Hg    ,30,89,0.3371,32:55.2
+1.7962E+15,Catherine,Gambs MD,Blood Pressure NOT Controlled  >140/90 mm Hg    ,26,95,0.2737,32:55.2
+1.7962E+15,Rebecca,Brejcha ARNP,Blood Pressure NOT Controlled  >140/90 mm Hg    ,,,,32:55.2
+1.80589E+15,Vicki,Short MD,Blood Pressure NOT Controlled  >140/90 mm Hg    ,16,79,0.2025,32:55.2
+1.80624E+15,Heather,Thomson ARNP,Blood Pressure NOT Controlled  >140/90 mm Hg    ,,2,,32:55.2
+1.81237E+15,Patrick,McLaughlin MD,Blood Pressure NOT Controlled  >140/90 mm Hg    ,7,38,0.1842,32:55.2
+1.37045E+15,Steven,Alexander MD,Advance Directive - Patients >55yrs w/Advance Directive ,179,719,0.249,34:44.1
+1.37442E+15,Bertha,Safford MD,Advance Directive - Patients >55yrs w/Advance Directive ,103,526,0.1958,34:44.1
+1.37442E+15,Richard,Binder MD,Advance Directive - Patients >55yrs w/Advance Directive ,144,530,0.2717,34:44.1
+1.37442E+15,S. Harry,Herdman MD,Advance Directive - Patients >55yrs w/Advance Directive ,93,674,0.138,34:44.1
+1.3745E+15,Margaret,Burden MD,Advance Directive - Patients >55yrs w/Advance Directive ,33,353,0.0935,34:44.1
+1.3745E+15,Robin,Caldwell MD,Advance Directive - Patients >55yrs w/Advance Directive ,102,912,0.1118,34:44.1
+1.3745E+15,David,Gavareski MD,Advance Directive - Patients >55yrs w/Advance Directive ,66,618,0.1068,34:44.1
+1.3745E+15,Karen,Goodman ARNP,Advance Directive - Patients >55yrs w/Advance Directive ,40,671,0.0596,34:44.1
+1.3745E+15,Larry,Hartwell MD,Advance Directive - Patients >55yrs w/Advance Directive ,72,728,0.0989,34:44.1
+1.3745E+15,James,Hopper MD,Advance Directive - Patients >55yrs w/Advance Directive ,56,477,0.1174,34:44.1
+1.3745E+15,John,Hruby MD,Advance Directive - Patients >55yrs w/Advance Directive ,70,537,0.1304,34:44.1
+1.3745E+15,Kellie,Jacobs MD,Advance Directive - Patients >55yrs w/Advance Directive ,83,502,0.1653,34:44.1
+1.3745E+15,Stephen,Lewis MD,Advance Directive - Patients >55yrs w/Advance Directive ,81,854,0.0948,34:44.1
+1.3745E+15,Richard,McClenahan MD,Advance Directive - Patients >55yrs w/Advance Directive ,105,694,0.1513,34:44.1
+1.3745E+15,Karen,O'Keefe MD,Advance Directive - Patients >55yrs w/Advance Directive ,67,394,0.1701,34:44.1
+1.3745E+15,Bruce,Pederson MD,Advance Directive - Patients >55yrs w/Advance Directive ,63,1076,0.0586,34:44.1
+1.3745E+15,Melana,"Schimke, MD",Advance Directive - Patients >55yrs w/Advance Directive ,22,289,0.0761,34:44.1
+1.3745E+15,Miriam,Shapiro MD,Advance Directive - Patients >55yrs w/Advance Directive ,52,473,0.1099,34:44.1
+1.3745E+15,Chao-Ying,Wu MD,Advance Directive - Patients >55yrs w/Advance Directive ,257,691,0.3719,34:44.1
+1.37822E+15,Steven,Bloom MD,Advance Directive - Patients >55yrs w/Advance Directive ,56,567,0.0988,34:44.1
+1.37822E+15,Jason,Short MD,Advance Directive - Patients >55yrs w/Advance Directive ,71,665,0.1068,34:44.1
+1.4004E+15,Matt,Werner MD,Advance Directive - Patients >55yrs w/Advance Directive ,54,611,0.0884,34:44.1
+1.37045E+15,Steven,Alexander MD,HgbA1c < 7.0                     ,100,170,0.5882,33:11.6
+1.37442E+15,Bertha,Safford MD,HgbA1c < 7.0                     ,44,104,0.4231,33:11.6
+1.37442E+15,Richard,Binder MD,HgbA1c < 7.0                     ,49,78,0.6282,33:11.6
+1.37442E+15,S. Harry,Herdman MD,HgbA1c < 7.0                     ,49,87,0.5632,33:11.6
+1.3745E+15,Margaret,Burden MD,HgbA1c < 7.0                     ,16,39,0.4103,33:11.6
+1.3745E+15,Robin,Caldwell MD,HgbA1c < 7.0                     ,87,191,0.4555,33:11.6
+1.3745E+15,David,Gavareski MD,HgbA1c < 7.0                     ,77,111,0.6937,33:11.6
+1.3745E+15,Karen,Goodman ARNP,HgbA1c < 7.0                     ,47,80,0.5875,33:11.6
+1.3745E+15,Larry,Hartwell MD,HgbA1c < 7.0                     ,82,154,0.5325,33:11.6
+1.3745E+15,James,Hopper MD,HgbA1c < 7.0                     ,38,75,0.5067,33:11.6
+1.3745E+15,John,Hruby MD,HgbA1c < 7.0                     ,55,103,0.534,33:11.6
+1.3745E+15,Kellie,Jacobs MD,HgbA1c < 7.0                     ,30,59,0.5085,33:11.6
+1.3745E+15,Stephen,Lewis MD,HgbA1c < 7.0                     ,112,186,0.6022,33:11.6
+1.3745E+15,Richard,McClenahan MD,HgbA1c < 7.0                     ,50,101,0.495,33:11.6
+1.3745E+15,Karen,O'Keefe MD,HgbA1c < 7.0                     ,25,56,0.4464,33:11.6
+1.3745E+15,Bruce,Pederson MD,HgbA1c < 7.0                     ,74,200,0.37,33:11.6
+1.3745E+15,Melana,"Schimke, MD",HgbA1c < 7.0                     ,11,23,0.4783,33:11.6
+1.3745E+15,Miriam,Shapiro MD,HgbA1c < 7.0                     ,28,53,0.5283,33:11.6
+1.3745E+15,Chao-Ying,Wu MD,HgbA1c < 7.0                     ,53,108,0.4907,33:11.6
+1.37822E+15,Steven,Bloom MD,HgbA1c < 7.0                     ,45,120,0.375,33:11.6
+1.37822E+15,Jason,Short MD,HgbA1c < 7.0                     ,66,120,0.55,33:11.6
+1.4004E+15,Matt,Werner MD,HgbA1c < 7.0                     ,32,87,0.3678,33:11.6
+1.41225E+15,Jennifer,Bates MD,HgbA1c < 7.0                     ,36,69,0.5217,33:11.6
+1.42737E+15,Edward,Bloom MD,HgbA1c < 7.0                     ,82,144,0.5694,33:11.6
+1.43401E+15,Jessica,Bloom MD,HgbA1c < 7.0                     ,14,19,0.7368,33:11.6
+1.43523E+15,April,Wakefield-Pagels MD,HgbA1c < 7.0                     ,45,86,0.5233,33:11.6
+1.44067E+15,John,Hiemstra DO,HgbA1c < 7.0                     ,126,221,0.5701,33:11.6
+1.45553E+15,Teresa,Regier ARNP,HgbA1c < 7.0                     ,44,84,0.5238,33:11.6
+1.48275E+15,Deborah,Hall MD,HgbA1c < 7.0                     ,51,82,0.622,33:11.6
+1.4913E+15,Ian,"Bonner, MD",HgbA1c < 7.0                     ,41,85,0.4824,33:11.6
+1.51359E+15,Laura,Fox DO,HgbA1c < 7.0                     ,15,35,0.4286,33:11.6
+1.51868E+15,Mary,Swanson MD,HgbA1c < 7.0                     ,23,40,0.575,33:11.6
+1.52207E+15,Rodney,Anderson MD,HgbA1c < 7.0                     ,57,101,0.5644,33:11.6
+1.52258E+15,Anneliese,Floyd MD,HgbA1c < 7.0                     ,20,41,0.4878,33:11.6
+1.53182E+15,Elizabeth,"Gaylord ARNP, ND",HgbA1c < 7.0                     ,10,19,0.5263,33:11.6
+1.53865E+15,Sarah,Stewart ARNP,HgbA1c < 7.0                     ,,,,33:11.6
+1.54522E+15,Frederick,Gunningham MD,Pneumovax - DM patients w/current pneumovax,100,129,0.7752,34:50.3
+1.56252E+15,John,Raduege MD,Pneumovax - DM patients w/current pneumovax,119,137,0.8686,34:50.3
+1.5688E+15,Erin,Maloney PA-C,Pneumovax - DM patients w/current pneumovax,,,,34:50.3
+1.57225E+15,Renay,"Fredette MD, MSNu",Pneumovax - DM patients w/current pneumovax,53,64,0.8281,34:50.3
+1.59785E+15,Michael,Steele MD,Pneumovax - DM patients w/current pneumovax,178,233,0.7639,34:50.3
+1.61408E+15,Lisa,VanHofwegen MD,Pneumovax - DM patients w/current pneumovax,27,29,0.931,34:50.3
+1.6363E+15,Shannon,Billau DO,Pneumovax - DM patients w/current pneumovax,39,51,0.7647,34:50.3
+1.66055E+15,Deborah,Roessler MD,Pneumovax - DM patients w/current pneumovax,74,92,0.8043,34:50.3
+1.68536E+15,Shelby,Hein MD,Pneumovax - DM patients w/current pneumovax,63,77,0.8182,34:50.3
+1.69133E+15,Rory,Bradt DO,Pneumovax - DM patients w/current pneumovax,71,96,0.7396,34:50.3
+1.69254E+15,Greg,Anderson MD,Pneumovax - DM patients w/current pneumovax,83,103,0.8058,34:50.3
+1.69701E+15,Claudia,Rey MD,Pneumovax - DM patients w/current pneumovax,74,98,0.7551,34:50.3
+1.69943E+15,Erik,Bylund MD,Pneumovax - DM patients w/current pneumovax,77,124,0.621,34:50.3
+1.69943E+15,Martin,Dubek MD,Pneumovax - DM patients w/current pneumovax,,,,34:50.3
+1.69943E+15,Roger,Estep MD,Pneumovax - DM patients w/current pneumovax,70,87,0.8046,34:50.3
+1.69943E+15,Jonathan,Gamson MD,Pneumovax - DM patients w/current pneumovax,106,152,0.6974,34:50.3
+1.69943E+15,Janet,Hansom MD,Pneumovax - DM patients w/current pneumovax,56,67,0.8358,34:50.3
+1.69943E+15,Lucia,Muller MD,Pneumovax - DM patients w/current pneumovax,32,39,0.8205,34:50.3
+1.69943E+15,Jonathan,Ploudre MD,Pneumovax - DM patients w/current pneumovax,105,109,0.9633,34:50.3
+1.69943E+15,L Sloane,Winkes MD,Pneumovax - DM patients w/current pneumovax,47,49,0.9592,34:50.3
+1.69943E+15,Joseph,McConahey PA-C,Pneumovax - DM patients w/current pneumovax,,,,34:50.3
+1.69943E+15,Erinn,Case ARNP,Pneumovax - DM patients w/current pneumovax,37,57,0.6491,34:50.3
+1.70464E+15,Lisa,Brodsky,Pneumovax - DM patients w/current pneumovax,9,18,0.5,34:50.3
+1.7054E+15,Jessica,Klassen ARNP,Pneumovax - DM patients w/current pneumovax,4,24,0.1667,34:50.3
+1.72069E+15,Margaret,Sweeney,Pneumovax - DM patients w/current pneumovax,54,71,0.7606,34:50.3
+1.72069E+15,Franklin,Bjorseth,Pneumovax - DM patients w/current pneumovax,72,106,0.6792,34:50.3
+1.37045E+15,Steven,Alexander MD,Hypertension Patients 18-59 years BP <140/90,76,89,0.8539,33:32.7
+1.37442E+15,Bertha,Safford MD,Hypertension Patients 18-59 years BP <140/90,41,57,0.7193,33:32.7
+1.37442E+15,Richard,Binder MD,Hypertension Patients 18-59 years BP <140/90,70,74,0.9459,33:32.7
+1.37442E+15,S. Harry,Herdman MD,Hypertension Patients 18-59 years BP <140/90,128,178,0.7191,33:32.7
+1.3745E+15,Margaret,Burden MD,Hypertension Patients 18-59 years BP <140/90,59,71,0.831,33:32.7
+1.3745E+15,Robin,Caldwell MD,Hypertension Patients 18-59 years BP <140/90,147,179,0.8212,33:32.7
+1.3745E+15,David,Gavareski MD,Hypertension Patients 18-59 years BP <140/90,94,122,0.7705,33:32.7
+1.3745E+15,Karen,Goodman ARNP,Hypertension Patients 18-59 years BP <140/90,79,99,0.798,33:32.7
+1.3745E+15,Larry,Hartwell MD,Hypertension Patients 18-59 years BP <140/90,83,120,0.6917,33:32.7
+1.3745E+15,James,Hopper MD,Hypertension Patients 18-59 years BP <140/90,35,57,0.614,33:32.7
+1.3745E+15,John,Hruby MD,Hypertension Patients 18-59 years BP <140/90,32,45,0.7111,33:32.7
+1.3745E+15,Kellie,Jacobs MD,Hypertension Patients 18-59 years BP <140/90,59,71,0.831,33:32.7
+1.3745E+15,Stephen,Lewis MD,Hypertension Patients 18-59 years BP <140/90,151,206,0.733,33:32.7
+1.3745E+15,Richard,McClenahan MD,Hypertension Patients 18-59 years BP <140/90,89,114,0.7807,33:32.7
+1.3745E+15,Karen,O'Keefe MD,Hypertension Patients 18-59 years BP <140/90,49,66,0.7424,33:32.7
+1.3745E+15,Bruce,Pederson MD,Hypertension Patients 18-59 years BP <140/90,87,155,0.5613,33:32.7
+1.3745E+15,Melana,"Schimke, MD",Hypertension Patients 18-59 years BP <140/90,35,48,0.7292,33:32.7
+1.3745E+15,Miriam,Shapiro MD,Hypertension Patients 18-59 years BP <140/90,60,76,0.7895,33:32.7
+1.3745E+15,Chao-Ying,Wu MD,Hypertension Patients 18-59 years BP <140/90,87,101,0.8614,33:32.7
+1.37822E+15,Steven,Bloom MD,Hypertension Patients 18-59 years BP <140/90,89,130,0.6846,33:32.7
+1.37822E+15,Jason,Short MD,Hypertension Patients 18-59 years BP <140/90,99,137,0.7226,33:32.7
+1.4004E+15,Matt,Werner MD,Hypertension Patients 18-59 years BP <140/90,99,138,0.7174,33:32.7
+1.41225E+15,Jennifer,Bates MD,Hypertension Patients 18-59 years BP <140/90,64,74,0.8649,33:32.7
+1.42737E+15,Edward,Bloom MD,Hypertension Patients 18-59 years BP <140/90,147,204,0.7206,33:32.7
+1.43401E+15,Jessica,Bloom MD,Hypertension Patients 18-59 years BP <140/90,27,37,0.7297,33:32.7
+1.43523E+15,April,Wakefield-Pagels MD,Hypertension Patients 18-59 years BP <140/90,81,102,0.7941,33:32.7
+1.44067E+15,John,Hiemstra DO,Hypertension Patients 18-59 years BP <140/90,132,163,0.8098,33:32.7
+1.45553E+15,Teresa,Regier ARNP,Hypertension Patients 18-59 years BP <140/90,77,109,0.7064,33:32.7
+1.48275E+15,Deborah,Hall MD,Hypertension Patients 18-59 years BP <140/90,73,101,0.7228,33:32.7
+1.4913E+15,Ian,"Bonner, MD",Hypertension Patients 18-59 years BP <140/90,87,119,0.7311,33:32.7
+1.51359E+15,Laura,Fox DO,Hypertension Patients 18-59 years BP <140/90,53,69,0.7681,33:32.7
+1.51868E+15,Mary,Swanson MD,Hypertension Patients 18-59 years BP <140/90,41,56,0.7321,33:32.7
+1.52207E+15,Rodney,Anderson MD,Hypertension Patients 18-59 years BP <140/90,79,102,0.7745,33:32.7
+1.52258E+15,Anneliese,Floyd MD,Hypertension Patients 18-59 years BP <140/90,48,56,0.8571,33:32.7
+1.53182E+15,Elizabeth,"Gaylord ARNP, ND",Hypertension Patients 18-59 years BP <140/90,59,73,0.8082,33:32.7
+1.53865E+15,Sarah,Stewart ARNP,Hypertension Patients 18-59 years BP <140/90,1,2,0.5,33:32.7
+1.54522E+15,Frederick,Gunningham MD,Hypertension Patients 18-59 years BP <140/90,79,104,0.7596,33:32.7
+1.56252E+15,John,Raduege MD,Hypertension Patients 18-59 years BP <140/90,90,101,0.8911,33:32.7
+1.5688E+15,Erin,Maloney PA-C,Hypertension Patients 18-59 years BP <140/90,,,,33:32.7
+1.57225E+15,Renay,"Fredette MD, MSNu",Hypertension Patients 18-59 years BP <140/90,55,66,0.8333,33:32.7
+1.59785E+15,Michael,Steele MD,Hypertension Patients 18-59 years BP <140/90,134,169,0.7929,33:32.7
+1.61408E+15,Lisa,VanHofwegen MD,Hypertension Patients 18-59 years BP <140/90,27,32,0.8438,33:32.7
+1.6363E+15,Shannon,Billau DO,Hypertension Patients 18-59 years BP <140/90,83,98,0.8469,33:32.7
+1.66055E+15,Deborah,Roessler MD,Hypertension Patients 18-59 years BP <140/90,99,113,0.8761,33:32.7
+1.68536E+15,Shelby,Hein MD,Hypertension Patients 18-59 years BP <140/90,75,94,0.7979,33:32.7
+1.41225E+15,Jennifer,Bates MD,Advance Directive - Patients >55yrs w/Advance Directive ,39,337,0.1157,34:44.1
+1.42737E+15,Edward,Bloom MD,Advance Directive - Patients >55yrs w/Advance Directive ,54,833,0.0648,34:44.1
+1.43401E+15,Jessica,Bloom MD,Advance Directive - Patients >55yrs w/Advance Directive ,16,178,0.0899,34:44.1
+1.43523E+15,April,Wakefield-Pagels MD,Advance Directive - Patients >55yrs w/Advance Directive ,51,518,0.0985,34:44.1
+1.44067E+15,John,Hiemstra DO,Advance Directive - Patients >55yrs w/Advance Directive ,144,1134,0.127,34:44.1
+1.45553E+15,Teresa,Regier ARNP,Advance Directive - Patients >55yrs w/Advance Directive ,21,446,0.0471,34:44.1
+1.48275E+15,Deborah,Hall MD,Advance Directive - Patients >55yrs w/Advance Directive ,60,574,0.1045,34:44.1
+1.4913E+15,Ian,"Bonner, MD",Advance Directive - Patients >55yrs w/Advance Directive ,35,577,0.0607,34:44.1
+1.51359E+15,Laura,Fox DO,Advance Directive - Patients >55yrs w/Advance Directive ,27,337,0.0801,34:44.1
+1.51868E+15,Mary,Swanson MD,Advance Directive - Patients >55yrs w/Advance Directive ,43,236,0.1822,34:44.1
+1.52207E+15,Rodney,Anderson MD,Advance Directive - Patients >55yrs w/Advance Directive ,85,852,0.0998,34:44.1
+1.52258E+15,Anneliese,Floyd MD,Advance Directive - Patients >55yrs w/Advance Directive ,33,278,0.1187,34:44.1
+1.53182E+15,Elizabeth,"Gaylord ARNP, ND",Advance Directive - Patients >55yrs w/Advance Directive ,26,232,0.1121,34:44.1
+1.53865E+15,Sarah,Stewart ARNP,Advance Directive - Patients >55yrs w/Advance Directive ,,5,,34:44.1
+1.54522E+15,Frederick,Gunningham MD,Advance Directive - Patients >55yrs w/Advance Directive ,38,455,0.0835,34:44.1
+1.56252E+15,John,Raduege MD,Advance Directive - Patients >55yrs w/Advance Directive ,95,840,0.1131,34:44.1
+1.5688E+15,Erin,Maloney PA-C,Advance Directive - Patients >55yrs w/Advance Directive ,,,,34:44.1
+1.57225E+15,Renay,"Fredette MD, MSNu",Advance Directive - Patients >55yrs w/Advance Directive ,36,300,0.12,34:44.1
+1.59785E+15,Michael,Steele MD,Advance Directive - Patients >55yrs w/Advance Directive ,120,1057,0.1135,34:44.1
+1.61408E+15,Lisa,VanHofwegen MD,Advance Directive - Patients >55yrs w/Advance Directive ,31,254,0.122,34:44.1
+1.6363E+15,Shannon,Billau DO,Advance Directive - Patients >55yrs w/Advance Directive ,63,410,0.1537,34:44.1
+1.66055E+15,Deborah,Roessler MD,Advance Directive - Patients >55yrs w/Advance Directive ,82,682,0.1202,34:44.1
+1.68536E+15,Shelby,Hein MD,Advance Directive - Patients >55yrs w/Advance Directive ,77,592,0.1301,34:44.1
+1.69133E+15,Rory,Bradt DO,Advance Directive - Patients >55yrs w/Advance Directive ,50,582,0.0859,34:44.1
+1.69254E+15,Greg,Anderson MD,Advance Directive - Patients >55yrs w/Advance Directive ,97,652,0.1488,34:44.1
+1.69701E+15,Claudia,Rey MD,Advance Directive - Patients >55yrs w/Advance Directive ,25,427,0.0585,34:44.1
+1.69943E+15,Erik,Bylund MD,Advance Directive - Patients >55yrs w/Advance Directive ,27,520,0.0519,34:44.1
+1.69943E+15,Martin,Dubek MD,Advance Directive - Patients >55yrs w/Advance Directive ,,,,34:44.1
+1.69943E+15,Roger,Estep MD,Advance Directive - Patients >55yrs w/Advance Directive ,9,337,0.0267,34:44.1
+1.69943E+15,Jonathan,Gamson MD,Advance Directive - Patients >55yrs w/Advance Directive ,27,794,0.034,34:44.1
+1.69943E+15,Janet,Hansom MD,Advance Directive - Patients >55yrs w/Advance Directive ,34,491,0.0692,34:44.1
+1.69943E+15,Lucia,Muller MD,Advance Directive - Patients >55yrs w/Advance Directive ,16,295,0.0542,34:44.1
+1.69943E+15,Jonathan,Ploudre MD,Advance Directive - Patients >55yrs w/Advance Directive ,20,592,0.0338,34:44.1
+1.69943E+15,L Sloane,Winkes MD,Advance Directive - Patients >55yrs w/Advance Directive ,32,284,0.1127,34:44.1
+1.69943E+15,Joseph,McConahey PA-C,Advance Directive - Patients >55yrs w/Advance Directive ,,,,34:44.1
+1.69943E+15,Erinn,Case ARNP,Advance Directive - Patients >55yrs w/Advance Directive ,8,273,0.0293,34:44.1
+1.70464E+15,Lisa,Brodsky,Advance Directive - Patients >55yrs w/Advance Directive ,17,127,0.1339,34:44.1
+1.7054E+15,Jessica,Klassen ARNP,Advance Directive - Patients >55yrs w/Advance Directive ,6,111,0.0541,34:44.1
+1.72069E+15,Margaret,Sweeney,Advance Directive - Patients >55yrs w/Advance Directive ,89,390,0.2282,34:44.1
+1.72069E+15,Franklin,Bjorseth,Advance Directive - Patients >55yrs w/Advance Directive ,122,638,0.1912,34:44.1
+1.72069E+15,Michael,James,Advance Directive - Patients >55yrs w/Advance Directive ,109,698,0.1562,34:44.1
+1.72069E+15,Robert,Rieger,Advance Directive - Patients >55yrs w/Advance Directive ,99,433,0.2286,34:44.1
+1.72121E+15,Meghan,Lelonek,Advance Directive - Patients >55yrs w/Advance Directive ,18,240,0.075,34:44.1
+1.7443E+15,Sally,McPherson ARNP,Advance Directive - Patients >55yrs w/Advance Directive ,10,376,0.0266,34:44.1
+1.74454E+15,Michael,Fleming PA-C,Advance Directive - Patients >55yrs w/Advance Directive ,4,93,0.043,34:44.1
+1.75121E+15,Sara,Bowling,Advance Directive - Patients >55yrs w/Advance Directive ,27,357,0.0756,34:44.1
+1.77055E+15,William,Eiford PA-C,Advance Directive - Patients >55yrs w/Advance Directive ,,,,34:44.1
+1.77659E+15,Sarah,Herrman ARNP,Advance Directive - Patients >55yrs w/Advance Directive ,,,,34:44.1
+1.78471E+15,Patricia,Payne-Zajac PA-C,Advance Directive - Patients >55yrs w/Advance Directive ,,,,34:44.1
+1.78472E+15,Lillian,Pavlik ARNP,Advance Directive - Patients >55yrs w/Advance Directive ,,,,34:44.1
+1.78627E+15,Lauren,Sauve ARNP,Advance Directive - Patients >55yrs w/Advance Directive ,25,419,0.0597,34:44.1
+1.7962E+15,Catherine,Gambs MD,Advance Directive - Patients >55yrs w/Advance Directive ,16,501,0.0319,34:44.1
+1.7962E+15,Rebecca,Brejcha ARNP,Advance Directive - Patients >55yrs w/Advance Directive ,,,,34:44.1
+1.80589E+15,Vicki,Short MD,Advance Directive - Patients >55yrs w/Advance Directive ,45,555,0.0811,34:44.1
+1.80624E+15,Heather,Thomson ARNP,Advance Directive - Patients >55yrs w/Advance Directive ,,12,,34:44.1
+1.81237E+15,Patrick,McLaughlin MD,Advance Directive - Patients >55yrs w/Advance Directive ,23,333,0.0691,34:44.1
+1.37045E+15,Steven,Alexander MD,Eye exam,91,170,0.5353,33:00.2
+1.37442E+15,Bertha,Safford MD,Eye exam,54,104,0.5192,33:00.2
+1.37442E+15,Richard,Binder MD,Eye exam,41,78,0.5256,33:00.2
+1.37442E+15,S. Harry,Herdman MD,Eye exam,64,87,0.7356,33:00.2
+1.3745E+15,Margaret,Burden MD,Eye exam,22,39,0.5641,33:00.2
+1.3745E+15,Robin,Caldwell MD,Eye exam,58,191,0.3037,33:00.2
+1.3745E+15,David,Gavareski MD,Eye exam,47,111,0.4234,33:00.2
+1.3745E+15,Karen,Goodman ARNP,Eye exam,38,80,0.475,33:00.2
+1.3745E+15,Larry,Hartwell MD,Eye exam,68,154,0.4416,33:00.2
+1.3745E+15,James,Hopper MD,Eye exam,38,75,0.5067,33:00.2
+1.3745E+15,John,Hruby MD,Eye exam,25,103,0.2427,33:00.2
+1.3745E+15,Kellie,Jacobs MD,Eye exam,31,59,0.5254,33:00.2
+1.3745E+15,Stephen,Lewis MD,Eye exam,66,186,0.3548,33:00.2
+1.3745E+15,Richard,McClenahan MD,Eye exam,50,101,0.495,33:00.2
+1.3745E+15,Karen,O'Keefe MD,Eye exam,29,56,0.5179,33:00.2
+1.3745E+15,Bruce,Pederson MD,Eye exam,76,200,0.38,33:00.2
+1.3745E+15,Melana,"Schimke, MD",Eye exam,9,23,0.3913,33:00.2
+1.3745E+15,Miriam,Shapiro MD,Eye exam,23,53,0.434,33:00.2
+1.3745E+15,Chao-Ying,Wu MD,Eye exam,53,108,0.4907,33:00.2
+1.37822E+15,Steven,Bloom MD,Eye exam,43,120,0.3583,33:00.2
+1.37822E+15,Jason,Short MD,Eye exam,54,120,0.45,33:00.2
+1.4004E+15,Matt,Werner MD,Eye exam,45,87,0.5172,33:00.2
+1.41225E+15,Jennifer,Bates MD,Eye exam,35,69,0.5072,33:00.2
+1.42737E+15,Edward,Bloom MD,Eye exam,50,144,0.3472,33:00.2
+1.43401E+15,Jessica,Bloom MD,Eye exam,6,19,0.3158,33:00.2
+1.43523E+15,April,Wakefield-Pagels MD,Eye exam,33,86,0.3837,33:00.2
+1.44067E+15,John,Hiemstra DO,Eye exam,114,221,0.5158,33:00.2
+1.45553E+15,Teresa,Regier ARNP,Eye exam,17,84,0.2024,33:00.2
+1.48275E+15,Deborah,Hall MD,Eye exam,34,82,0.4146,33:00.2
+1.4913E+15,Ian,"Bonner, MD",Eye exam,23,85,0.2706,33:00.2
+1.51359E+15,Laura,Fox DO,Eye exam,16,35,0.4571,33:00.2
+1.51868E+15,Mary,Swanson MD,Eye exam,15,40,0.375,33:00.2
+1.52207E+15,Rodney,Anderson MD,Eye exam,51,101,0.505,33:00.2
+1.52258E+15,Anneliese,Floyd MD,Eye exam,20,41,0.4878,33:00.2
+1.53182E+15,Elizabeth,"Gaylord ARNP, ND",Eye exam,7,19,0.3684,33:00.2
+1.53865E+15,Sarah,Stewart ARNP,Eye exam,,,,33:00.2
+1.54522E+15,Frederick,Gunningham MD,Eye exam,48,129,0.3721,33:00.2
+1.56252E+15,John,Raduege MD,Eye exam,66,137,0.4818,33:00.2
+1.5688E+15,Erin,Maloney PA-C,Eye exam,,,,33:00.2
+1.57225E+15,Renay,"Fredette MD, MSNu",Eye exam,16,64,0.25,33:00.2
+1.59785E+15,Michael,Steele MD,Eye exam,94,233,0.4034,33:00.2
+1.61408E+15,Lisa,VanHofwegen MD,Eye exam,20,29,0.6897,33:00.2
+1.6363E+15,Shannon,Billau DO,Eye exam,21,51,0.4118,33:00.2
+1.66055E+15,Deborah,Roessler MD,Eye exam,56,92,0.6087,33:00.2
+1.68536E+15,Shelby,Hein MD,Eye exam,44,77,0.5714,33:00.2
+1.69133E+15,Rory,Bradt DO,Eye exam,33,96,0.3438,33:00.2
+1.69254E+15,Greg,Anderson MD,Eye exam,49,103,0.4757,33:00.2
+1.69701E+15,Claudia,Rey MD,Eye exam,28,98,0.2857,33:00.2
+1.69943E+15,Erik,Bylund MD,Eye exam,75,124,0.6048,33:00.2
+1.69943E+15,Martin,Dubek MD,Eye exam,,,,33:00.2
+1.69943E+15,Roger,Estep MD,Eye exam,51,87,0.5862,33:00.2
+1.69943E+15,Jonathan,Gamson MD,Eye exam,67,152,0.4408,33:00.2
+1.69943E+15,Janet,Hansom MD,Eye exam,37,67,0.5522,33:00.2
+1.69943E+15,Lucia,Muller MD,Eye exam,32,39,0.8205,33:00.2
+1.69943E+15,Jonathan,Ploudre MD,Eye exam,87,109,0.7982,33:00.2
+1.69943E+15,L Sloane,Winkes MD,Eye exam,31,49,0.6327,33:00.2
+1.69943E+15,Joseph,McConahey PA-C,Eye exam,,,,33:00.2
+1.69943E+15,Erinn,Case ARNP,Eye exam,23,57,0.4035,33:00.2
+1.70464E+15,Lisa,Brodsky,Eye exam,2,18,0.1111,33:00.2
+1.7054E+15,Jessica,Klassen ARNP,Eye exam,2,24,0.0833,33:00.2
+1.72069E+15,Margaret,Sweeney,Eye exam,38,71,0.5352,33:00.2
+1.72069E+15,Franklin,Bjorseth,Eye exam,47,106,0.4434,33:00.2
+1.72069E+15,Michael,James,Eye exam,54,141,0.383,33:00.2
+1.72069E+15,Robert,Rieger,Eye exam,46,71,0.6479,33:00.2
+1.72121E+15,Meghan,Lelonek,Eye exam,17,54,0.3148,33:00.2
+1.7443E+15,Sally,McPherson ARNP,Eye exam,32,82,0.3902,33:00.2
+1.74454E+15,Michael,Fleming PA-C,Eye exam,5,23,0.2174,33:00.2
+1.75121E+15,Sara,Bowling,Eye exam,10,34,0.2941,33:00.2
+1.77055E+15,William,Eiford PA-C,Eye exam,,,,33:00.2
+1.77659E+15,Sarah,Herrman ARNP,Eye exam,,,,33:00.2
+1.78471E+15,Patricia,Payne-Zajac PA-C,Eye exam,,,,33:00.2
+1.78472E+15,Lillian,Pavlik ARNP,Eye exam,,,,33:00.2
+1.78627E+15,Lauren,Sauve ARNP,Eye exam,45,89,0.5056,33:00.2
+1.7962E+15,Catherine,Gambs MD,Eye exam,38,95,0.4,33:00.2
+1.7962E+15,Rebecca,Brejcha ARNP,Eye exam,,,,33:00.2
+1.80589E+15,Vicki,Short MD,Eye exam,31,79,0.3924,33:00.2
+1.80624E+15,Heather,Thomson ARNP,Eye exam,,2,,33:00.2
+1.81237E+15,Patrick,McLaughlin MD,Eye exam,7,38,0.1842,33:00.2
+1.7054E+15,Jessica,Klassen ARNP,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),15,111,0.1351,33:57.9
+1.72069E+15,Margaret,Sweeney,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),241,332,0.7259,33:57.9
+1.72069E+15,Franklin,Bjorseth,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),286,566,0.5053,33:57.9
+1.72069E+15,Michael,James,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),276,642,0.4299,33:57.9
+1.72069E+15,Robert,Rieger,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),276,382,0.7225,33:57.9
+1.72121E+15,Meghan,Lelonek,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),146,284,0.5141,33:57.9
+1.7443E+15,Sally,McPherson ARNP,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),232,416,0.5577,33:57.9
+1.74454E+15,Michael,Fleming PA-C,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),41,101,0.4059,33:57.9
+1.75121E+15,Sara,Bowling,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),292,442,0.6606,33:57.9
+1.77055E+15,William,Eiford PA-C,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),,,,33:57.9
+1.77659E+15,Sarah,Herrman ARNP,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),,,,33:57.9
+1.78471E+15,Patricia,Payne-Zajac PA-C,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),,,,33:57.9
+1.78472E+15,Lillian,Pavlik ARNP,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),,,,33:57.9
+1.78627E+15,Lauren,Sauve ARNP,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),285,472,0.6038,33:57.9
+1.7962E+15,Catherine,Gambs MD,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),247,558,0.4427,33:57.9
+1.7962E+15,Rebecca,Brejcha ARNP,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),,,,33:57.9
+1.80589E+15,Vicki,Short MD,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),409,609,0.6716,33:57.9
+1.80624E+15,Heather,Thomson ARNP,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),5,17,0.2941,33:57.9
+1.81237E+15,Patrick,McLaughlin MD,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),245,374,0.6551,33:57.9
+1.44067E+15,John,Hiemstra DO,Pneumovax - DM patients w/current pneumovax,190,221,0.8597,34:50.3
+1.45553E+15,Teresa,Regier ARNP,Pneumovax - DM patients w/current pneumovax,37,84,0.4405,34:50.3
+1.48275E+15,Deborah,Hall MD,Pneumovax - DM patients w/current pneumovax,72,82,0.878,34:50.3
+1.4913E+15,Ian,"Bonner, MD",Pneumovax - DM patients w/current pneumovax,68,85,0.8,34:50.3
+1.51359E+15,Laura,Fox DO,Pneumovax - DM patients w/current pneumovax,27,35,0.7714,34:50.3
+1.51868E+15,Mary,Swanson MD,Pneumovax - DM patients w/current pneumovax,32,40,0.8,34:50.3
+1.52207E+15,Rodney,Anderson MD,Pneumovax - DM patients w/current pneumovax,87,101,0.8614,34:50.3
+1.52258E+15,Anneliese,Floyd MD,Pneumovax - DM patients w/current pneumovax,37,41,0.9024,34:50.3
+1.53182E+15,Elizabeth,"Gaylord ARNP, ND",Pneumovax - DM patients w/current pneumovax,16,19,0.8421,34:50.3
+1.53865E+15,Sarah,Stewart ARNP,Pneumovax - DM patients w/current pneumovax,,,,34:50.3
+1.72069E+15,Michael,James,Pneumovax - DM patients w/current pneumovax,55,141,0.3901,34:50.3
+1.72069E+15,Robert,Rieger,Pneumovax - DM patients w/current pneumovax,62,71,0.8732,34:50.3
+1.72121E+15,Meghan,Lelonek,Pneumovax - DM patients w/current pneumovax,40,54,0.7407,34:50.3
+1.7443E+15,Sally,McPherson ARNP,Pneumovax - DM patients w/current pneumovax,56,82,0.6829,34:50.3
+1.74454E+15,Michael,Fleming PA-C,Pneumovax - DM patients w/current pneumovax,12,23,0.5217,34:50.3
+1.75121E+15,Sara,Bowling,Pneumovax - DM patients w/current pneumovax,22,34,0.6471,34:50.3
+1.77055E+15,William,Eiford PA-C,Pneumovax - DM patients w/current pneumovax,,,,34:50.3
+1.77659E+15,Sarah,Herrman ARNP,Pneumovax - DM patients w/current pneumovax,,,,34:50.3
+1.78471E+15,Patricia,Payne-Zajac PA-C,Pneumovax - DM patients w/current pneumovax,,,,34:50.3
+1.78472E+15,Lillian,Pavlik ARNP,Pneumovax - DM patients w/current pneumovax,,,,34:50.3
+1.78627E+15,Lauren,Sauve ARNP,Pneumovax - DM patients w/current pneumovax,71,89,0.7978,34:50.3
+1.7962E+15,Catherine,Gambs MD,Pneumovax - DM patients w/current pneumovax,50,95,0.5263,34:50.3
+1.7962E+15,Rebecca,Brejcha ARNP,Pneumovax - DM patients w/current pneumovax,,,,34:50.3
+1.80589E+15,Vicki,Short MD,Pneumovax - DM patients w/current pneumovax,61,79,0.7722,34:50.3
+1.80624E+15,Heather,Thomson ARNP,Pneumovax - DM patients w/current pneumovax,,2,,34:50.3
+1.81237E+15,Patrick,McLaughlin MD,Pneumovax - DM patients w/current pneumovax,35,38,0.9211,34:50.3
+1.51359E+15,Laura,Fox DO,Statin patients with LDL in the past 365 days,88,114,0.7719,46:04.1
+1.51868E+15,Mary,Swanson MD,Statin patients with LDL in the past 365 days,81,101,0.802,46:04.1
+1.52207E+15,Rodney,Anderson MD,Statin patients with LDL in the past 365 days,329,433,0.7598,46:04.1
+1.52258E+15,Anneliese,Floyd MD,Statin patients with LDL in the past 365 days,81,117,0.6923,46:04.1
+1.53182E+15,Elizabeth,"Gaylord ARNP, ND",Statin patients with LDL in the past 365 days,59,84,0.7024,46:04.1
+1.53865E+15,Sarah,Stewart ARNP,Statin patients with LDL in the past 365 days,,3,,46:04.1
+1.54522E+15,Frederick,Gunningham MD,Statin patients with LDL in the past 365 days,152,204,0.7451,46:04.1
+1.56252E+15,John,Raduege MD,Statin patients with LDL in the past 365 days,359,442,0.8122,46:04.1
+1.5688E+15,Erin,Maloney PA-C,Statin patients with LDL in the past 365 days,,,,46:04.1
+1.57225E+15,Renay,"Fredette MD, MSNu",Statin patients with LDL in the past 365 days,100,152,0.6579,46:04.1
+1.59785E+15,Michael,Steele MD,Statin patients with LDL in the past 365 days,384,471,0.8153,46:04.1
+1.61408E+15,Lisa,VanHofwegen MD,Statin patients with LDL in the past 365 days,66,88,0.75,46:04.1
+1.6363E+15,Shannon,Billau DO,Statin patients with LDL in the past 365 days,113,165,0.6848,46:04.1
+1.66055E+15,Deborah,Roessler MD,Statin patients with LDL in the past 365 days,140,230,0.6087,46:04.1
+1.37045E+15,Steven,Alexander MD,DM PTS 55-75 w/ACE/ARB,56,81,0.6914,44:07.5
+1.37442E+15,Bertha,Safford MD,DM PTS 55-75 w/ACE/ARB,41,57,0.7193,44:07.5
+1.37442E+15,Richard,Binder MD,DM PTS 55-75 w/ACE/ARB,37,52,0.7115,44:07.5
+1.37442E+15,S. Harry,Herdman MD,DM PTS 55-75 w/ACE/ARB,33,42,0.7857,44:07.5
+1.3745E+15,Margaret,Burden MD,DM PTS 55-75 w/ACE/ARB,19,23,0.8261,44:07.5
+1.3745E+15,Robin,Caldwell MD,DM PTS 55-75 w/ACE/ARB,81,104,0.7788,44:07.5
+1.3745E+15,David,Gavareski MD,DM PTS 55-75 w/ACE/ARB,46,68,0.6765,44:07.5
+1.3745E+15,Karen,Goodman ARNP,DM PTS 55-75 w/ACE/ARB,39,53,0.7358,44:07.5
+1.3745E+15,Larry,Hartwell MD,DM PTS 55-75 w/ACE/ARB,66,86,0.7674,44:07.5
+1.3745E+15,James,Hopper MD,DM PTS 55-75 w/ACE/ARB,39,46,0.8478,44:07.5
+1.3745E+15,John,Hruby MD,DM PTS 55-75 w/ACE/ARB,35,60,0.5833,44:07.5
+1.3745E+15,Kellie,Jacobs MD,DM PTS 55-75 w/ACE/ARB,31,37,0.8378,44:07.5
+1.3745E+15,Stephen,Lewis MD,DM PTS 55-75 w/ACE/ARB,82,107,0.7664,44:07.5
+1.3745E+15,Richard,McClenahan MD,DM PTS 55-75 w/ACE/ARB,49,56,0.875,44:07.5
+1.3745E+15,Karen,O'Keefe MD,DM PTS 55-75 w/ACE/ARB,30,38,0.7895,44:07.5
+1.3745E+15,Bruce,Pederson MD,DM PTS 55-75 w/ACE/ARB,78,127,0.6142,44:07.5
+1.3745E+15,Melana,"Schimke, MD",DM PTS 55-75 w/ACE/ARB,7,13,0.5385,44:07.5
+1.3745E+15,Miriam,Shapiro MD,DM PTS 55-75 w/ACE/ARB,20,29,0.6897,44:07.5
+1.3745E+15,Chao-Ying,Wu MD,DM PTS 55-75 w/ACE/ARB,47,65,0.7231,44:07.5
+1.37822E+15,Steven,Bloom MD,DM PTS 55-75 w/ACE/ARB,40,66,0.6061,44:07.5
+1.37822E+15,Jason,Short MD,DM PTS 55-75 w/ACE/ARB,68,75,0.9067,44:07.5
+1.4004E+15,Matt,Werner MD,DM PTS 55-75 w/ACE/ARB,43,51,0.8431,44:07.5
+1.41225E+15,Jennifer,Bates MD,DM PTS 55-75 w/ACE/ARB,27,44,0.6136,44:07.5
+1.42737E+15,Edward,Bloom MD,DM PTS 55-75 w/ACE/ARB,79,91,0.8681,44:07.5
+1.43401E+15,Jessica,Bloom MD,DM PTS 55-75 w/ACE/ARB,10,11,0.9091,44:07.5
+1.43523E+15,April,Wakefield-Pagels MD,DM PTS 55-75 w/ACE/ARB,43,52,0.8269,44:07.5
+1.44067E+15,John,Hiemstra DO,DM PTS 55-75 w/ACE/ARB,84,104,0.8077,44:07.5
+1.68536E+15,Shelby,Hein MD,Statin patients with LDL in the past 365 days,142,229,0.6201,46:04.1
+1.69133E+15,Rory,Bradt DO,Statin patients with LDL in the past 365 days,193,282,0.6844,46:04.1
+1.69254E+15,Greg,Anderson MD,Statin patients with LDL in the past 365 days,253,367,0.6894,46:04.1
+1.69701E+15,Claudia,Rey MD,Statin patients with LDL in the past 365 days,149,218,0.6835,46:04.1
+1.69943E+15,Erik,Bylund MD,Statin patients with LDL in the past 365 days,186,234,0.7949,46:04.1
+1.69943E+15,Martin,Dubek MD,Statin patients with LDL in the past 365 days,,,,46:04.1
+1.69943E+15,Roger,Estep MD,Statin patients with LDL in the past 365 days,161,189,0.8519,46:04.1
+1.69943E+15,Jonathan,Gamson MD,Statin patients with LDL in the past 365 days,227,332,0.6837,46:04.1
+1.69943E+15,Janet,Hansom MD,Statin patients with LDL in the past 365 days,115,153,0.7516,46:04.1
+1.69943E+15,Lucia,Muller MD,Statin patients with LDL in the past 365 days,80,105,0.7619,46:04.1
+1.69943E+15,Jonathan,Ploudre MD,Statin patients with LDL in the past 365 days,219,313,0.6997,46:04.1
+1.69943E+15,L Sloane,Winkes MD,Statin patients with LDL in the past 365 days,90,116,0.7759,46:04.1
+1.69943E+15,Joseph,McConahey PA-C,Statin patients with LDL in the past 365 days,,,,46:04.1
+1.69943E+15,Erinn,Case ARNP,Statin patients with LDL in the past 365 days,72,104,0.6923,46:04.1
+1.70464E+15,Lisa,Brodsky,Statin patients with LDL in the past 365 days,44,52,0.8462,46:04.1
+1.7054E+15,Jessica,Klassen ARNP,Statin patients with LDL in the past 365 days,18,34,0.5294,46:04.1
+1.72069E+15,Margaret,Sweeney,Statin patients with LDL in the past 365 days,155,201,0.7711,46:04.1
+1.72069E+15,Franklin,Bjorseth,Statin patients with LDL in the past 365 days,193,261,0.7395,46:04.1
+1.72069E+15,Michael,James,Statin patients with LDL in the past 365 days,193,273,0.707,46:04.1
+1.72069E+15,Robert,Rieger,Statin patients with LDL in the past 365 days,155,239,0.6485,46:04.1
+1.72121E+15,Meghan,Lelonek,Statin patients with LDL in the past 365 days,61,89,0.6854,46:04.1
+1.7443E+15,Sally,McPherson ARNP,Statin patients with LDL in the past 365 days,128,164,0.7805,46:04.1
+1.74454E+15,Michael,Fleming PA-C,Statin patients with LDL in the past 365 days,39,53,0.7358,46:04.1
+1.75121E+15,Sara,Bowling,Statin patients with LDL in the past 365 days,72,121,0.595,46:04.1
+1.77055E+15,William,Eiford PA-C,Statin patients with LDL in the past 365 days,,,,46:04.1
+1.77659E+15,Sarah,Herrman ARNP,Statin patients with LDL in the past 365 days,,,,46:04.1
+1.78471E+15,Patricia,Payne-Zajac PA-C,Statin patients with LDL in the past 365 days,,,,46:04.1
+1.78472E+15,Lillian,Pavlik ARNP,Statin patients with LDL in the past 365 days,,,,46:04.1
+1.78627E+15,Lauren,Sauve ARNP,Statin patients with LDL in the past 365 days,127,177,0.7175,46:04.1
+1.7962E+15,Catherine,Gambs MD,Statin patients with LDL in the past 365 days,144,201,0.7164,46:04.1
+1.7962E+15,Rebecca,Brejcha ARNP,Statin patients with LDL in the past 365 days,,,,46:04.1
+1.80589E+15,Vicki,Short MD,Statin patients with LDL in the past 365 days,186,258,0.7209,46:04.1
+1.80624E+15,Heather,Thomson ARNP,Statin patients with LDL in the past 365 days,4,5,0.8,46:04.1
+1.81237E+15,Patrick,McLaughlin MD,Statin patients with LDL in the past 365 days,100,150,0.6667,46:04.1
+1.3745E+15,Stephen,Lewis MD,Foot Exam,132,186,0.7097,33:05.9
+1.3745E+15,Richard,McClenahan MD,Foot Exam,81,101,0.802,33:05.9
+1.3745E+15,Karen,O'Keefe MD,Foot Exam,44,56,0.7857,33:05.9
+1.3745E+15,Bruce,Pederson MD,Foot Exam,165,200,0.825,33:05.9
+1.3745E+15,Melana,"Schimke, MD",Foot Exam,18,23,0.7826,33:05.9
+1.3745E+15,Miriam,Shapiro MD,Foot Exam,42,53,0.7925,33:05.9
+1.3745E+15,Chao-Ying,Wu MD,Foot Exam,90,108,0.8333,33:05.9
+1.37822E+15,Steven,Bloom MD,Foot Exam,96,120,0.8,33:05.9
+1.37822E+15,Jason,Short MD,Foot Exam,93,120,0.775,33:05.9
+1.4004E+15,Matt,Werner MD,Foot Exam,79,87,0.908,33:05.9
+1.41225E+15,Jennifer,Bates MD,Foot Exam,48,69,0.6957,33:05.9
+1.42737E+15,Edward,Bloom MD,Foot Exam,116,144,0.8056,33:05.9
+1.43401E+15,Jessica,Bloom MD,Foot Exam,9,19,0.4737,33:05.9
+1.43523E+15,April,Wakefield-Pagels MD,Foot Exam,62,86,0.7209,33:05.9
+1.44067E+15,John,Hiemstra DO,Foot Exam,177,221,0.8009,33:05.9
+1.45553E+15,Teresa,Regier ARNP,Foot Exam,58,84,0.6905,33:05.9
+1.48275E+15,Deborah,Hall MD,Foot Exam,50,82,0.6098,33:05.9
+1.4913E+15,Ian,"Bonner, MD",Foot Exam,53,85,0.6235,33:05.9
+1.6363E+15,Shannon,Billau DO,Chlamydia,4,16,0.25,34:21.5
+1.66055E+15,Deborah,Roessler MD,Chlamydia,15,79,0.1899,34:21.5
+1.68536E+15,Shelby,Hein MD,Chlamydia,8,44,0.1818,34:21.5
+1.69133E+15,Rory,Bradt DO,Chlamydia,12,32,0.375,34:21.5
+1.69254E+15,Greg,Anderson MD,Chlamydia,2,8,0.25,34:21.5
+1.69701E+15,Claudia,Rey MD,Chlamydia,14,38,0.3684,34:21.5
+1.69943E+15,Erik,Bylund MD,Chlamydia,2,12,0.1667,34:21.5
+1.69943E+15,Martin,Dubek MD,Chlamydia,,,,34:21.5
+1.69943E+15,Roger,Estep MD,Chlamydia,2,3,0.6667,34:21.5
+1.69943E+15,Jonathan,Gamson MD,Chlamydia,1,1,1,34:21.5
+1.69943E+15,Janet,Hansom MD,Chlamydia,4,6,0.6667,34:21.5
+1.69943E+15,Lucia,Muller MD,Chlamydia,1,8,0.125,34:21.5
+1.69943E+15,Jonathan,Ploudre MD,Chlamydia,8,16,0.5,34:21.5
+1.69943E+15,L Sloane,Winkes MD,Chlamydia,2,6,0.3333,34:21.5
+1.69943E+15,Joseph,McConahey PA-C,Chlamydia,,,,34:21.5
+1.69943E+15,Erinn,Case ARNP,Chlamydia,4,26,0.1538,34:21.5
+1.70464E+15,Lisa,Brodsky,Chlamydia,7,21,0.3333,34:21.5
+1.7054E+15,Jessica,Klassen ARNP,Chlamydia,,2,,34:21.5
+1.72069E+15,Margaret,Sweeney,Chlamydia,3,15,0.2,34:21.5
+1.3745E+15,John,Hruby MD,Pneumovax - Patients Age>65 w/current pneumovax,301,371,0.8113,34:57.2
+1.3745E+15,Kellie,Jacobs MD,Pneumovax - Patients Age>65 w/current pneumovax,208,267,0.779,34:57.2
+1.3745E+15,Stephen,Lewis MD,Pneumovax - Patients Age>65 w/current pneumovax,424,519,0.817,34:57.2
+1.3745E+15,Richard,McClenahan MD,Pneumovax - Patients Age>65 w/current pneumovax,314,391,0.8031,34:57.2
+1.3745E+15,Karen,O'Keefe MD,Pneumovax - Patients Age>65 w/current pneumovax,166,206,0.8058,34:57.2
+1.3745E+15,Bruce,Pederson MD,Pneumovax - Patients Age>65 w/current pneumovax,494,695,0.7108,34:57.2
+1.3745E+15,Melana,"Schimke, MD",Pneumovax - Patients Age>65 w/current pneumovax,66,120,0.55,34:57.2
+1.3745E+15,Miriam,Shapiro MD,Pneumovax - Patients Age>65 w/current pneumovax,164,228,0.7193,34:57.2
+1.3745E+15,Chao-Ying,Wu MD,Pneumovax - Patients Age>65 w/current pneumovax,342,402,0.8507,34:57.2
+1.37822E+15,Steven,Bloom MD,Pneumovax - Patients Age>65 w/current pneumovax,221,311,0.7106,34:57.2
+1.37822E+15,Jason,Short MD,Pneumovax - Patients Age>65 w/current pneumovax,297,363,0.8182,34:57.2
+1.4004E+15,Matt,Werner MD,Pneumovax - Patients Age>65 w/current pneumovax,235,295,0.7966,34:57.2
+1.41225E+15,Jennifer,Bates MD,Pneumovax - Patients Age>65 w/current pneumovax,139,183,0.7596,34:57.2
+1.42737E+15,Edward,Bloom MD,Pneumovax - Patients Age>65 w/current pneumovax,326,468,0.6966,34:57.2
+1.43401E+15,Jessica,Bloom MD,Pneumovax - Patients Age>65 w/current pneumovax,62,92,0.6739,34:57.2
+1.43523E+15,April,Wakefield-Pagels MD,Pneumovax - Patients Age>65 w/current pneumovax,221,275,0.8036,34:57.2
+1.44067E+15,John,Hiemstra DO,Pneumovax - Patients Age>65 w/current pneumovax,656,777,0.8443,34:57.2
+1.45553E+15,Teresa,Regier ARNP,Pneumovax - Patients Age>65 w/current pneumovax,85,214,0.3972,34:57.2
+1.48275E+15,Deborah,Hall MD,Pneumovax - Patients Age>65 w/current pneumovax,214,306,0.6993,34:57.2
+1.4913E+15,Ian,"Bonner, MD",Pneumovax - Patients Age>65 w/current pneumovax,218,289,0.7543,34:57.2
+1.51359E+15,Laura,Fox DO,Pneumovax - Patients Age>65 w/current pneumovax,128,166,0.7711,34:57.2
+1.51868E+15,Mary,Swanson MD,Pneumovax - Patients Age>65 w/current pneumovax,104,127,0.8189,34:57.2
+1.52207E+15,Rodney,Anderson MD,Pneumovax - Patients Age>65 w/current pneumovax,449,596,0.7534,34:57.2
+1.52258E+15,Anneliese,Floyd MD,Pneumovax - Patients Age>65 w/current pneumovax,120,145,0.8276,34:57.2
+1.53182E+15,Elizabeth,"Gaylord ARNP, ND",Pneumovax - Patients Age>65 w/current pneumovax,70,93,0.7527,34:57.2
+1.53865E+15,Sarah,Stewart ARNP,Pneumovax - Patients Age>65 w/current pneumovax,,,,34:57.2
+1.54522E+15,Frederick,Gunningham MD,Pneumovax - Patients Age>65 w/current pneumovax,207,270,0.7667,34:57.2
+1.56252E+15,John,Raduege MD,Pneumovax - Patients Age>65 w/current pneumovax,412,500,0.824,34:57.2
+1.5688E+15,Erin,Maloney PA-C,Pneumovax - Patients Age>65 w/current pneumovax,,,,34:57.2
+1.57225E+15,Renay,"Fredette MD, MSNu",Pneumovax - Patients Age>65 w/current pneumovax,134,164,0.8171,34:57.2
+1.59785E+15,Michael,Steele MD,Pneumovax - Patients Age>65 w/current pneumovax,456,679,0.6716,34:57.2
+1.61408E+15,Lisa,VanHofwegen MD,Pneumovax - Patients Age>65 w/current pneumovax,102,142,0.7183,34:57.2
+1.6363E+15,Shannon,Billau DO,Pneumovax - Patients Age>65 w/current pneumovax,127,194,0.6546,34:57.2
+1.66055E+15,Deborah,Roessler MD,Pneumovax - Patients Age>65 w/current pneumovax,223,301,0.7409,34:57.2
+1.68536E+15,Shelby,Hein MD,Pneumovax - Patients Age>65 w/current pneumovax,226,307,0.7362,34:57.2
+1.69133E+15,Rory,Bradt DO,Pneumovax - Patients Age>65 w/current pneumovax,192,268,0.7164,34:57.2
+1.69254E+15,Greg,Anderson MD,Pneumovax - Patients Age>65 w/current pneumovax,288,363,0.7934,34:57.2
+1.69701E+15,Claudia,Rey MD,Pneumovax - Patients Age>65 w/current pneumovax,161,246,0.6545,34:57.2
+1.69943E+15,Erik,Bylund MD,Pneumovax - Patients Age>65 w/current pneumovax,196,255,0.7686,34:57.2
+1.69943E+15,Martin,Dubek MD,Pneumovax - Patients Age>65 w/current pneumovax,,,,34:57.2
+1.69943E+15,Roger,Estep MD,Pneumovax - Patients Age>65 w/current pneumovax,154,182,0.8462,34:57.2
+1.69943E+15,Jonathan,Gamson MD,Pneumovax - Patients Age>65 w/current pneumovax,356,444,0.8018,34:57.2
+1.69943E+15,Janet,Hansom MD,Pneumovax - Patients Age>65 w/current pneumovax,218,262,0.8321,34:57.2
+1.69943E+15,Lucia,Muller MD,Pneumovax - Patients Age>65 w/current pneumovax,134,161,0.8323,34:57.2
+1.69943E+15,Jonathan,Ploudre MD,Pneumovax - Patients Age>65 w/current pneumovax,277,309,0.8964,34:57.2
+1.69943E+15,L Sloane,Winkes MD,Pneumovax - Patients Age>65 w/current pneumovax,141,165,0.8545,34:57.2
+1.69943E+15,Joseph,McConahey PA-C,Pneumovax - Patients Age>65 w/current pneumovax,,,,34:57.2
+1.69943E+15,Erinn,Case ARNP,Pneumovax - Patients Age>65 w/current pneumovax,86,113,0.7611,34:57.2
+1.70464E+15,Lisa,Brodsky,Pneumovax - Patients Age>65 w/current pneumovax,40,63,0.6349,34:57.2
+1.7054E+15,Jessica,Klassen ARNP,Pneumovax - Patients Age>65 w/current pneumovax,16,61,0.2623,34:57.2
+1.72069E+15,Margaret,Sweeney,Pneumovax - Patients Age>65 w/current pneumovax,180,239,0.7531,34:57.2
+1.72069E+15,Franklin,Bjorseth,Pneumovax - Patients Age>65 w/current pneumovax,284,436,0.6514,34:57.2
+1.72069E+15,Michael,James,Pneumovax - Patients Age>65 w/current pneumovax,123,407,0.3022,34:57.2
+1.72069E+15,Robert,Rieger,Pneumovax - Patients Age>65 w/current pneumovax,206,285,0.7228,34:57.2
+1.72121E+15,Meghan,Lelonek,Pneumovax - Patients Age>65 w/current pneumovax,47,84,0.5595,34:57.2
+1.7443E+15,Sally,McPherson ARNP,Pneumovax - Patients Age>65 w/current pneumovax,132,168,0.7857,34:57.2
+1.74454E+15,Michael,Fleming PA-C,Pneumovax - Patients Age>65 w/current pneumovax,26,47,0.5532,34:57.2
+1.75121E+15,Sara,Bowling,Pneumovax - Patients Age>65 w/current pneumovax,98,144,0.6806,34:57.2
+1.77055E+15,William,Eiford PA-C,Pneumovax - Patients Age>65 w/current pneumovax,,,,34:57.2
+1.77659E+15,Sarah,Herrman ARNP,Pneumovax - Patients Age>65 w/current pneumovax,,,,34:57.2
+1.78471E+15,Patricia,Payne-Zajac PA-C,Pneumovax - Patients Age>65 w/current pneumovax,,,,34:57.2
+1.78472E+15,Lillian,Pavlik ARNP,Pneumovax - Patients Age>65 w/current pneumovax,,,,34:57.2
+1.78627E+15,Lauren,Sauve ARNP,Pneumovax - Patients Age>65 w/current pneumovax,159,196,0.8112,34:57.2
+1.7962E+15,Catherine,Gambs MD,Pneumovax - Patients Age>65 w/current pneumovax,161,235,0.6851,34:57.2
+1.7962E+15,Rebecca,Brejcha ARNP,Pneumovax - Patients Age>65 w/current pneumovax,,,,34:57.2
+1.80589E+15,Vicki,Short MD,Pneumovax - Patients Age>65 w/current pneumovax,223,270,0.8259,34:57.2
+1.80624E+15,Heather,Thomson ARNP,Pneumovax - Patients Age>65 w/current pneumovax,1,3,0.3333,34:57.2
+1.81237E+15,Patrick,McLaughlin MD,Pneumovax - Patients Age>65 w/current pneumovax,114,153,0.7451,34:57.2
+1.48275E+15,Deborah,Hall MD,HgbA1c NOT > 9.0 (poor control) ,77,82,0.939,33:16.7
+1.4913E+15,Ian,"Bonner, MD",HgbA1c NOT > 9.0 (poor control) ,75,85,0.8824,33:16.7
+1.51359E+15,Laura,Fox DO,HgbA1c NOT > 9.0 (poor control) ,29,35,0.8286,33:16.7
+1.51868E+15,Mary,Swanson MD,HgbA1c NOT > 9.0 (poor control) ,38,40,0.95,33:16.7
+1.52207E+15,Rodney,Anderson MD,HgbA1c NOT > 9.0 (poor control) ,94,101,0.9307,33:16.7
+1.52258E+15,Anneliese,Floyd MD,HgbA1c NOT > 9.0 (poor control) ,38,41,0.9268,33:16.7
+1.53182E+15,Elizabeth,"Gaylord ARNP, ND",HgbA1c NOT > 9.0 (poor control) ,15,19,0.7895,33:16.7
+1.53865E+15,Sarah,Stewart ARNP,HgbA1c NOT > 9.0 (poor control) ,,,,33:16.7
+1.54522E+15,Frederick,Gunningham MD,HgbA1c NOT > 9.0 (poor control) ,112,129,0.8682,33:16.7
+1.56252E+15,John,Raduege MD,HgbA1c NOT > 9.0 (poor control) ,129,137,0.9416,33:16.7
+1.5688E+15,Erin,Maloney PA-C,HgbA1c NOT > 9.0 (poor control) ,,,,33:16.7
+1.57225E+15,Renay,"Fredette MD, MSNu",HgbA1c NOT > 9.0 (poor control) ,63,64,0.9844,33:16.7
+1.54522E+15,Frederick,Gunningham MD,HgbA1c < 7.0                     ,59,129,0.4574,33:11.6
+1.56252E+15,John,Raduege MD,HgbA1c < 7.0                     ,84,137,0.6131,33:11.6
+1.5688E+15,Erin,Maloney PA-C,HgbA1c < 7.0                     ,,,,33:11.6
+1.57225E+15,Renay,"Fredette MD, MSNu",HgbA1c < 7.0                     ,39,64,0.6094,33:11.6
+1.59785E+15,Michael,Steele MD,HgbA1c < 7.0                     ,109,233,0.4678,33:11.6
+1.61408E+15,Lisa,VanHofwegen MD,HgbA1c < 7.0                     ,16,29,0.5517,33:11.6
+1.6363E+15,Shannon,Billau DO,HgbA1c < 7.0                     ,25,51,0.4902,33:11.6
+1.66055E+15,Deborah,Roessler MD,HgbA1c < 7.0                     ,46,92,0.5,33:11.6
+1.68536E+15,Shelby,Hein MD,HgbA1c < 7.0                     ,28,77,0.3636,33:11.6
+1.69133E+15,Rory,Bradt DO,HgbA1c < 7.0                     ,45,96,0.4688,33:11.6
+1.69254E+15,Greg,Anderson MD,HgbA1c < 7.0                     ,41,103,0.3981,33:11.6
+1.69701E+15,Claudia,Rey MD,HgbA1c < 7.0                     ,54,98,0.551,33:11.6
+1.69943E+15,Erik,Bylund MD,HgbA1c < 7.0                     ,54,124,0.4355,33:11.6
+1.69943E+15,Martin,Dubek MD,HgbA1c < 7.0                     ,,,,33:11.6
+1.69943E+15,Roger,Estep MD,HgbA1c < 7.0                     ,36,87,0.4138,33:11.6
+1.69943E+15,Jonathan,Gamson MD,HgbA1c < 7.0                     ,69,152,0.4539,33:11.6
+1.69943E+15,Janet,Hansom MD,HgbA1c < 7.0                     ,37,67,0.5522,33:11.6
+1.69943E+15,Lucia,Muller MD,HgbA1c < 7.0                     ,23,39,0.5897,33:11.6
+1.69943E+15,Jonathan,Ploudre MD,HgbA1c < 7.0                     ,41,109,0.3761,33:11.6
+1.69943E+15,L Sloane,Winkes MD,HgbA1c < 7.0                     ,18,49,0.3673,33:11.6
+1.69943E+15,Joseph,McConahey PA-C,HgbA1c < 7.0                     ,,,,33:11.6
+1.69943E+15,Erinn,Case ARNP,HgbA1c < 7.0                     ,18,57,0.3158,33:11.6
+1.70464E+15,Lisa,Brodsky,HgbA1c < 7.0                     ,7,18,0.3889,33:11.6
+1.7054E+15,Jessica,Klassen ARNP,HgbA1c < 7.0                     ,6,24,0.25,33:11.6
+1.72069E+15,Margaret,Sweeney,HgbA1c < 7.0                     ,44,71,0.6197,33:11.6
+1.72069E+15,Franklin,Bjorseth,HgbA1c < 7.0                     ,52,106,0.4906,33:11.6
+1.72069E+15,Michael,James,HgbA1c < 7.0                     ,66,141,0.4681,33:11.6
+1.72069E+15,Robert,Rieger,HgbA1c < 7.0                     ,31,71,0.4366,33:11.6
+1.72121E+15,Meghan,Lelonek,HgbA1c < 7.0                     ,29,54,0.537,33:11.6
+1.7443E+15,Sally,McPherson ARNP,HgbA1c < 7.0                     ,36,82,0.439,33:11.6
+1.74454E+15,Michael,Fleming PA-C,HgbA1c < 7.0                     ,3,23,0.1304,33:11.6
+1.75121E+15,Sara,Bowling,HgbA1c < 7.0                     ,19,34,0.5588,33:11.6
+1.77055E+15,William,Eiford PA-C,HgbA1c < 7.0                     ,,,,33:11.6
+1.77659E+15,Sarah,Herrman ARNP,HgbA1c < 7.0                     ,,,,33:11.6
+1.78471E+15,Patricia,Payne-Zajac PA-C,HgbA1c < 7.0                     ,,,,33:11.6
+1.78472E+15,Lillian,Pavlik ARNP,HgbA1c < 7.0                     ,,,,33:11.6
+1.78627E+15,Lauren,Sauve ARNP,HgbA1c < 7.0                     ,35,89,0.3933,33:11.6
+1.7962E+15,Catherine,Gambs MD,HgbA1c < 7.0                     ,39,95,0.4105,33:11.6
+1.7962E+15,Rebecca,Brejcha ARNP,HgbA1c < 7.0                     ,,,,33:11.6
+1.80589E+15,Vicki,Short MD,HgbA1c < 7.0                     ,34,79,0.4304,33:11.6
+1.80624E+15,Heather,Thomson ARNP,HgbA1c < 7.0                     ,,2,,33:11.6
+1.81237E+15,Patrick,McLaughlin MD,HgbA1c < 7.0                     ,21,38,0.5526,33:11.6
+1.68536E+15,Shelby,Hein MD,Pneumovax - Smokers w/current pneumovax,28,62,0.4516,35:04.1
+1.69133E+15,Rory,Bradt DO,Pneumovax - Smokers w/current pneumovax,48,141,0.3404,35:04.1
+1.69254E+15,Greg,Anderson MD,Pneumovax - Smokers w/current pneumovax,34,97,0.3505,35:04.1
+1.69701E+15,Claudia,Rey MD,Pneumovax - Smokers w/current pneumovax,56,131,0.4275,35:04.1
+1.69943E+15,Erik,Bylund MD,Pneumovax - Smokers w/current pneumovax,25,126,0.1984,35:04.1
+1.69943E+15,Martin,Dubek MD,Pneumovax - Smokers w/current pneumovax,,,,35:04.1
+1.69943E+15,Roger,Estep MD,Pneumovax - Smokers w/current pneumovax,8,47,0.1702,35:04.1
+1.69943E+15,Jonathan,Gamson MD,Pneumovax - Smokers w/current pneumovax,30,139,0.2158,35:04.1
+1.69943E+15,Janet,Hansom MD,Pneumovax - Smokers w/current pneumovax,16,33,0.4848,35:04.1
+1.69943E+15,Lucia,Muller MD,Pneumovax - Smokers w/current pneumovax,17,43,0.3953,35:04.1
+1.69943E+15,Jonathan,Ploudre MD,Pneumovax - Smokers w/current pneumovax,41,116,0.3534,35:04.1
+1.69943E+15,L Sloane,Winkes MD,Pneumovax - Smokers w/current pneumovax,20,36,0.5556,35:04.1
+1.69943E+15,Joseph,McConahey PA-C,Pneumovax - Smokers w/current pneumovax,,,,35:04.1
+1.69943E+15,Erinn,Case ARNP,Pneumovax - Smokers w/current pneumovax,17,77,0.2208,35:04.1
+1.70464E+15,Lisa,Brodsky,Pneumovax - Smokers w/current pneumovax,7,31,0.2258,35:04.1
+1.7054E+15,Jessica,Klassen ARNP,Pneumovax - Smokers w/current pneumovax,2,20,0.1,35:04.1
+1.72069E+15,Margaret,Sweeney,Pneumovax - Smokers w/current pneumovax,12,41,0.2927,35:04.1
+1.72069E+15,Franklin,Bjorseth,Pneumovax - Smokers w/current pneumovax,44,116,0.3793,35:04.1
+1.72069E+15,Michael,James,Pneumovax - Smokers w/current pneumovax,15,90,0.1667,35:04.1
+1.72069E+15,Robert,Rieger,Pneumovax - Smokers w/current pneumovax,35,77,0.4545,35:04.1
+1.72121E+15,Meghan,Lelonek,Pneumovax - Smokers w/current pneumovax,28,88,0.3182,35:04.1
+1.7443E+15,Sally,McPherson ARNP,Pneumovax - Smokers w/current pneumovax,28,102,0.2745,35:04.1
+1.74454E+15,Michael,Fleming PA-C,Pneumovax - Smokers w/current pneumovax,11,39,0.2821,35:04.1
+1.75121E+15,Sara,Bowling,Pneumovax - Smokers w/current pneumovax,17,85,0.2,35:04.1
+1.77055E+15,William,Eiford PA-C,Pneumovax - Smokers w/current pneumovax,,,,35:04.1
+1.77659E+15,Sarah,Herrman ARNP,Pneumovax - Smokers w/current pneumovax,,,,35:04.1
+1.78471E+15,Patricia,Payne-Zajac PA-C,Pneumovax - Smokers w/current pneumovax,,,,35:04.1
+1.78472E+15,Lillian,Pavlik ARNP,Pneumovax - Smokers w/current pneumovax,,,,35:04.1
+1.78627E+15,Lauren,Sauve ARNP,Pneumovax - Smokers w/current pneumovax,33,104,0.3173,35:04.1
+1.7962E+15,Catherine,Gambs MD,Pneumovax - Smokers w/current pneumovax,18,115,0.1565,35:04.1
+1.7962E+15,Rebecca,Brejcha ARNP,Pneumovax - Smokers w/current pneumovax,,,,35:04.1
+1.80589E+15,Vicki,Short MD,Pneumovax - Smokers w/current pneumovax,39,80,0.4875,35:04.1
+1.80624E+15,Heather,Thomson ARNP,Pneumovax - Smokers w/current pneumovax,,2,,35:04.1
+1.81237E+15,Patrick,McLaughlin MD,Pneumovax - Smokers w/current pneumovax,26,69,0.3768,35:04.1
+1.59785E+15,Michael,Steele MD,HgbA1c NOT > 9.0 (poor control) ,206,233,0.8841,33:16.7
+1.61408E+15,Lisa,VanHofwegen MD,HgbA1c NOT > 9.0 (poor control) ,28,29,0.9655,33:16.7
+1.6363E+15,Shannon,Billau DO,HgbA1c NOT > 9.0 (poor control) ,43,51,0.8431,33:16.7
+1.66055E+15,Deborah,Roessler MD,HgbA1c NOT > 9.0 (poor control) ,82,92,0.8913,33:16.7
+1.68536E+15,Shelby,Hein MD,HgbA1c NOT > 9.0 (poor control) ,70,77,0.9091,33:16.7
+1.69133E+15,Rory,Bradt DO,HgbA1c NOT > 9.0 (poor control) ,86,96,0.8958,33:16.7
+1.69254E+15,Greg,Anderson MD,HgbA1c NOT > 9.0 (poor control) ,87,103,0.8447,33:16.7
+1.69701E+15,Claudia,Rey MD,HgbA1c NOT > 9.0 (poor control) ,93,98,0.949,33:16.7
+1.69943E+15,Erik,Bylund MD,HgbA1c NOT > 9.0 (poor control) ,111,124,0.8952,33:16.7
+1.69943E+15,Martin,Dubek MD,HgbA1c NOT > 9.0 (poor control) ,,,,33:16.7
+1.69943E+15,Roger,Estep MD,HgbA1c NOT > 9.0 (poor control) ,79,87,0.908,33:16.7
+1.69943E+15,Jonathan,Gamson MD,HgbA1c NOT > 9.0 (poor control) ,140,152,0.9211,33:16.7
+1.69943E+15,Janet,Hansom MD,HgbA1c NOT > 9.0 (poor control) ,57,67,0.8507,33:16.7
+1.69943E+15,Lucia,Muller MD,HgbA1c NOT > 9.0 (poor control) ,38,39,0.9744,33:16.7
+1.69943E+15,Jonathan,Ploudre MD,HgbA1c NOT > 9.0 (poor control) ,95,109,0.8716,33:16.7
+1.69943E+15,L Sloane,Winkes MD,HgbA1c NOT > 9.0 (poor control) ,45,49,0.9184,33:16.7
+1.69943E+15,Joseph,McConahey PA-C,HgbA1c NOT > 9.0 (poor control) ,,,,33:16.7
+1.69943E+15,Erinn,Case ARNP,HgbA1c NOT > 9.0 (poor control) ,51,57,0.8947,33:16.7
+1.70464E+15,Lisa,Brodsky,HgbA1c NOT > 9.0 (poor control) ,15,18,0.8333,33:16.7
+1.7054E+15,Jessica,Klassen ARNP,HgbA1c NOT > 9.0 (poor control) ,22,24,0.9167,33:16.7
+1.72069E+15,Margaret,Sweeney,HgbA1c NOT > 9.0 (poor control) ,62,71,0.8732,33:16.7
+1.72069E+15,Franklin,Bjorseth,HgbA1c NOT > 9.0 (poor control) ,99,106,0.934,33:16.7
+1.72069E+15,Michael,James,HgbA1c NOT > 9.0 (poor control) ,127,141,0.9007,33:16.7
+1.72069E+15,Robert,Rieger,HgbA1c NOT > 9.0 (poor control) ,65,71,0.9155,33:16.7
+1.72121E+15,Meghan,Lelonek,HgbA1c NOT > 9.0 (poor control) ,45,54,0.8333,33:16.7
+1.7443E+15,Sally,McPherson ARNP,HgbA1c NOT > 9.0 (poor control) ,70,82,0.8537,33:16.7
+1.74454E+15,Michael,Fleming PA-C,HgbA1c NOT > 9.0 (poor control) ,17,23,0.7391,33:16.7
+1.75121E+15,Sara,Bowling,HgbA1c NOT > 9.0 (poor control) ,30,34,0.8824,33:16.7
+1.77055E+15,William,Eiford PA-C,HgbA1c NOT > 9.0 (poor control) ,,,,33:16.7
+1.77659E+15,Sarah,Herrman ARNP,HgbA1c NOT > 9.0 (poor control) ,,,,33:16.7
+1.78471E+15,Patricia,Payne-Zajac PA-C,HgbA1c NOT > 9.0 (poor control) ,,,,33:16.7
+1.78472E+15,Lillian,Pavlik ARNP,HgbA1c NOT > 9.0 (poor control) ,,,,33:16.7
+1.78627E+15,Lauren,Sauve ARNP,HgbA1c NOT > 9.0 (poor control) ,76,89,0.8539,33:16.7
+1.7962E+15,Catherine,Gambs MD,HgbA1c NOT > 9.0 (poor control) ,80,95,0.8421,33:16.7
+1.7962E+15,Rebecca,Brejcha ARNP,HgbA1c NOT > 9.0 (poor control) ,,,,33:16.7
+1.80589E+15,Vicki,Short MD,HgbA1c NOT > 9.0 (poor control) ,69,79,0.8734,33:16.7
+1.80624E+15,Heather,Thomson ARNP,HgbA1c NOT > 9.0 (poor control) ,2,2,1,33:16.7
+1.81237E+15,Patrick,McLaughlin MD,HgbA1c NOT > 9.0 (poor control) ,37,38,0.9737,33:16.7
+1.3745E+15,Bruce,Pederson MD,TD - Patients >18yrs with TD in last 10 years,1071,1666,0.6429,35:12.5
+1.3745E+15,Melana,"Schimke, MD",TD - Patients >18yrs with TD in last 10 years,682,1017,0.6706,35:12.5
+1.3745E+15,Miriam,Shapiro MD,TD - Patients >18yrs with TD in last 10 years,750,967,0.7756,35:12.5
+1.3745E+15,Chao-Ying,Wu MD,TD - Patients >18yrs with TD in last 10 years,947,1134,0.8351,35:12.5
+1.37822E+15,Steven,Bloom MD,TD - Patients >18yrs with TD in last 10 years,1085,1408,0.7706,35:12.5
+1.37822E+15,Jason,Short MD,TD - Patients >18yrs with TD in last 10 years,1249,1590,0.7855,35:12.5
+1.4004E+15,Matt,Werner MD,TD - Patients >18yrs with TD in last 10 years,1091,1515,0.7201,35:12.5
+1.41225E+15,Jennifer,Bates MD,TD - Patients >18yrs with TD in last 10 years,648,840,0.7714,35:12.5
+1.42737E+15,Edward,Bloom MD,TD - Patients >18yrs with TD in last 10 years,1341,1795,0.7471,35:12.5
+1.43401E+15,Jessica,Bloom MD,TD - Patients >18yrs with TD in last 10 years,458,566,0.8092,35:12.5
+1.43523E+15,April,Wakefield-Pagels MD,TD - Patients >18yrs with TD in last 10 years,1226,1408,0.8707,35:12.5
+1.44067E+15,John,Hiemstra DO,TD - Patients >18yrs with TD in last 10 years,1717,2053,0.8363,35:12.5
+1.45553E+15,Teresa,Regier ARNP,TD - Patients >18yrs with TD in last 10 years,475,1003,0.4736,35:12.5
+1.48275E+15,Deborah,Hall MD,TD - Patients >18yrs with TD in last 10 years,1084,1463,0.7409,35:12.5
+1.4913E+15,Ian,"Bonner, MD",TD - Patients >18yrs with TD in last 10 years,1295,1790,0.7235,35:12.5
+1.51359E+15,Laura,Fox DO,TD - Patients >18yrs with TD in last 10 years,827,989,0.8362,35:12.5
+1.51868E+15,Mary,Swanson MD,TD - Patients >18yrs with TD in last 10 years,604,702,0.8604,35:12.5
+1.37045E+15,Steven,Alexander MD,Chlamydia,1,2,0.5,34:21.5
+1.37442E+15,Bertha,Safford MD,Chlamydia,2,7,0.2857,34:21.5
+1.37442E+15,Richard,Binder MD,Chlamydia,,4,,34:21.5
+1.37442E+15,S. Harry,Herdman MD,Chlamydia,7,19,0.3684,34:21.5
+1.3745E+15,Margaret,Burden MD,Chlamydia,11,51,0.2157,34:21.5
+1.3745E+15,Robin,Caldwell MD,Chlamydia,1,11,0.0909,34:21.5
+1.3745E+15,David,Gavareski MD,Chlamydia,2,9,0.2222,34:21.5
+1.3745E+15,Karen,Goodman ARNP,Chlamydia,2,26,0.0769,34:21.5
+1.3745E+15,Larry,Hartwell MD,Chlamydia,,1,,34:21.5
+1.3745E+15,James,Hopper MD,Chlamydia,3,5,0.6,34:21.5
+1.3745E+15,John,Hruby MD,Chlamydia,,,,34:21.5
+1.3745E+15,Kellie,Jacobs MD,Chlamydia,10,24,0.4167,34:21.5
+1.3745E+15,Stephen,Lewis MD,Chlamydia,5,14,0.3571,34:21.5
+1.3745E+15,Richard,McClenahan MD,Chlamydia,3,10,0.3,34:21.5
+1.3745E+15,Karen,O'Keefe MD,Chlamydia,10,36,0.2778,34:21.5
+1.3745E+15,Bruce,Pederson MD,Chlamydia,,5,,34:21.5
+1.3745E+15,Melana,"Schimke, MD",Chlamydia,2,25,0.08,34:21.5
+1.3745E+15,Miriam,Shapiro MD,Chlamydia,1,9,0.1111,34:21.5
+1.3745E+15,Chao-Ying,Wu MD,Chlamydia,4,14,0.2857,34:21.5
+1.37822E+15,Steven,Bloom MD,Chlamydia,,2,,34:21.5
+1.37822E+15,Jason,Short MD,Chlamydia,6,25,0.24,34:21.5
+1.4004E+15,Matt,Werner MD,Chlamydia,8,36,0.2222,34:21.5
+1.41225E+15,Jennifer,Bates MD,Chlamydia,8,20,0.4,34:21.5
+1.42737E+15,Edward,Bloom MD,Chlamydia,3,13,0.2308,34:21.5
+1.43401E+15,Jessica,Bloom MD,Chlamydia,3,7,0.4286,34:21.5
+1.43523E+15,April,Wakefield-Pagels MD,Chlamydia,12,45,0.2667,34:21.5
+1.44067E+15,John,Hiemstra DO,Chlamydia,3,8,0.375,34:21.5
+1.45553E+15,Teresa,Regier ARNP,Chlamydia,1,6,0.1667,34:21.5
+1.48275E+15,Deborah,Hall MD,Chlamydia,8,29,0.2759,34:21.5
+1.4913E+15,Ian,"Bonner, MD",Chlamydia,,5,,34:21.5
+1.51359E+15,Laura,Fox DO,Chlamydia,5,60,0.0833,34:21.5
+1.51868E+15,Mary,Swanson MD,Chlamydia,3,24,0.125,34:21.5
+1.52207E+15,Rodney,Anderson MD,Chlamydia,,6,,34:21.5
+1.52258E+15,Anneliese,Floyd MD,Chlamydia,5,18,0.2778,34:21.5
+1.53182E+15,Elizabeth,"Gaylord ARNP, ND",Chlamydia,12,56,0.2143,34:21.5
+1.53865E+15,Sarah,Stewart ARNP,Chlamydia,1,21,0.0476,34:21.5
+1.54522E+15,Frederick,Gunningham MD,Chlamydia,5,24,0.2083,34:21.5
+1.56252E+15,John,Raduege MD,Chlamydia,4,17,0.2353,34:21.5
+1.5688E+15,Erin,Maloney PA-C,Chlamydia,,,,34:21.5
+1.57225E+15,Renay,"Fredette MD, MSNu",Chlamydia,3,12,0.25,34:21.5
+1.59785E+15,Michael,Steele MD,Chlamydia,2,7,0.2857,34:21.5
+1.61408E+15,Lisa,VanHofwegen MD,Chlamydia,3,18,0.1667,34:21.5
+1.52207E+15,Rodney,Anderson MD,TD - Patients >18yrs with TD in last 10 years,1107,1367,0.8098,35:12.5
+1.52258E+15,Anneliese,Floyd MD,TD - Patients >18yrs with TD in last 10 years,753,870,0.8655,35:12.5
+1.53182E+15,Elizabeth,"Gaylord ARNP, ND",TD - Patients >18yrs with TD in last 10 years,661,841,0.786,35:12.5
+1.53865E+15,Sarah,Stewart ARNP,TD - Patients >18yrs with TD in last 10 years,141,188,0.75,35:12.5
+1.54522E+15,Frederick,Gunningham MD,TD - Patients >18yrs with TD in last 10 years,913,1141,0.8002,35:12.5
+1.56252E+15,John,Raduege MD,TD - Patients >18yrs with TD in last 10 years,1244,1500,0.8293,35:12.5
+1.5688E+15,Erin,Maloney PA-C,TD - Patients >18yrs with TD in last 10 years,,,,35:12.5
+1.57225E+15,Renay,"Fredette MD, MSNu",TD - Patients >18yrs with TD in last 10 years,588,766,0.7676,35:12.5
+1.59785E+15,Michael,Steele MD,TD - Patients >18yrs with TD in last 10 years,1261,1920,0.6568,35:12.5
+1.61408E+15,Lisa,VanHofwegen MD,TD - Patients >18yrs with TD in last 10 years,599,710,0.8437,35:12.5
+1.6363E+15,Shannon,Billau DO,TD - Patients >18yrs with TD in last 10 years,911,1284,0.7095,35:12.5
+1.66055E+15,Deborah,Roessler MD,TD - Patients >18yrs with TD in last 10 years,1297,1781,0.7282,35:12.5
+1.68536E+15,Shelby,Hein MD,TD - Patients >18yrs with TD in last 10 years,1040,1431,0.7268,35:12.5
+1.69133E+15,Rory,Bradt DO,TD - Patients >18yrs with TD in last 10 years,1114,1789,0.6227,35:12.5
+1.69254E+15,Greg,Anderson MD,TD - Patients >18yrs with TD in last 10 years,1069,1376,0.7769,35:12.5
+1.69701E+15,Claudia,Rey MD,TD - Patients >18yrs with TD in last 10 years,861,1193,0.7217,35:12.5
+1.69943E+15,Erik,Bylund MD,TD - Patients >18yrs with TD in last 10 years,905,1320,0.6856,35:12.5
+1.69943E+15,Martin,Dubek MD,TD - Patients >18yrs with TD in last 10 years,,,,35:12.5
+1.69943E+15,Roger,Estep MD,TD - Patients >18yrs with TD in last 10 years,585,725,0.8069,35:12.5
+1.69943E+15,Jonathan,Gamson MD,TD - Patients >18yrs with TD in last 10 years,1029,1524,0.6752,35:12.5
+1.69943E+15,Janet,Hansom MD,TD - Patients >18yrs with TD in last 10 years,743,919,0.8085,35:12.5
+1.69943E+15,Lucia,Muller MD,TD - Patients >18yrs with TD in last 10 years,523,668,0.7829,35:12.5
+1.69943E+15,Jonathan,Ploudre MD,TD - Patients >18yrs with TD in last 10 years,1043,1286,0.811,35:12.5
+1.69943E+15,L Sloane,Winkes MD,TD - Patients >18yrs with TD in last 10 years,587,661,0.888,35:12.5
+1.69943E+15,Joseph,McConahey PA-C,TD - Patients >18yrs with TD in last 10 years,,,,35:12.5
+1.69943E+15,Erinn,Case ARNP,TD - Patients >18yrs with TD in last 10 years,633,903,0.701,35:12.5
+1.69943E+15,L Sloane,Winkes MD,WCV 3-6 yr,45,46,0.9783,18:09.0
+1.69943E+15,Joseph,McConahey PA-C,WCV 3-6 yr,,,,18:09.0
+1.69943E+15,Erinn,Case ARNP,WCV 3-6 yr,15,17,0.8824,18:09.0
+1.70464E+15,Lisa,Brodsky,WCV 3-6 yr,7,13,0.5385,18:09.0
+1.7054E+15,Jessica,Klassen ARNP,WCV 3-6 yr,1,3,0.3333,18:09.0
+1.72069E+15,Margaret,Sweeney,WCV 3-6 yr,73,89,0.8202,18:09.0
+1.72069E+15,Franklin,Bjorseth,WCV 3-6 yr,5,8,0.625,18:09.0
+1.72069E+15,Michael,James,WCV 3-6 yr,7,11,0.6364,18:09.0
+1.72069E+15,Robert,Rieger,WCV 3-6 yr,81,103,0.7864,18:09.0
+1.72121E+15,Meghan,Lelonek,WCV 3-6 yr,50,68,0.7353,18:09.0
+1.7443E+15,Sally,McPherson ARNP,WCV 3-6 yr,18,23,0.7826,18:09.0
+1.74454E+15,Michael,Fleming PA-C,WCV 3-6 yr,20,34,0.5882,18:09.0
+1.75121E+15,Sara,Bowling,WCV 3-6 yr,23,30,0.7667,18:09.0
+1.77055E+15,William,Eiford PA-C,WCV 3-6 yr,,,,18:09.0
+1.77659E+15,Sarah,Herrman ARNP,WCV 3-6 yr,,,,18:09.0
+1.78471E+15,Patricia,Payne-Zajac PA-C,WCV 3-6 yr,,,,18:09.0
+1.78472E+15,Lillian,Pavlik ARNP,WCV 3-6 yr,,,,18:09.0
+1.78627E+15,Lauren,Sauve ARNP,WCV 3-6 yr,7,17,0.4118,18:09.0
+1.7962E+15,Catherine,Gambs MD,WCV 3-6 yr,8,17,0.4706,18:09.0
+1.7962E+15,Rebecca,Brejcha ARNP,WCV 3-6 yr,,,,18:09.0
+1.80589E+15,Vicki,Short MD,WCV 3-6 yr,10,18,0.5556,18:09.0
+1.80624E+15,Heather,Thomson ARNP,WCV 3-6 yr,,4,,18:09.0
+1.81237E+15,Patrick,McLaughlin MD,WCV 3-6 yr,15,19,0.7895,18:09.0
+1.70464E+15,Lisa,Brodsky,TD - Patients >18yrs with TD in last 10 years,208,431,0.4826,35:12.5
+1.7054E+15,Jessica,Klassen ARNP,TD - Patients >18yrs with TD in last 10 years,59,219,0.2694,35:12.5
+1.72069E+15,Margaret,Sweeney,TD - Patients >18yrs with TD in last 10 years,469,796,0.5892,35:12.5
+1.72069E+15,Franklin,Bjorseth,TD - Patients >18yrs with TD in last 10 years,439,1072,0.4095,35:12.5
+1.72069E+15,Michael,James,TD - Patients >18yrs with TD in last 10 years,443,1118,0.3962,35:12.5
+1.72069E+15,Robert,Rieger,TD - Patients >18yrs with TD in last 10 years,661,915,0.7224,35:12.5
+1.72121E+15,Meghan,Lelonek,TD - Patients >18yrs with TD in last 10 years,776,1124,0.6904,35:12.5
+1.7443E+15,Sally,McPherson ARNP,TD - Patients >18yrs with TD in last 10 years,721,1003,0.7188,35:12.5
+1.74454E+15,Michael,Fleming PA-C,TD - Patients >18yrs with TD in last 10 years,219,390,0.5615,35:12.5
+1.75121E+15,Sara,Bowling,TD - Patients >18yrs with TD in last 10 years,729,1108,0.6579,35:12.5
+1.77055E+15,William,Eiford PA-C,TD - Patients >18yrs with TD in last 10 years,,,,35:12.5
+1.77659E+15,Sarah,Herrman ARNP,TD - Patients >18yrs with TD in last 10 years,,,,35:12.5
+1.78471E+15,Patricia,Payne-Zajac PA-C,TD - Patients >18yrs with TD in last 10 years,,,,35:12.5
+1.78472E+15,Lillian,Pavlik ARNP,TD - Patients >18yrs with TD in last 10 years,,,,35:12.5
+1.78627E+15,Lauren,Sauve ARNP,TD - Patients >18yrs with TD in last 10 years,822,1061,0.7747,35:12.5
+1.7962E+15,Catherine,Gambs MD,TD - Patients >18yrs with TD in last 10 years,854,1316,0.6489,35:12.5
+1.7962E+15,Rebecca,Brejcha ARNP,TD - Patients >18yrs with TD in last 10 years,,,,35:12.5
+1.80589E+15,Vicki,Short MD,TD - Patients >18yrs with TD in last 10 years,894,1356,0.6593,35:12.5
+1.80624E+15,Heather,Thomson ARNP,TD - Patients >18yrs with TD in last 10 years,49,76,0.6447,35:12.5
+1.81237E+15,Patrick,McLaughlin MD,TD - Patients >18yrs with TD in last 10 years,662,975,0.679,35:12.5
+1.45553E+15,Teresa,Regier ARNP,DM PTS 55-75 w/ACE/ARB,43,59,0.7288,44:07.5
+1.48275E+15,Deborah,Hall MD,DM PTS 55-75 w/ACE/ARB,45,53,0.8491,44:07.5
+1.4913E+15,Ian,"Bonner, MD",DM PTS 55-75 w/ACE/ARB,36,47,0.766,44:07.5
+1.51359E+15,Laura,Fox DO,DM PTS 55-75 w/ACE/ARB,19,26,0.7308,44:07.5
+1.51868E+15,Mary,Swanson MD,DM PTS 55-75 w/ACE/ARB,22,27,0.8148,44:07.5
+1.52207E+15,Rodney,Anderson MD,DM PTS 55-75 w/ACE/ARB,39,57,0.6842,44:07.5
+1.52258E+15,Anneliese,Floyd MD,DM PTS 55-75 w/ACE/ARB,26,30,0.8667,44:07.5
+1.53182E+15,Elizabeth,"Gaylord ARNP, ND",DM PTS 55-75 w/ACE/ARB,9,12,0.75,44:07.5
+1.53865E+15,Sarah,Stewart ARNP,DM PTS 55-75 w/ACE/ARB,,,,44:07.5
+1.54522E+15,Frederick,Gunningham MD,DM PTS 55-75 w/ACE/ARB,47,66,0.7121,44:07.5
+1.56252E+15,John,Raduege MD,DM PTS 55-75 w/ACE/ARB,82,98,0.8367,44:07.5
+1.5688E+15,Erin,Maloney PA-C,DM PTS 55-75 w/ACE/ARB,,,,44:07.5
+1.57225E+15,Renay,"Fredette MD, MSNu",DM PTS 55-75 w/ACE/ARB,27,33,0.8182,44:07.5
+1.59785E+15,Michael,Steele MD,DM PTS 55-75 w/ACE/ARB,96,127,0.7559,44:07.5
+1.61408E+15,Lisa,VanHofwegen MD,DM PTS 55-75 w/ACE/ARB,13,19,0.6842,44:07.5
+1.6363E+15,Shannon,Billau DO,DM PTS 55-75 w/ACE/ARB,21,29,0.7241,44:07.5
+1.66055E+15,Deborah,Roessler MD,DM PTS 55-75 w/ACE/ARB,40,57,0.7018,44:07.5
+1.68536E+15,Shelby,Hein MD,DM PTS 55-75 w/ACE/ARB,37,47,0.7872,44:07.5
+1.69133E+15,Rory,Bradt DO,DM PTS 55-75 w/ACE/ARB,35,53,0.6604,44:07.5
+1.69254E+15,Greg,Anderson MD,DM PTS 55-75 w/ACE/ARB,61,67,0.9104,44:07.5
+1.69701E+15,Claudia,Rey MD,DM PTS 55-75 w/ACE/ARB,39,47,0.8298,44:07.5
+1.69943E+15,Erik,Bylund MD,DM PTS 55-75 w/ACE/ARB,49,71,0.6901,44:07.5
+1.69943E+15,Martin,Dubek MD,DM PTS 55-75 w/ACE/ARB,,,,44:07.5
+1.69943E+15,Roger,Estep MD,DM PTS 55-75 w/ACE/ARB,44,54,0.8148,44:07.5
+1.69943E+15,Jonathan,Gamson MD,DM PTS 55-75 w/ACE/ARB,67,83,0.8072,44:07.5
+1.69943E+15,Janet,Hansom MD,DM PTS 55-75 w/ACE/ARB,29,34,0.8529,44:07.5
+1.69943E+15,Lucia,Muller MD,DM PTS 55-75 w/ACE/ARB,14,22,0.6364,44:07.5
+1.69943E+15,Jonathan,Ploudre MD,DM PTS 55-75 w/ACE/ARB,55,69,0.7971,44:07.5
+1.69943E+15,L Sloane,Winkes MD,DM PTS 55-75 w/ACE/ARB,26,30,0.8667,44:07.5
+1.69943E+15,Joseph,McConahey PA-C,DM PTS 55-75 w/ACE/ARB,,,,44:07.5
+1.69943E+15,Erinn,Case ARNP,DM PTS 55-75 w/ACE/ARB,27,35,0.7714,44:07.5
+1.70464E+15,Lisa,Brodsky,DM PTS 55-75 w/ACE/ARB,7,10,0.7,44:07.5
+1.7054E+15,Jessica,Klassen ARNP,DM PTS 55-75 w/ACE/ARB,9,17,0.5294,44:07.5
+1.72069E+15,Margaret,Sweeney,DM PTS 55-75 w/ACE/ARB,33,43,0.7674,44:07.5
+1.72069E+15,Franklin,Bjorseth,DM PTS 55-75 w/ACE/ARB,36,53,0.6792,44:07.5
+1.72069E+15,Michael,James,DM PTS 55-75 w/ACE/ARB,60,82,0.7317,44:07.5
+1.72069E+15,Robert,Rieger,DM PTS 55-75 w/ACE/ARB,20,34,0.5882,44:07.5
+1.72121E+15,Meghan,Lelonek,DM PTS 55-75 w/ACE/ARB,25,32,0.7813,44:07.5
+1.7443E+15,Sally,McPherson ARNP,DM PTS 55-75 w/ACE/ARB,35,48,0.7292,44:07.5
+1.74454E+15,Michael,Fleming PA-C,DM PTS 55-75 w/ACE/ARB,13,14,0.9286,44:07.5
+1.75121E+15,Sara,Bowling,DM PTS 55-75 w/ACE/ARB,12,15,0.8,44:07.5
+1.77055E+15,William,Eiford PA-C,DM PTS 55-75 w/ACE/ARB,,,,44:07.5
+1.77659E+15,Sarah,Herrman ARNP,DM PTS 55-75 w/ACE/ARB,,,,44:07.5
+1.78471E+15,Patricia,Payne-Zajac PA-C,DM PTS 55-75 w/ACE/ARB,,,,44:07.5
+1.78472E+15,Lillian,Pavlik ARNP,DM PTS 55-75 w/ACE/ARB,,,,44:07.5
+1.78627E+15,Lauren,Sauve ARNP,DM PTS 55-75 w/ACE/ARB,44,56,0.7857,44:07.5
+1.7962E+15,Catherine,Gambs MD,DM PTS 55-75 w/ACE/ARB,30,39,0.7692,44:07.5
+1.7962E+15,Rebecca,Brejcha ARNP,DM PTS 55-75 w/ACE/ARB,,,,44:07.5
+1.80589E+15,Vicki,Short MD,DM PTS 55-75 w/ACE/ARB,40,51,0.7843,44:07.5
+1.80624E+15,Heather,Thomson ARNP,DM PTS 55-75 w/ACE/ARB,,,,44:07.5
+1.81237E+15,Patrick,McLaughlin MD,DM PTS 55-75 w/ACE/ARB,15,22,0.6818,44:07.5
+1.51359E+15,Laura,Fox DO,Nephropathy Assessment,30,35,0.8571,33:22.7
+1.51868E+15,Mary,Swanson MD,Nephropathy Assessment,37,40,0.925,33:22.7
+1.52207E+15,Rodney,Anderson MD,Nephropathy Assessment,73,101,0.7228,33:22.7
+1.52258E+15,Anneliese,Floyd MD,Nephropathy Assessment,32,41,0.7805,33:22.7
+1.53182E+15,Elizabeth,"Gaylord ARNP, ND",Nephropathy Assessment,15,19,0.7895,33:22.7
+1.53865E+15,Sarah,Stewart ARNP,Nephropathy Assessment,,,,33:22.7
+1.54522E+15,Frederick,Gunningham MD,Nephropathy Assessment,98,129,0.7597,33:22.7
+1.56252E+15,John,Raduege MD,Nephropathy Assessment,110,137,0.8029,33:22.7
+1.5688E+15,Erin,Maloney PA-C,Nephropathy Assessment,,,,33:22.7
+1.57225E+15,Renay,"Fredette MD, MSNu",Nephropathy Assessment,47,64,0.7344,33:22.7
+1.59785E+15,Michael,Steele MD,Nephropathy Assessment,178,233,0.7639,33:22.7
+1.61408E+15,Lisa,VanHofwegen MD,Nephropathy Assessment,21,29,0.7241,33:22.7
+1.6363E+15,Shannon,Billau DO,Nephropathy Assessment,40,51,0.7843,33:22.7
+1.66055E+15,Deborah,Roessler MD,Nephropathy Assessment,57,92,0.6196,33:22.7
+1.68536E+15,Shelby,Hein MD,Nephropathy Assessment,37,77,0.4805,33:22.7
+1.69133E+15,Rory,Bradt DO,Nephropathy Assessment,73,96,0.7604,33:22.7
+1.69254E+15,Greg,Anderson MD,Nephropathy Assessment,83,103,0.8058,33:22.7
+1.69701E+15,Claudia,Rey MD,Nephropathy Assessment,67,98,0.6837,33:22.7
+1.69943E+15,Erik,Bylund MD,Nephropathy Assessment,94,124,0.7581,33:22.7
+1.69943E+15,Martin,Dubek MD,Nephropathy Assessment,,,,33:22.7
+1.69943E+15,Roger,Estep MD,Nephropathy Assessment,73,87,0.8391,33:22.7
+1.69943E+15,Jonathan,Gamson MD,Nephropathy Assessment,107,152,0.7039,33:22.7
+1.69943E+15,Janet,Hansom MD,Nephropathy Assessment,53,67,0.791,33:22.7
+1.69943E+15,Lucia,Muller MD,Nephropathy Assessment,34,39,0.8718,33:22.7
+1.69943E+15,Jonathan,Ploudre MD,Nephropathy Assessment,91,109,0.8349,33:22.7
+1.69943E+15,L Sloane,Winkes MD,Nephropathy Assessment,42,49,0.8571,33:22.7
+1.69943E+15,Joseph,McConahey PA-C,Nephropathy Assessment,,,,33:22.7
+1.69943E+15,Erinn,Case ARNP,Nephropathy Assessment,33,57,0.5789,33:22.7
+1.70464E+15,Lisa,Brodsky,Nephropathy Assessment,14,18,0.7778,33:22.7
+1.7054E+15,Jessica,Klassen ARNP,Nephropathy Assessment,14,24,0.5833,33:22.7
+1.72069E+15,Margaret,Sweeney,Nephropathy Assessment,47,71,0.662,33:22.7
+1.72069E+15,Franklin,Bjorseth,Nephropathy Assessment,63,106,0.5943,33:22.7
+1.72069E+15,Michael,James,Nephropathy Assessment,90,141,0.6383,33:22.7
+1.72069E+15,Robert,Rieger,Nephropathy Assessment,55,71,0.7746,33:22.7
+1.72121E+15,Meghan,Lelonek,Nephropathy Assessment,40,54,0.7407,33:22.7
+1.7443E+15,Sally,McPherson ARNP,Nephropathy Assessment,57,82,0.6951,33:22.7
+1.74454E+15,Michael,Fleming PA-C,Nephropathy Assessment,15,23,0.6522,33:22.7
+1.75121E+15,Sara,Bowling,Nephropathy Assessment,23,34,0.6765,33:22.7
+1.77055E+15,William,Eiford PA-C,Nephropathy Assessment,,,,33:22.7
+1.77659E+15,Sarah,Herrman ARNP,Nephropathy Assessment,,,,33:22.7
+1.78471E+15,Patricia,Payne-Zajac PA-C,Nephropathy Assessment,,,,33:22.7
+1.78472E+15,Lillian,Pavlik ARNP,Nephropathy Assessment,,,,33:22.7
+1.78627E+15,Lauren,Sauve ARNP,Nephropathy Assessment,61,89,0.6854,33:22.7
+1.7962E+15,Catherine,Gambs MD,Nephropathy Assessment,60,95,0.6316,33:22.7
+1.7962E+15,Rebecca,Brejcha ARNP,Nephropathy Assessment,,,,33:22.7
+1.80589E+15,Vicki,Short MD,Nephropathy Assessment,53,79,0.6709,33:22.7
+1.80624E+15,Heather,Thomson ARNP,Nephropathy Assessment,1,2,0.5,33:22.7
+1.81237E+15,Patrick,McLaughlin MD,Nephropathy Assessment,24,38,0.6316,33:22.7
+1.37045E+15,Steven,Alexander MD,Mammogram Ages 52 -74,125,195,0.641,34:25.9
+1.37442E+15,Bertha,Safford MD,Mammogram Ages 52 -74,257,361,0.7119,34:25.9
+1.37442E+15,Richard,Binder MD,Mammogram Ages 52 -74,118,163,0.7239,34:25.9
+1.37442E+15,S. Harry,Herdman MD,Mammogram Ages 52 -74,220,307,0.7166,34:25.9
+1.3745E+15,Margaret,Burden MD,Mammogram Ages 52 -74,227,314,0.7229,34:25.9
+1.3745E+15,Robin,Caldwell MD,Mammogram Ages 52 -74,172,303,0.5677,34:25.9
+1.3745E+15,David,Gavareski MD,Mammogram Ages 52 -74,190,266,0.7143,34:25.9
+1.3745E+15,Karen,Goodman ARNP,Mammogram Ages 52 -74,422,642,0.6573,34:25.9
+1.3745E+15,Larry,Hartwell MD,Mammogram Ages 52 -74,108,208,0.5192,34:25.9
+1.3745E+15,James,Hopper MD,Mammogram Ages 52 -74,107,158,0.6772,34:25.9
+1.3745E+15,John,Hruby MD,Mammogram Ages 52 -74,92,146,0.6301,34:25.9
+1.3745E+15,Kellie,Jacobs MD,Mammogram Ages 52 -74,294,406,0.7241,34:25.9
+1.37045E+15,Steven,Alexander MD,Pneumovax - DM patients w/current pneumovax,156,170,0.9176,34:50.3
+1.37442E+15,Bertha,Safford MD,Pneumovax - DM patients w/current pneumovax,87,104,0.8365,34:50.3
+1.37442E+15,Richard,Binder MD,Pneumovax - DM patients w/current pneumovax,73,78,0.9359,34:50.3
+1.37442E+15,S. Harry,Herdman MD,Pneumovax - DM patients w/current pneumovax,79,87,0.908,34:50.3
+1.3745E+15,Margaret,Burden MD,Pneumovax - DM patients w/current pneumovax,31,39,0.7949,34:50.3
+1.3745E+15,Robin,Caldwell MD,Pneumovax - DM patients w/current pneumovax,155,191,0.8115,34:50.3
+1.3745E+15,David,Gavareski MD,Pneumovax - DM patients w/current pneumovax,91,111,0.8198,34:50.3
+1.3745E+15,Karen,Goodman ARNP,Pneumovax - DM patients w/current pneumovax,61,80,0.7625,34:50.3
+1.3745E+15,Larry,Hartwell MD,Pneumovax - DM patients w/current pneumovax,139,154,0.9026,34:50.3
+1.3745E+15,James,Hopper MD,Pneumovax - DM patients w/current pneumovax,56,75,0.7467,34:50.3
+1.3745E+15,John,Hruby MD,Pneumovax - DM patients w/current pneumovax,88,103,0.8544,34:50.3
+1.3745E+15,Kellie,Jacobs MD,Pneumovax - DM patients w/current pneumovax,55,59,0.9322,34:50.3
+1.3745E+15,Stephen,Lewis MD,Pneumovax - DM patients w/current pneumovax,152,186,0.8172,34:50.3
+1.3745E+15,Richard,McClenahan MD,Pneumovax - DM patients w/current pneumovax,92,101,0.9109,34:50.3
+1.3745E+15,Karen,O'Keefe MD,Pneumovax - DM patients w/current pneumovax,46,56,0.8214,34:50.3
+1.3745E+15,Bruce,Pederson MD,Pneumovax - DM patients w/current pneumovax,142,200,0.71,34:50.3
+1.3745E+15,Melana,"Schimke, MD",Pneumovax - DM patients w/current pneumovax,17,23,0.7391,34:50.3
+1.3745E+15,Miriam,Shapiro MD,Pneumovax - DM patients w/current pneumovax,42,53,0.7925,34:50.3
+1.3745E+15,Chao-Ying,Wu MD,Pneumovax - DM patients w/current pneumovax,100,108,0.9259,34:50.3
+1.37822E+15,Steven,Bloom MD,Pneumovax - DM patients w/current pneumovax,96,120,0.8,34:50.3
+1.37822E+15,Jason,Short MD,Pneumovax - DM patients w/current pneumovax,104,120,0.8667,34:50.3
+1.4004E+15,Matt,Werner MD,Pneumovax - DM patients w/current pneumovax,74,87,0.8506,34:50.3
+1.41225E+15,Jennifer,Bates MD,Pneumovax - DM patients w/current pneumovax,57,69,0.8261,34:50.3
+1.42737E+15,Edward,Bloom MD,Pneumovax - DM patients w/current pneumovax,115,144,0.7986,34:50.3
+1.43401E+15,Jessica,Bloom MD,Pneumovax - DM patients w/current pneumovax,18,19,0.9474,34:50.3
+1.43523E+15,April,Wakefield-Pagels MD,Pneumovax - DM patients w/current pneumovax,74,86,0.8605,34:50.3
+1.61408E+15,Lisa,VanHofwegen MD,DM PTS 40 to 75 w/STATIN,18,25,0.72,44:12.3
+1.6363E+15,Shannon,Billau DO,DM PTS 40 to 75 w/STATIN,28,41,0.6829,44:12.3
+1.66055E+15,Deborah,Roessler MD,DM PTS 40 to 75 w/STATIN,46,72,0.6389,44:12.3
+1.68536E+15,Shelby,Hein MD,DM PTS 40 to 75 w/STATIN,44,64,0.6875,44:12.3
+1.69133E+15,Rory,Bradt DO,DM PTS 40 to 75 w/STATIN,55,76,0.7237,44:12.3
+1.69254E+15,Greg,Anderson MD,DM PTS 40 to 75 w/STATIN,66,78,0.8462,44:12.3
+1.69701E+15,Claudia,Rey MD,DM PTS 40 to 75 w/STATIN,49,73,0.6712,44:12.3
+1.69943E+15,Erik,Bylund MD,DM PTS 40 to 75 w/STATIN,76,102,0.7451,44:12.3
+1.69943E+15,Martin,Dubek MD,DM PTS 40 to 75 w/STATIN,,,,44:12.3
+1.69943E+15,Roger,Estep MD,DM PTS 40 to 75 w/STATIN,61,70,0.8714,44:12.3
+1.69943E+15,Jonathan,Gamson MD,DM PTS 40 to 75 w/STATIN,87,124,0.7016,44:12.3
+1.69943E+15,Janet,Hansom MD,DM PTS 40 to 75 w/STATIN,41,53,0.7736,44:12.3
+1.69943E+15,Lucia,Muller MD,DM PTS 40 to 75 w/STATIN,21,31,0.6774,44:12.3
+1.69943E+15,Jonathan,Ploudre MD,DM PTS 40 to 75 w/STATIN,73,90,0.8111,44:12.3
+1.69943E+15,L Sloane,Winkes MD,DM PTS 40 to 75 w/STATIN,33,38,0.8684,44:12.3
+1.69943E+15,Joseph,McConahey PA-C,DM PTS 40 to 75 w/STATIN,,,,44:12.3
+1.69943E+15,Erinn,Case ARNP,DM PTS 40 to 75 w/STATIN,32,49,0.6531,44:12.3
+1.70464E+15,Lisa,Brodsky,DM PTS 40 to 75 w/STATIN,10,15,0.6667,44:12.3
+1.7054E+15,Jessica,Klassen ARNP,DM PTS 40 to 75 w/STATIN,7,20,0.35,44:12.3
+1.72069E+15,Margaret,Sweeney,DM PTS 40 to 75 w/STATIN,42,48,0.875,44:12.3
+1.72069E+15,Franklin,Bjorseth,DM PTS 40 to 75 w/STATIN,42,72,0.5833,44:12.3
+1.72069E+15,Michael,James,DM PTS 40 to 75 w/STATIN,52,106,0.4906,44:12.3
+1.72069E+15,Robert,Rieger,DM PTS 40 to 75 w/STATIN,30,44,0.6818,44:12.3
+1.72121E+15,Meghan,Lelonek,DM PTS 40 to 75 w/STATIN,31,40,0.775,44:12.3
+1.7443E+15,Sally,McPherson ARNP,DM PTS 40 to 75 w/STATIN,48,63,0.7619,44:12.3
+1.74454E+15,Michael,Fleming PA-C,DM PTS 40 to 75 w/STATIN,15,17,0.8824,44:12.3
+1.75121E+15,Sara,Bowling,DM PTS 40 to 75 w/STATIN,20,29,0.6897,44:12.3
+1.77055E+15,William,Eiford PA-C,DM PTS 40 to 75 w/STATIN,,,,44:12.3
+1.77659E+15,Sarah,Herrman ARNP,DM PTS 40 to 75 w/STATIN,,,,44:12.3
+1.78471E+15,Patricia,Payne-Zajac PA-C,DM PTS 40 to 75 w/STATIN,,,,44:12.3
+1.78472E+15,Lillian,Pavlik ARNP,DM PTS 40 to 75 w/STATIN,,,,44:12.3
+1.78627E+15,Lauren,Sauve ARNP,DM PTS 40 to 75 w/STATIN,57,73,0.7808,44:12.3
+1.7962E+15,Catherine,Gambs MD,DM PTS 40 to 75 w/STATIN,45,68,0.6618,44:12.3
+1.7962E+15,Rebecca,Brejcha ARNP,DM PTS 40 to 75 w/STATIN,,,,44:12.3
+1.80589E+15,Vicki,Short MD,DM PTS 40 to 75 w/STATIN,50,62,0.8065,44:12.3
+1.80624E+15,Heather,Thomson ARNP,DM PTS 40 to 75 w/STATIN,1,1,1,44:12.3
+1.81237E+15,Patrick,McLaughlin MD,DM PTS 40 to 75 w/STATIN,24,31,0.7742,44:12.3
+1.43523E+15,April,Wakefield-Pagels MD,Smoking Cessation Advice or Treatment ,2,4,0.5,33:28.5
+1.44067E+15,John,Hiemstra DO,Smoking Cessation Advice or Treatment ,13,13,1,33:28.5
+1.45553E+15,Teresa,Regier ARNP,Smoking Cessation Advice or Treatment ,4,8,0.5,33:28.5
+1.48275E+15,Deborah,Hall MD,Smoking Cessation Advice or Treatment ,1,2,0.5,33:28.5
+1.37045E+15,Steven,Alexander MD,Statin patients with LDL in the past 365 days,331,385,0.8597,46:04.1
+1.37442E+15,Bertha,Safford MD,Statin patients with LDL in the past 365 days,152,216,0.7037,46:04.1
+1.37442E+15,Richard,Binder MD,Statin patients with LDL in the past 365 days,247,297,0.8316,46:04.1
+1.37442E+15,S. Harry,Herdman MD,Statin patients with LDL in the past 365 days,191,279,0.6846,46:04.1
+1.3745E+15,Margaret,Burden MD,Statin patients with LDL in the past 365 days,120,160,0.75,46:04.1
+1.3745E+15,Robin,Caldwell MD,Statin patients with LDL in the past 365 days,351,447,0.7852,46:04.1
+1.3745E+15,David,Gavareski MD,Statin patients with LDL in the past 365 days,154,208,0.7404,46:04.1
+1.3745E+15,Karen,Goodman ARNP,Statin patients with LDL in the past 365 days,183,221,0.8281,46:04.1
+1.3745E+15,Larry,Hartwell MD,Statin patients with LDL in the past 365 days,237,351,0.6752,46:04.1
+1.3745E+15,James,Hopper MD,Statin patients with LDL in the past 365 days,101,187,0.5401,46:04.1
+1.3745E+15,John,Hruby MD,Statin patients with LDL in the past 365 days,118,199,0.593,46:04.1
+1.3745E+15,Kellie,Jacobs MD,Statin patients with LDL in the past 365 days,94,135,0.6963,46:04.1
+1.3745E+15,Stephen,Lewis MD,Statin patients with LDL in the past 365 days,292,412,0.7087,46:04.1
+1.3745E+15,Richard,McClenahan MD,Statin patients with LDL in the past 365 days,189,287,0.6585,46:04.1
+1.3745E+15,Karen,O'Keefe MD,Statin patients with LDL in the past 365 days,136,169,0.8047,46:04.1
+1.3745E+15,Bruce,Pederson MD,Statin patients with LDL in the past 365 days,274,400,0.685,46:04.1
+1.3745E+15,Melana,"Schimke, MD",Statin patients with LDL in the past 365 days,36,70,0.5143,46:04.1
+1.3745E+15,Miriam,Shapiro MD,Statin patients with LDL in the past 365 days,137,185,0.7405,46:04.1
+1.3745E+15,Chao-Ying,Wu MD,Statin patients with LDL in the past 365 days,242,324,0.7469,46:04.1
+1.37822E+15,Steven,Bloom MD,Statin patients with LDL in the past 365 days,150,218,0.6881,46:04.1
+1.37822E+15,Jason,Short MD,Statin patients with LDL in the past 365 days,331,406,0.8153,46:04.1
+1.4004E+15,Matt,Werner MD,Statin patients with LDL in the past 365 days,169,247,0.6842,46:04.1
+1.41225E+15,Jennifer,Bates MD,Statin patients with LDL in the past 365 days,114,164,0.6951,46:04.1
+1.42737E+15,Edward,Bloom MD,Statin patients with LDL in the past 365 days,369,441,0.8367,46:04.1
+1.43401E+15,Jessica,Bloom MD,Statin patients with LDL in the past 365 days,54,82,0.6585,46:04.1
+1.43523E+15,April,Wakefield-Pagels MD,Statin patients with LDL in the past 365 days,171,243,0.7037,46:04.1
+1.44067E+15,John,Hiemstra DO,Statin patients with LDL in the past 365 days,387,515,0.7515,46:04.1
+1.45553E+15,Teresa,Regier ARNP,Statin patients with LDL in the past 365 days,128,189,0.6772,46:04.1
+1.48275E+15,Deborah,Hall MD,Statin patients with LDL in the past 365 days,178,239,0.7448,46:04.1
+1.4913E+15,Ian,"Bonner, MD",Statin patients with LDL in the past 365 days,151,247,0.6113,46:04.1
+1.4913E+15,Ian,"Bonner, MD",Smoking Cessation Advice or Treatment ,,1,,33:28.5
+1.51359E+15,Laura,Fox DO,Smoking Cessation Advice or Treatment ,7,9,0.7778,33:28.5
+1.51868E+15,Mary,Swanson MD,Smoking Cessation Advice or Treatment ,2,4,0.5,33:28.5
+1.52207E+15,Rodney,Anderson MD,Smoking Cessation Advice or Treatment ,8,8,1,33:28.5
+1.52258E+15,Anneliese,Floyd MD,Smoking Cessation Advice or Treatment ,1,2,0.5,33:28.5
+1.53182E+15,Elizabeth,"Gaylord ARNP, ND",Smoking Cessation Advice or Treatment ,,,,33:28.5
+1.53865E+15,Sarah,Stewart ARNP,Smoking Cessation Advice or Treatment ,,,,33:28.5
+1.54522E+15,Frederick,Gunningham MD,Smoking Cessation Advice or Treatment ,1,6,0.1667,33:28.5
+1.56252E+15,John,Raduege MD,Smoking Cessation Advice or Treatment ,7,7,1,33:28.5
+1.5688E+15,Erin,Maloney PA-C,Smoking Cessation Advice or Treatment ,,,,33:28.5
+1.57225E+15,Renay,"Fredette MD, MSNu",Smoking Cessation Advice or Treatment ,5,6,0.8333,33:28.5
+1.59785E+15,Michael,Steele MD,Smoking Cessation Advice or Treatment ,22,31,0.7097,33:28.5
+1.61408E+15,Lisa,VanHofwegen MD,Smoking Cessation Advice or Treatment ,2,2,1,33:28.5
+1.6363E+15,Shannon,Billau DO,Smoking Cessation Advice or Treatment ,4,4,1,33:28.5
+1.66055E+15,Deborah,Roessler MD,Smoking Cessation Advice or Treatment ,4,5,0.8,33:28.5
+1.68536E+15,Shelby,Hein MD,Smoking Cessation Advice or Treatment ,4,8,0.5,33:28.5
+1.69133E+15,Rory,Bradt DO,Smoking Cessation Advice or Treatment ,3,4,0.75,33:28.5
+1.69254E+15,Greg,Anderson MD,Smoking Cessation Advice or Treatment ,6,6,1,33:28.5
+1.69701E+15,Claudia,Rey MD,Smoking Cessation Advice or Treatment ,8,12,0.6667,33:28.5
+1.69943E+15,Erik,Bylund MD,Smoking Cessation Advice or Treatment ,3,9,0.3333,33:28.5
+1.69943E+15,Martin,Dubek MD,Smoking Cessation Advice or Treatment ,,,,33:28.5
+1.69943E+15,Roger,Estep MD,Smoking Cessation Advice or Treatment ,3,5,0.6,33:28.5
+1.69943E+15,Jonathan,Gamson MD,Smoking Cessation Advice or Treatment ,11,19,0.5789,33:28.5
+1.69943E+15,Janet,Hansom MD,Smoking Cessation Advice or Treatment ,2,2,1,33:28.5
+1.69943E+15,Lucia,Muller MD,Smoking Cessation Advice or Treatment ,2,3,0.6667,33:28.5
+1.69943E+15,Jonathan,Ploudre MD,Smoking Cessation Advice or Treatment ,15,15,1,33:28.5
+1.69943E+15,L Sloane,Winkes MD,Smoking Cessation Advice or Treatment ,2,6,0.3333,33:28.5
+1.69943E+15,Joseph,McConahey PA-C,Smoking Cessation Advice or Treatment ,,,,33:28.5
+1.69943E+15,Erinn,Case ARNP,Smoking Cessation Advice or Treatment ,3,4,0.75,33:28.5
+1.70464E+15,Lisa,Brodsky,Smoking Cessation Advice or Treatment ,3,4,0.75,33:28.5
+1.7054E+15,Jessica,Klassen ARNP,Smoking Cessation Advice or Treatment ,,,,33:28.5
+1.72069E+15,Margaret,Sweeney,Smoking Cessation Advice or Treatment ,5,5,1,33:28.5
+1.72069E+15,Franklin,Bjorseth,Smoking Cessation Advice or Treatment ,8,9,0.8889,33:28.5
+1.72069E+15,Michael,James,Smoking Cessation Advice or Treatment ,5,10,0.5,33:28.5
+1.72069E+15,Robert,Rieger,Smoking Cessation Advice or Treatment ,5,10,0.5,33:28.5
+1.72121E+15,Meghan,Lelonek,Smoking Cessation Advice or Treatment ,2,3,0.6667,33:28.5
+1.7443E+15,Sally,McPherson ARNP,Smoking Cessation Advice or Treatment ,4,8,0.5,33:28.5
+1.74454E+15,Michael,Fleming PA-C,Smoking Cessation Advice or Treatment ,1,2,0.5,33:28.5
+1.75121E+15,Sara,Bowling,Smoking Cessation Advice or Treatment ,1,3,0.3333,33:28.5
+1.77055E+15,William,Eiford PA-C,Smoking Cessation Advice or Treatment ,,,,33:28.5
+1.77659E+15,Sarah,Herrman ARNP,Smoking Cessation Advice or Treatment ,,,,33:28.5
+1.78471E+15,Patricia,Payne-Zajac PA-C,Smoking Cessation Advice or Treatment ,,,,33:28.5
+1.78472E+15,Lillian,Pavlik ARNP,Smoking Cessation Advice or Treatment ,,,,33:28.5
+1.78627E+15,Lauren,Sauve ARNP,Smoking Cessation Advice or Treatment ,5,8,0.625,33:28.5
+1.7962E+15,Catherine,Gambs MD,Smoking Cessation Advice or Treatment ,3,5,0.6,33:28.5
+1.7962E+15,Rebecca,Brejcha ARNP,Smoking Cessation Advice or Treatment ,,,,33:28.5
+1.80589E+15,Vicki,Short MD,Smoking Cessation Advice or Treatment ,5,7,0.7143,33:28.5
+1.80624E+15,Heather,Thomson ARNP,Smoking Cessation Advice or Treatment ,,,,33:28.5
+1.81237E+15,Patrick,McLaughlin MD,Smoking Cessation Advice or Treatment ,2,3,0.6667,33:28.5
+1.37045E+15,Steven,Alexander MD,Diabetes Care Gaps ,159,170,0.9353,45:33.4
+1.37442E+15,Bertha,Safford MD,Diabetes Care Gaps ,96,104,0.9231,45:33.4
+1.37442E+15,Richard,Binder MD,Diabetes Care Gaps ,77,78,0.9872,45:33.4
+1.37442E+15,S. Harry,Herdman MD,Diabetes Care Gaps ,87,87,1,45:33.4
+1.3745E+15,Margaret,Burden MD,Diabetes Care Gaps ,38,39,0.9744,45:33.4
+1.3745E+15,Robin,Caldwell MD,Diabetes Care Gaps ,165,191,0.8639,45:33.4
+1.3745E+15,David,Gavareski MD,Diabetes Care Gaps ,106,111,0.955,45:33.4
+1.3745E+15,Karen,Goodman ARNP,Diabetes Care Gaps ,74,80,0.925,45:33.4
+1.3745E+15,Larry,Hartwell MD,Diabetes Care Gaps ,140,154,0.9091,45:33.4
+1.3745E+15,James,Hopper MD,Diabetes Care Gaps ,68,75,0.9067,45:33.4
+1.3745E+15,John,Hruby MD,Diabetes Care Gaps ,91,103,0.8835,45:33.4
+1.3745E+15,Kellie,Jacobs MD,Diabetes Care Gaps ,54,59,0.9153,45:33.4
+1.3745E+15,Stephen,Lewis MD,Diabetes Care Gaps ,173,186,0.9301,45:33.4
+1.3745E+15,Richard,McClenahan MD,Diabetes Care Gaps ,98,101,0.9703,45:33.4
+1.3745E+15,Karen,O'Keefe MD,Diabetes Care Gaps ,51,56,0.9107,45:33.4
+1.37045E+15,Steven,Alexander MD,Blood Pressure NOT Controlled  >140/90 mm Hg    ,23,170,0.1353,32:55.2
+1.37442E+15,Bertha,Safford MD,Blood Pressure NOT Controlled  >140/90 mm Hg    ,19,104,0.1827,32:55.2
+1.37442E+15,Richard,Binder MD,Blood Pressure NOT Controlled  >140/90 mm Hg    ,7,78,0.0897,32:55.2
+1.37442E+15,S. Harry,Herdman MD,Blood Pressure NOT Controlled  >140/90 mm Hg    ,17,87,0.1954,32:55.2
+1.3745E+15,Margaret,Burden MD,Blood Pressure NOT Controlled  >140/90 mm Hg    ,6,39,0.1538,32:55.2
+1.3745E+15,Robin,Caldwell MD,Blood Pressure NOT Controlled  >140/90 mm Hg    ,34,191,0.178,32:55.2
+1.3745E+15,David,Gavareski MD,Blood Pressure NOT Controlled  >140/90 mm Hg    ,14,111,0.1261,32:55.2
+1.3745E+15,Karen,Goodman ARNP,Blood Pressure NOT Controlled  >140/90 mm Hg    ,13,80,0.1625,32:55.2
+1.3745E+15,Larry,Hartwell MD,Blood Pressure NOT Controlled  >140/90 mm Hg    ,23,154,0.1494,32:55.2
+1.3745E+15,James,Hopper MD,Blood Pressure NOT Controlled  >140/90 mm Hg    ,5,75,0.0667,32:55.2
+1.3745E+15,John,Hruby MD,Blood Pressure NOT Controlled  >140/90 mm Hg    ,15,103,0.1456,32:55.2
+1.3745E+15,Kellie,Jacobs MD,Blood Pressure NOT Controlled  >140/90 mm Hg    ,4,59,0.0678,32:55.2
+1.3745E+15,Stephen,Lewis MD,Blood Pressure NOT Controlled  >140/90 mm Hg    ,18,186,0.0968,32:55.2
+1.3745E+15,Richard,McClenahan MD,Blood Pressure NOT Controlled  >140/90 mm Hg    ,10,101,0.099,32:55.2
+1.3745E+15,Karen,O'Keefe MD,Blood Pressure NOT Controlled  >140/90 mm Hg    ,12,56,0.2143,32:55.2
+1.3745E+15,Bruce,Pederson MD,Blood Pressure NOT Controlled  >140/90 mm Hg    ,49,200,0.245,32:55.2
+1.3745E+15,Melana,"Schimke, MD",Blood Pressure NOT Controlled  >140/90 mm Hg    ,4,23,0.1739,32:55.2
+1.3745E+15,Miriam,Shapiro MD,Blood Pressure NOT Controlled  >140/90 mm Hg    ,1,53,0.0189,32:55.2
+1.3745E+15,Chao-Ying,Wu MD,Blood Pressure NOT Controlled  >140/90 mm Hg    ,10,108,0.0926,32:55.2
+1.37822E+15,Steven,Bloom MD,Blood Pressure NOT Controlled  >140/90 mm Hg    ,21,120,0.175,32:55.2
+1.37822E+15,Jason,Short MD,Blood Pressure NOT Controlled  >140/90 mm Hg    ,25,120,0.2083,32:55.2
+1.4004E+15,Matt,Werner MD,Blood Pressure NOT Controlled  >140/90 mm Hg    ,16,87,0.1839,32:55.2
+1.41225E+15,Jennifer,Bates MD,Blood Pressure NOT Controlled  >140/90 mm Hg    ,8,69,0.1159,32:55.2
+1.42737E+15,Edward,Bloom MD,Blood Pressure NOT Controlled  >140/90 mm Hg    ,28,144,0.1944,32:55.2
+1.43401E+15,Jessica,Bloom MD,Blood Pressure NOT Controlled  >140/90 mm Hg    ,,19,,32:55.2
+1.43523E+15,April,Wakefield-Pagels MD,Blood Pressure NOT Controlled  >140/90 mm Hg    ,14,86,0.1628,32:55.2
+1.44067E+15,John,Hiemstra DO,Blood Pressure NOT Controlled  >140/90 mm Hg    ,36,221,0.1629,32:55.2
+1.45553E+15,Teresa,Regier ARNP,Blood Pressure NOT Controlled  >140/90 mm Hg    ,6,84,0.0714,32:55.2
+1.37045E+15,Steven,Alexander MD,Hypertension Patients over 59 years BP <150/90,345,367,0.9401,33:39.4
+1.37442E+15,Bertha,Safford MD,Hypertension Patients over 59 years BP <150/90,189,219,0.863,33:39.4
+1.37442E+15,Richard,Binder MD,Hypertension Patients over 59 years BP <150/90,236,249,0.9478,33:39.4
+1.37442E+15,S. Harry,Herdman MD,Hypertension Patients over 59 years BP <150/90,230,260,0.8846,33:39.4
+1.3745E+15,Margaret,Burden MD,Hypertension Patients over 59 years BP <150/90,99,118,0.839,33:39.4
+1.3745E+15,Robin,Caldwell MD,Hypertension Patients over 59 years BP <150/90,376,405,0.9284,33:39.4
+1.3745E+15,David,Gavareski MD,Hypertension Patients over 59 years BP <150/90,281,312,0.9006,33:39.4
+1.3745E+15,Karen,Goodman ARNP,Hypertension Patients over 59 years BP <150/90,177,197,0.8985,33:39.4
+1.3745E+15,Larry,Hartwell MD,Hypertension Patients over 59 years BP <150/90,320,348,0.9195,33:39.4
+1.3745E+15,James,Hopper MD,Hypertension Patients over 59 years BP <150/90,171,190,0.9,33:39.4
+1.3745E+15,John,Hruby MD,Hypertension Patients over 59 years BP <150/90,162,193,0.8394,33:39.4
+1.3745E+15,Kellie,Jacobs MD,Hypertension Patients over 59 years BP <150/90,170,186,0.914,33:39.4
+1.3745E+15,Stephen,Lewis MD,Hypertension Patients over 59 years BP <150/90,367,413,0.8886,33:39.4
+1.3745E+15,Richard,McClenahan MD,Hypertension Patients over 59 years BP <150/90,230,259,0.888,33:39.4
+1.3745E+15,Karen,O'Keefe MD,Hypertension Patients over 59 years BP <150/90,133,149,0.8926,33:39.4
+1.3745E+15,Bruce,Pederson MD,Hypertension Patients over 59 years BP <150/90,421,530,0.7943,33:39.4
+1.3745E+15,Melana,"Schimke, MD",Hypertension Patients over 59 years BP <150/90,56,61,0.918,33:39.4
+1.3745E+15,Miriam,Shapiro MD,Hypertension Patients over 59 years BP <150/90,152,165,0.9212,33:39.4
+1.3745E+15,Chao-Ying,Wu MD,Hypertension Patients over 59 years BP <150/90,274,291,0.9416,33:39.4
+1.37822E+15,Steven,Bloom MD,Hypertension Patients over 59 years BP <150/90,223,252,0.8849,33:39.4
+1.37822E+15,Jason,Short MD,Hypertension Patients over 59 years BP <150/90,250,285,0.8772,33:39.4
+1.4004E+15,Matt,Werner MD,Hypertension Patients over 59 years BP <150/90,201,236,0.8517,33:39.4
+1.41225E+15,Jennifer,Bates MD,Hypertension Patients over 59 years BP <150/90,146,156,0.9359,33:39.4
+1.42737E+15,Edward,Bloom MD,Hypertension Patients over 59 years BP <150/90,373,422,0.8839,33:39.4
+1.43401E+15,Jessica,Bloom MD,Hypertension Patients over 59 years BP <150/90,59,67,0.8806,33:39.4
+1.43523E+15,April,Wakefield-Pagels MD,Hypertension Patients over 59 years BP <150/90,162,187,0.8663,33:39.4
+1.44067E+15,John,Hiemstra DO,Hypertension Patients over 59 years BP <150/90,510,545,0.9358,33:39.4
+1.45553E+15,Teresa,Regier ARNP,Hypertension Patients over 59 years BP <150/90,130,161,0.8075,33:39.4
+1.48275E+15,Deborah,Hall MD,Hypertension Patients over 59 years BP <150/90,186,215,0.8651,33:39.4
+1.4913E+15,Ian,"Bonner, MD",Hypertension Patients over 59 years BP <150/90,172,201,0.8557,33:39.4
+1.51359E+15,Laura,Fox DO,Hypertension Patients over 59 years BP <150/90,99,119,0.8319,33:39.4
+1.51868E+15,Mary,Swanson MD,Hypertension Patients over 59 years BP <150/90,83,85,0.9765,33:39.4
+1.52207E+15,Rodney,Anderson MD,Hypertension Patients over 59 years BP <150/90,376,414,0.9082,33:39.4
+1.52258E+15,Anneliese,Floyd MD,Hypertension Patients over 59 years BP <150/90,76,86,0.8837,33:39.4
+1.53182E+15,Elizabeth,"Gaylord ARNP, ND",Hypertension Patients over 59 years BP <150/90,60,74,0.8108,33:39.4
+1.53865E+15,Sarah,Stewart ARNP,Hypertension Patients over 59 years BP <150/90,,,,33:39.4
+1.54522E+15,Frederick,Gunningham MD,Hypertension Patients over 59 years BP <150/90,190,234,0.812,33:39.4
+1.56252E+15,John,Raduege MD,Hypertension Patients over 59 years BP <150/90,300,321,0.9346,33:39.4
+1.5688E+15,Erin,Maloney PA-C,Hypertension Patients over 59 years BP <150/90,,,,33:39.4
+1.57225E+15,Renay,"Fredette MD, MSNu",Hypertension Patients over 59 years BP <150/90,119,141,0.844,33:39.4
+1.59785E+15,Michael,Steele MD,Hypertension Patients over 59 years BP <150/90,437,471,0.9278,33:39.4
+1.61408E+15,Lisa,VanHofwegen MD,Hypertension Patients over 59 years BP <150/90,66,75,0.88,33:39.4
+1.69133E+15,Rory,Bradt DO,Hypertension Patients 18-59 years BP <140/90,109,155,0.7032,33:32.7
+1.69254E+15,Greg,Anderson MD,Hypertension Patients 18-59 years BP <140/90,104,173,0.6012,33:32.7
+1.69701E+15,Claudia,Rey MD,Hypertension Patients 18-59 years BP <140/90,72,107,0.6729,33:32.7
+1.69943E+15,Erik,Bylund MD,Hypertension Patients 18-59 years BP <140/90,102,169,0.6036,33:32.7
+1.69943E+15,Martin,Dubek MD,Hypertension Patients 18-59 years BP <140/90,,,,33:32.7
+1.69943E+15,Roger,Estep MD,Hypertension Patients 18-59 years BP <140/90,65,81,0.8025,33:32.7
+1.69943E+15,Jonathan,Gamson MD,Hypertension Patients 18-59 years BP <140/90,108,164,0.6585,33:32.7
+1.69943E+15,Janet,Hansom MD,Hypertension Patients 18-59 years BP <140/90,61,86,0.7093,33:32.7
+1.69943E+15,Lucia,Muller MD,Hypertension Patients 18-59 years BP <140/90,41,60,0.6833,33:32.7
+1.69943E+15,Jonathan,Ploudre MD,Hypertension Patients 18-59 years BP <140/90,84,113,0.7434,33:32.7
+1.69943E+15,L Sloane,Winkes MD,Hypertension Patients 18-59 years BP <140/90,38,47,0.8085,33:32.7
+1.69943E+15,Joseph,McConahey PA-C,Hypertension Patients 18-59 years BP <140/90,,,,33:32.7
+1.69943E+15,Erinn,Case ARNP,Hypertension Patients 18-59 years BP <140/90,59,84,0.7024,33:32.7
+1.70464E+15,Lisa,Brodsky,Hypertension Patients 18-59 years BP <140/90,23,28,0.8214,33:32.7
+1.7054E+15,Jessica,Klassen ARNP,Hypertension Patients 18-59 years BP <140/90,15,22,0.6818,33:32.7
+1.72069E+15,Margaret,Sweeney,Hypertension Patients 18-59 years BP <140/90,43,53,0.8113,33:32.7
+1.72069E+15,Franklin,Bjorseth,Hypertension Patients 18-59 years BP <140/90,94,125,0.752,33:32.7
+1.72069E+15,Michael,James,Hypertension Patients 18-59 years BP <140/90,101,122,0.8279,33:32.7
+1.72069E+15,Robert,Rieger,Hypertension Patients 18-59 years BP <140/90,48,66,0.7273,33:32.7
+1.72121E+15,Meghan,Lelonek,Hypertension Patients 18-59 years BP <140/90,54,63,0.8571,33:32.7
+1.7443E+15,Sally,McPherson ARNP,Hypertension Patients 18-59 years BP <140/90,81,103,0.7864,33:32.7
+1.74454E+15,Michael,Fleming PA-C,Hypertension Patients 18-59 years BP <140/90,27,28,0.9643,33:32.7
+1.75121E+15,Sara,Bowling,Hypertension Patients 18-59 years BP <140/90,60,72,0.8333,33:32.7
+1.77055E+15,William,Eiford PA-C,Hypertension Patients 18-59 years BP <140/90,,,,33:32.7
+1.77659E+15,Sarah,Herrman ARNP,Hypertension Patients 18-59 years BP <140/90,,,,33:32.7
+1.78471E+15,Patricia,Payne-Zajac PA-C,Hypertension Patients 18-59 years BP <140/90,,,,33:32.7
+1.78472E+15,Lillian,Pavlik ARNP,Hypertension Patients 18-59 years BP <140/90,,,,33:32.7
+1.78627E+15,Lauren,Sauve ARNP,Hypertension Patients 18-59 years BP <140/90,71,109,0.6514,33:32.7
+1.7962E+15,Catherine,Gambs MD,Hypertension Patients 18-59 years BP <140/90,79,130,0.6077,33:32.7
+1.7962E+15,Rebecca,Brejcha ARNP,Hypertension Patients 18-59 years BP <140/90,,,,33:32.7
+1.80589E+15,Vicki,Short MD,Hypertension Patients 18-59 years BP <140/90,83,101,0.8218,33:32.7
+1.80624E+15,Heather,Thomson ARNP,Hypertension Patients 18-59 years BP <140/90,2,3,0.6667,33:32.7
+1.81237E+15,Patrick,McLaughlin MD,Hypertension Patients 18-59 years BP <140/90,51,70,0.7286,33:32.7
+1.37045E+15,Steven,Alexander MD,Pneumovax - Patients Age>65 w/current pneumovax,419,477,0.8784,34:57.2
+1.37442E+15,Bertha,Safford MD,Pneumovax - Patients Age>65 w/current pneumovax,297,351,0.8462,34:57.2
+1.37442E+15,Richard,Binder MD,Pneumovax - Patients Age>65 w/current pneumovax,296,330,0.897,34:57.2
+1.37442E+15,S. Harry,Herdman MD,Pneumovax - Patients Age>65 w/current pneumovax,291,324,0.8981,34:57.2
+1.3745E+15,Margaret,Burden MD,Pneumovax - Patients Age>65 w/current pneumovax,134,177,0.7571,34:57.2
+1.3745E+15,Robin,Caldwell MD,Pneumovax - Patients Age>65 w/current pneumovax,438,540,0.8111,34:57.2
+1.3745E+15,David,Gavareski MD,Pneumovax - Patients Age>65 w/current pneumovax,244,343,0.7114,34:57.2
+1.3745E+15,Karen,Goodman ARNP,Pneumovax - Patients Age>65 w/current pneumovax,205,329,0.6231,34:57.2
+1.3745E+15,Larry,Hartwell MD,Pneumovax - Patients Age>65 w/current pneumovax,372,449,0.8285,34:57.2
+1.3745E+15,James,Hopper MD,Pneumovax - Patients Age>65 w/current pneumovax,256,293,0.8737,34:57.2
+1.37045E+15,Steven,Alexander MD,Foot Exam,150,170,0.8824,33:05.9
+1.37442E+15,Bertha,Safford MD,Foot Exam,75,104,0.7212,33:05.9
+1.37442E+15,Richard,Binder MD,Foot Exam,72,78,0.9231,33:05.9
+1.37442E+15,S. Harry,Herdman MD,Foot Exam,86,87,0.9885,33:05.9
+1.3745E+15,Margaret,Burden MD,Foot Exam,36,39,0.9231,33:05.9
+1.3745E+15,Robin,Caldwell MD,Foot Exam,146,191,0.7644,33:05.9
+1.3745E+15,David,Gavareski MD,Foot Exam,77,111,0.6937,33:05.9
+1.3745E+15,Karen,Goodman ARNP,Foot Exam,57,80,0.7125,33:05.9
+1.3745E+15,Larry,Hartwell MD,Foot Exam,116,154,0.7532,33:05.9
+1.3745E+15,James,Hopper MD,Foot Exam,59,75,0.7867,33:05.9
+1.3745E+15,John,Hruby MD,Foot Exam,63,103,0.6117,33:05.9
+1.3745E+15,Kellie,Jacobs MD,Foot Exam,40,59,0.678,33:05.9
+1.51359E+15,Laura,Fox DO,Foot Exam,17,35,0.4857,33:05.9
+1.51868E+15,Mary,Swanson MD,Foot Exam,36,40,0.9,33:05.9
+1.52207E+15,Rodney,Anderson MD,Foot Exam,64,101,0.6337,33:05.9
+1.52258E+15,Anneliese,Floyd MD,Foot Exam,27,41,0.6585,33:05.9
+1.53182E+15,Elizabeth,"Gaylord ARNP, ND",Foot Exam,15,19,0.7895,33:05.9
+1.53865E+15,Sarah,Stewart ARNP,Foot Exam,,,,33:05.9
+1.54522E+15,Frederick,Gunningham MD,Foot Exam,107,129,0.8295,33:05.9
+1.56252E+15,John,Raduege MD,Foot Exam,130,137,0.9489,33:05.9
+1.5688E+15,Erin,Maloney PA-C,Foot Exam,,,,33:05.9
+1.57225E+15,Renay,"Fredette MD, MSNu",Foot Exam,33,64,0.5156,33:05.9
+1.59785E+15,Michael,Steele MD,Foot Exam,196,233,0.8412,33:05.9
+1.61408E+15,Lisa,VanHofwegen MD,Foot Exam,18,29,0.6207,33:05.9
+1.6363E+15,Shannon,Billau DO,Foot Exam,46,51,0.902,33:05.9
+1.66055E+15,Deborah,Roessler MD,Foot Exam,76,92,0.8261,33:05.9
+1.68536E+15,Shelby,Hein MD,Foot Exam,54,77,0.7013,33:05.9
+1.69133E+15,Rory,Bradt DO,Foot Exam,72,96,0.75,33:05.9
+1.69254E+15,Greg,Anderson MD,Foot Exam,74,103,0.7184,33:05.9
+1.69701E+15,Claudia,Rey MD,Foot Exam,54,98,0.551,33:05.9
+1.69943E+15,Erik,Bylund MD,Foot Exam,98,124,0.7903,33:05.9
+1.69943E+15,Martin,Dubek MD,Foot Exam,,,,33:05.9
+1.69943E+15,Roger,Estep MD,Foot Exam,71,87,0.8161,33:05.9
+1.69943E+15,Jonathan,Gamson MD,Foot Exam,114,152,0.75,33:05.9
+1.69943E+15,Janet,Hansom MD,Foot Exam,53,67,0.791,33:05.9
+1.69943E+15,Lucia,Muller MD,Foot Exam,37,39,0.9487,33:05.9
+1.69943E+15,Jonathan,Ploudre MD,Foot Exam,90,109,0.8257,33:05.9
+1.69943E+15,L Sloane,Winkes MD,Foot Exam,45,49,0.9184,33:05.9
+1.69943E+15,Joseph,McConahey PA-C,Foot Exam,,,,33:05.9
+1.69943E+15,Erinn,Case ARNP,Foot Exam,31,57,0.5439,33:05.9
+1.70464E+15,Lisa,Brodsky,Foot Exam,11,18,0.6111,33:05.9
+1.7054E+15,Jessica,Klassen ARNP,Foot Exam,14,24,0.5833,33:05.9
+1.72069E+15,Margaret,Sweeney,Foot Exam,53,71,0.7465,33:05.9
+1.72069E+15,Franklin,Bjorseth,Foot Exam,101,106,0.9528,33:05.9
+1.72069E+15,Michael,James,Foot Exam,94,141,0.6667,33:05.9
+1.72069E+15,Robert,Rieger,Foot Exam,61,71,0.8592,33:05.9
+1.72121E+15,Meghan,Lelonek,Foot Exam,41,54,0.7593,33:05.9
+1.7443E+15,Sally,McPherson ARNP,Foot Exam,60,82,0.7317,33:05.9
+1.74454E+15,Michael,Fleming PA-C,Foot Exam,13,23,0.5652,33:05.9
+1.75121E+15,Sara,Bowling,Foot Exam,21,34,0.6176,33:05.9
+1.77055E+15,William,Eiford PA-C,Foot Exam,,,,33:05.9
+1.77659E+15,Sarah,Herrman ARNP,Foot Exam,,,,33:05.9
+1.78471E+15,Patricia,Payne-Zajac PA-C,Foot Exam,,,,33:05.9
+1.78472E+15,Lillian,Pavlik ARNP,Foot Exam,,,,33:05.9
+1.78627E+15,Lauren,Sauve ARNP,Foot Exam,67,89,0.7528,33:05.9
+1.7962E+15,Catherine,Gambs MD,Foot Exam,51,95,0.5368,33:05.9
+1.7962E+15,Rebecca,Brejcha ARNP,Foot Exam,,,,33:05.9
+1.80589E+15,Vicki,Short MD,Foot Exam,50,79,0.6329,33:05.9
+1.80624E+15,Heather,Thomson ARNP,Foot Exam,1,2,0.5,33:05.9
+1.81237E+15,Patrick,McLaughlin MD,Foot Exam,22,38,0.5789,33:05.9
+1.6363E+15,Shannon,Billau DO,Hypertension Patients over 59 years BP <150/90,136,152,0.8947,33:39.4
+1.66055E+15,Deborah,Roessler MD,Hypertension Patients over 59 years BP <150/90,195,219,0.8904,33:39.4
+1.68536E+15,Shelby,Hein MD,Hypertension Patients over 59 years BP <150/90,188,218,0.8624,33:39.4
+1.69133E+15,Rory,Bradt DO,Hypertension Patients over 59 years BP <150/90,183,209,0.8756,33:39.4
+1.69254E+15,Greg,Anderson MD,Hypertension Patients over 59 years BP <150/90,255,304,0.8388,33:39.4
+1.69701E+15,Claudia,Rey MD,Hypertension Patients over 59 years BP <150/90,143,181,0.7901,33:39.4
+1.69943E+15,Erik,Bylund MD,Hypertension Patients over 59 years BP <150/90,180,212,0.8491,33:39.4
+1.69943E+15,Martin,Dubek MD,Hypertension Patients over 59 years BP <150/90,,,,33:39.4
+1.69943E+15,Roger,Estep MD,Hypertension Patients over 59 years BP <150/90,148,158,0.9367,33:39.4
+1.69943E+15,Jonathan,Gamson MD,Hypertension Patients over 59 years BP <150/90,293,341,0.8592,33:39.4
+1.69943E+15,Janet,Hansom MD,Hypertension Patients over 59 years BP <150/90,171,191,0.8953,33:39.4
+1.69943E+15,Lucia,Muller MD,Hypertension Patients over 59 years BP <150/90,115,139,0.8273,33:39.4
+1.69943E+15,Jonathan,Ploudre MD,Hypertension Patients over 59 years BP <150/90,217,237,0.9156,33:39.4
+1.69943E+15,L Sloane,Winkes MD,Hypertension Patients over 59 years BP <150/90,100,109,0.9174,33:39.4
+1.69943E+15,Joseph,McConahey PA-C,Hypertension Patients over 59 years BP <150/90,,,,33:39.4
+1.69943E+15,Erinn,Case ARNP,Hypertension Patients over 59 years BP <150/90,85,98,0.8673,33:39.4
+1.70464E+15,Lisa,Brodsky,Hypertension Patients over 59 years BP <150/90,42,45,0.9333,33:39.4
+1.7054E+15,Jessica,Klassen ARNP,Hypertension Patients over 59 years BP <150/90,38,40,0.95,33:39.4
+1.72069E+15,Margaret,Sweeney,Hypertension Patients over 59 years BP <150/90,156,165,0.9455,33:39.4
+1.72069E+15,Franklin,Bjorseth,Hypertension Patients over 59 years BP <150/90,273,329,0.8298,33:39.4
+1.72069E+15,Michael,James,Hypertension Patients over 59 years BP <150/90,277,320,0.8656,33:39.4
+1.72069E+15,Robert,Rieger,Hypertension Patients over 59 years BP <150/90,157,174,0.9023,33:39.4
+1.72121E+15,Meghan,Lelonek,Hypertension Patients over 59 years BP <150/90,73,77,0.9481,33:39.4
+1.7443E+15,Sally,McPherson ARNP,Hypertension Patients over 59 years BP <150/90,145,164,0.8841,33:39.4
+1.74454E+15,Michael,Fleming PA-C,Hypertension Patients over 59 years BP <150/90,30,33,0.9091,33:39.4
+1.75121E+15,Sara,Bowling,Hypertension Patients over 59 years BP <150/90,68,77,0.8831,33:39.4
+1.77055E+15,William,Eiford PA-C,Hypertension Patients over 59 years BP <150/90,,,,33:39.4
+1.77659E+15,Sarah,Herrman ARNP,Hypertension Patients over 59 years BP <150/90,,,,33:39.4
+1.78471E+15,Patricia,Payne-Zajac PA-C,Hypertension Patients over 59 years BP <150/90,,,,33:39.4
+1.78472E+15,Lillian,Pavlik ARNP,Hypertension Patients over 59 years BP <150/90,,,,33:39.4
+1.78627E+15,Lauren,Sauve ARNP,Hypertension Patients over 59 years BP <150/90,141,182,0.7747,33:39.4
+1.7962E+15,Catherine,Gambs MD,Hypertension Patients over 59 years BP <150/90,162,182,0.8901,33:39.4
+1.7962E+15,Rebecca,Brejcha ARNP,Hypertension Patients over 59 years BP <150/90,,,,33:39.4
+1.80589E+15,Vicki,Short MD,Hypertension Patients over 59 years BP <150/90,169,191,0.8848,33:39.4
+1.80624E+15,Heather,Thomson ARNP,Hypertension Patients over 59 years BP <150/90,4,4,1,33:39.4
+1.81237E+15,Patrick,McLaughlin MD,Hypertension Patients over 59 years BP <150/90,87,115,0.7565,33:39.4
+1.53865E+15,Sarah,Stewart ARNP,Hypertension Patients over 18 BP <140/90,1,2,0.5,33:46.3
+1.54522E+15,Frederick,Gunningham MD,Hypertension Patients over 18 BP <140/90,258,330,0.7818,33:46.3
+1.56252E+15,John,Raduege MD,Hypertension Patients over 18 BP <140/90,377,413,0.9128,33:46.3
+1.5688E+15,Erin,Maloney PA-C,Hypertension Patients over 18 BP <140/90,,,,33:46.3
+1.57225E+15,Renay,"Fredette MD, MSNu",Hypertension Patients over 18 BP <140/90,168,201,0.8358,33:46.3
+1.59785E+15,Michael,Steele MD,Hypertension Patients over 18 BP <140/90,545,626,0.8706,33:46.3
+1.61408E+15,Lisa,VanHofwegen MD,Hypertension Patients over 18 BP <140/90,92,106,0.8679,33:46.3
+1.6363E+15,Shannon,Billau DO,Hypertension Patients over 18 BP <140/90,211,243,0.8683,33:46.3
+1.66055E+15,Deborah,Roessler MD,Hypertension Patients over 18 BP <140/90,282,321,0.8785,33:46.3
+1.68536E+15,Shelby,Hein MD,Hypertension Patients over 18 BP <140/90,250,304,0.8224,33:46.3
+1.69133E+15,Rory,Bradt DO,Hypertension Patients over 18 BP <140/90,286,358,0.7989,33:46.3
+1.69254E+15,Greg,Anderson MD,Hypertension Patients over 18 BP <140/90,350,469,0.7463,33:46.3
+1.69701E+15,Claudia,Rey MD,Hypertension Patients over 18 BP <140/90,210,285,0.7368,33:46.3
+1.69943E+15,Erik,Bylund MD,Hypertension Patients over 18 BP <140/90,262,372,0.7043,33:46.3
+1.69943E+15,Martin,Dubek MD,Hypertension Patients over 18 BP <140/90,,,,33:46.3
+1.69943E+15,Roger,Estep MD,Hypertension Patients over 18 BP <140/90,209,235,0.8894,33:46.3
+1.69943E+15,Jonathan,Gamson MD,Hypertension Patients over 18 BP <140/90,384,492,0.7805,33:46.3
+1.69943E+15,Janet,Hansom MD,Hypertension Patients over 18 BP <140/90,215,267,0.8052,33:46.3
+1.69943E+15,Lucia,Muller MD,Hypertension Patients over 18 BP <140/90,153,197,0.7766,33:46.3
+1.69943E+15,Jonathan,Ploudre MD,Hypertension Patients over 18 BP <140/90,292,342,0.8538,33:46.3
+1.69943E+15,L Sloane,Winkes MD,Hypertension Patients over 18 BP <140/90,135,155,0.871,33:46.3
+1.69943E+15,Joseph,McConahey PA-C,Hypertension Patients over 18 BP <140/90,,,,33:46.3
+1.69943E+15,Erinn,Case ARNP,Hypertension Patients over 18 BP <140/90,138,177,0.7797,33:46.3
+1.70464E+15,Lisa,Brodsky,Hypertension Patients over 18 BP <140/90,65,73,0.8904,33:46.3
+1.7054E+15,Jessica,Klassen ARNP,Hypertension Patients over 18 BP <140/90,50,60,0.8333,33:46.3
+1.72069E+15,Margaret,Sweeney,Hypertension Patients over 18 BP <140/90,195,215,0.907,33:46.3
+1.72069E+15,Franklin,Bjorseth,Hypertension Patients over 18 BP <140/90,364,450,0.8089,33:46.3
+1.72069E+15,Michael,James,Hypertension Patients over 18 BP <140/90,369,433,0.8522,33:46.3
+1.72069E+15,Robert,Rieger,Hypertension Patients over 18 BP <140/90,197,237,0.8312,33:46.3
+1.72121E+15,Meghan,Lelonek,Hypertension Patients over 18 BP <140/90,120,133,0.9023,33:46.3
+1.7443E+15,Sally,McPherson ARNP,Hypertension Patients over 18 BP <140/90,218,258,0.845,33:46.3
+1.74454E+15,Michael,Fleming PA-C,Hypertension Patients over 18 BP <140/90,55,59,0.9322,33:46.3
+1.75121E+15,Sara,Bowling,Hypertension Patients over 18 BP <140/90,123,143,0.8601,33:46.3
+1.77055E+15,William,Eiford PA-C,Hypertension Patients over 18 BP <140/90,,,,33:46.3
+1.77659E+15,Sarah,Herrman ARNP,Hypertension Patients over 18 BP <140/90,,,,33:46.3
+1.78471E+15,Patricia,Payne-Zajac PA-C,Hypertension Patients over 18 BP <140/90,,,,33:46.3
+1.78472E+15,Lillian,Pavlik ARNP,Hypertension Patients over 18 BP <140/90,,,,33:46.3
+1.78627E+15,Lauren,Sauve ARNP,Hypertension Patients over 18 BP <140/90,202,283,0.7138,33:46.3
+1.7962E+15,Catherine,Gambs MD,Hypertension Patients over 18 BP <140/90,231,305,0.7574,33:46.3
+1.7962E+15,Rebecca,Brejcha ARNP,Hypertension Patients over 18 BP <140/90,,,,33:46.3
+1.80589E+15,Vicki,Short MD,Hypertension Patients over 18 BP <140/90,238,282,0.844,33:46.3
+1.80624E+15,Heather,Thomson ARNP,Hypertension Patients over 18 BP <140/90,5,6,0.8333,33:46.3
+1.81237E+15,Patrick,McLaughlin MD,Hypertension Patients over 18 BP <140/90,130,178,0.7303,33:46.3
+1.37045E+15,Steven,Alexander MD,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),395,570,0.693,33:57.9
+1.37442E+15,Bertha,Safford MD,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),347,471,0.7367,33:57.9
+1.37442E+15,Richard,Binder MD,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),415,478,0.8682,33:57.9
+1.37442E+15,S. Harry,Herdman MD,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),568,747,0.7604,33:57.9
+1.3745E+15,Margaret,Burden MD,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),291,390,0.7462,33:57.9
+1.3745E+15,Robin,Caldwell MD,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),547,808,0.677,33:57.9
+1.3745E+15,David,Gavareski MD,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),493,647,0.762,33:57.9
+1.3745E+15,Karen,Goodman ARNP,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),442,743,0.5949,33:57.9
+1.3745E+15,Larry,Hartwell MD,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),414,649,0.6379,33:57.9
+1.3745E+15,James,Hopper MD,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),324,439,0.738,33:57.9
+1.3745E+15,John,Hruby MD,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),290,434,0.6682,33:57.9
+1.3745E+15,Kellie,Jacobs MD,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),414,534,0.7753,33:57.9
+1.3745E+15,Stephen,Lewis MD,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),551,842,0.6544,33:57.9
+1.3745E+15,Richard,McClenahan MD,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),508,694,0.732,33:57.9
+1.3745E+15,Karen,O'Keefe MD,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),345,441,0.7823,33:57.9
+1.3745E+15,Bruce,Pederson MD,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),534,938,0.5693,33:57.9
+1.3745E+15,Melana,"Schimke, MD",Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),198,323,0.613,33:57.9
+1.3745E+15,Miriam,Shapiro MD,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),362,498,0.7269,33:57.9
+1.3745E+15,Chao-Ying,Wu MD,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),547,694,0.7882,33:57.9
+1.37822E+15,Steven,Bloom MD,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),360,584,0.6164,33:57.9
+1.37822E+15,Jason,Short MD,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),529,708,0.7472,33:57.9
+1.4004E+15,Matt,Werner MD,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),504,702,0.7179,33:57.9
+1.41225E+15,Jennifer,Bates MD,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),237,339,0.6991,33:57.9
+1.42737E+15,Edward,Bloom MD,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),583,844,0.6908,33:57.9
+1.43401E+15,Jessica,Bloom MD,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),137,205,0.6683,33:57.9
+1.43523E+15,April,Wakefield-Pagels MD,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),418,572,0.7308,33:57.9
+1.44067E+15,John,Hiemstra DO,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),655,930,0.7043,33:57.9
+1.45553E+15,Teresa,Regier ARNP,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),176,468,0.3761,33:57.9
+1.48275E+15,Deborah,Hall MD,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),401,607,0.6606,33:57.9
+1.4913E+15,Ian,"Bonner, MD",Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),417,649,0.6425,33:57.9
+1.51359E+15,Laura,Fox DO,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),278,378,0.7354,33:57.9
+1.51868E+15,Mary,Swanson MD,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),226,271,0.8339,33:57.9
+1.52207E+15,Rodney,Anderson MD,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),574,740,0.7757,33:57.9
+1.52258E+15,Anneliese,Floyd MD,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),234,314,0.7452,33:57.9
+1.53182E+15,Elizabeth,"Gaylord ARNP, ND",Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),199,295,0.6746,33:57.9
+1.53865E+15,Sarah,Stewart ARNP,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),6,15,0.4,33:57.9
+1.54522E+15,Frederick,Gunningham MD,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),271,439,0.6173,33:57.9
+1.56252E+15,John,Raduege MD,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),667,832,0.8017,33:57.9
+1.5688E+15,Erin,Maloney PA-C,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),,,,33:57.9
+1.57225E+15,Renay,"Fredette MD, MSNu",Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),193,300,0.6433,33:57.9
+1.59785E+15,Michael,Steele MD,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),530,947,0.5597,33:57.9
+1.61408E+15,Lisa,VanHofwegen MD,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),206,282,0.7305,33:57.9
+1.6363E+15,Shannon,Billau DO,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),298,476,0.6261,33:57.9
+1.66055E+15,Deborah,Roessler MD,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),513,753,0.6813,33:57.9
+1.68536E+15,Shelby,Hein MD,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),424,639,0.6635,33:57.9
+1.69133E+15,Rory,Bradt DO,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),393,637,0.617,33:57.9
+1.69254E+15,Greg,Anderson MD,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),518,676,0.7663,33:57.9
+1.69701E+15,Claudia,Rey MD,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),235,425,0.5529,33:57.9
+1.69943E+15,Erik,Bylund MD,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),320,597,0.536,33:57.9
+1.69943E+15,Martin,Dubek MD,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),,,,33:57.9
+1.69943E+15,Roger,Estep MD,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),221,337,0.6558,33:57.9
+1.69943E+15,Jonathan,Gamson MD,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),479,805,0.595,33:57.9
+1.69943E+15,Janet,Hansom MD,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),363,518,0.7008,33:57.9
+1.69943E+15,Lucia,Muller MD,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),192,307,0.6254,33:57.9
+1.69943E+15,Jonathan,Ploudre MD,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),421,606,0.6947,33:57.9
+1.69943E+15,L Sloane,Winkes MD,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),188,276,0.6812,33:57.9
+1.69943E+15,Joseph,McConahey PA-C,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),,,,33:57.9
+1.69943E+15,Erinn,Case ARNP,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),138,330,0.4182,33:57.9
+1.70464E+15,Lisa,Brodsky,Colorectal Cancer Screening (Colonoscopy/Sigmoid/FIT test),90,147,0.6122,33:57.9
+1.37045E+15,Steven,Alexander MD,AAA Screening,,61,,34:33.3
+1.37442E+15,Bertha,Safford MD,AAA Screening,5,18,0.2778,34:33.3
+1.37442E+15,Richard,Binder MD,AAA Screening,67,89,0.7528,34:33.3
+1.37442E+15,S. Harry,Herdman MD,AAA Screening,31,76,0.4079,34:33.3
+1.3745E+15,Margaret,Burden MD,AAA Screening,,4,,34:33.3
+1.3745E+15,Robin,Caldwell MD,AAA Screening,,69,,34:33.3
+1.3745E+15,David,Gavareski MD,AAA Screening,,69,,34:33.3
+1.3745E+15,Karen,Goodman ARNP,AAA Screening,,12,,34:33.3
+1.3745E+15,Larry,Hartwell MD,AAA Screening,,78,,34:33.3
+1.3745E+15,James,Hopper MD,AAA Screening,18,59,0.3051,34:33.3
+1.3745E+15,John,Hruby MD,AAA Screening,6,86,0.0698,34:33.3
+1.3745E+15,Kellie,Jacobs MD,AAA Screening,2,14,0.1429,34:33.3
+1.3745E+15,Stephen,Lewis MD,AAA Screening,4,146,0.0274,34:33.3
+1.3745E+15,Richard,McClenahan MD,AAA Screening,10,94,0.1064,34:33.3
+1.3745E+15,Karen,O'Keefe MD,AAA Screening,,15,,34:33.3
+1.3745E+15,Bruce,Pederson MD,AAA Screening,8,158,0.0506,34:33.3
+1.3745E+15,Melana,"Schimke, MD",AAA Screening,,12,,34:33.3
+1.3745E+15,Miriam,Shapiro MD,AAA Screening,4,17,0.2353,34:33.3
+1.3745E+15,Chao-Ying,Wu MD,AAA Screening,65,87,0.7471,34:33.3
+1.37822E+15,Steven,Bloom MD,AAA Screening,,79,,34:33.3
+1.37822E+15,Jason,Short MD,AAA Screening,13,100,0.13,34:33.3
+1.4004E+15,Matt,Werner MD,AAA Screening,20,63,0.3175,34:33.3
+1.41225E+15,Jennifer,Bates MD,AAA Screening,1,16,0.0625,34:33.3
+1.42737E+15,Edward,Bloom MD,AAA Screening,23,124,0.1855,34:33.3
+1.43401E+15,Jessica,Bloom MD,AAA Screening,1,5,0.2,34:33.3
+1.43523E+15,April,Wakefield-Pagels MD,AAA Screening,2,33,0.0606,34:33.3
+1.44067E+15,John,Hiemstra DO,AAA Screening,9,125,0.072,34:33.3
+1.45553E+15,Teresa,Regier ARNP,AAA Screening,,37,,34:33.3
+1.48275E+15,Deborah,Hall MD,AAA Screening,9,38,0.2368,34:33.3
+1.4913E+15,Ian,"Bonner, MD",AAA Screening,8,77,0.1039,34:33.3
+1.51359E+15,Laura,Fox DO,AAA Screening,1,18,0.0556,34:33.3
+1.51868E+15,Mary,Swanson MD,AAA Screening,6,12,0.5,34:33.3
+1.52207E+15,Rodney,Anderson MD,AAA Screening,66,109,0.6055,34:33.3
+1.52258E+15,Anneliese,Floyd MD,AAA Screening,,17,,34:33.3
+1.53182E+15,Elizabeth,"Gaylord ARNP, ND",AAA Screening,2,17,0.1176,34:33.3
+1.53865E+15,Sarah,Stewart ARNP,AAA Screening,,,,34:33.3
+1.54522E+15,Frederick,Gunningham MD,AAA Screening,2,43,0.0465,34:33.3
+1.56252E+15,John,Raduege MD,AAA Screening,50,124,0.4032,34:33.3
+1.5688E+15,Erin,Maloney PA-C,AAA Screening,,,,34:33.3
+1.57225E+15,Renay,"Fredette MD, MSNu",AAA Screening,2,14,0.1429,34:33.3
+1.59785E+15,Michael,Steele MD,AAA Screening,26,127,0.2047,34:33.3
+1.61408E+15,Lisa,VanHofwegen MD,AAA Screening,,16,,34:33.3
+1.6363E+15,Shannon,Billau DO,AAA Screening,1,10,0.1,34:33.3
+1.66055E+15,Deborah,Roessler MD,AAA Screening,2,20,0.1,34:33.3
+1.68536E+15,Shelby,Hein MD,AAA Screening,1,17,0.0588,34:33.3
+1.69133E+15,Rory,Bradt DO,AAA Screening,3,79,0.038,34:33.3
+1.69254E+15,Greg,Anderson MD,AAA Screening,66,105,0.6286,34:33.3
+1.69701E+15,Claudia,Rey MD,AAA Screening,2,40,0.05,34:33.3
+1.69943E+15,Erik,Bylund MD,AAA Screening,27,63,0.4286,34:33.3
+1.69943E+15,Martin,Dubek MD,AAA Screening,,,,34:33.3
+1.69943E+15,Roger,Estep MD,AAA Screening,2,41,0.0488,34:33.3
+1.37045E+15,Steven,Alexander MD,TD - Patients >18yrs with TD in last 10 years,1056,1304,0.8098,35:12.5
+1.37442E+15,Bertha,Safford MD,TD - Patients >18yrs with TD in last 10 years,703,852,0.8251,35:12.5
+1.37442E+15,Richard,Binder MD,TD - Patients >18yrs with TD in last 10 years,722,850,0.8494,35:12.5
+1.37442E+15,S. Harry,Herdman MD,TD - Patients >18yrs with TD in last 10 years,1290,1606,0.8032,35:12.5
+1.3745E+15,Margaret,Burden MD,TD - Patients >18yrs with TD in last 10 years,840,1010,0.8317,35:12.5
+1.3745E+15,Robin,Caldwell MD,TD - Patients >18yrs with TD in last 10 years,1653,2071,0.7982,35:12.5
+1.3745E+15,David,Gavareski MD,TD - Patients >18yrs with TD in last 10 years,893,1146,0.7792,35:12.5
+1.3745E+15,Karen,Goodman ARNP,TD - Patients >18yrs with TD in last 10 years,1246,1783,0.6988,35:12.5
+1.3745E+15,Larry,Hartwell MD,TD - Patients >18yrs with TD in last 10 years,1090,1387,0.7859,35:12.5
+1.3745E+15,James,Hopper MD,TD - Patients >18yrs with TD in last 10 years,660,835,0.7904,35:12.5
+1.3745E+15,John,Hruby MD,TD - Patients >18yrs with TD in last 10 years,634,840,0.7548,35:12.5
+1.3745E+15,Kellie,Jacobs MD,TD - Patients >18yrs with TD in last 10 years,998,1207,0.8268,35:12.5
+1.3745E+15,Stephen,Lewis MD,TD - Patients >18yrs with TD in last 10 years,1409,1809,0.7789,35:12.5
+1.3745E+15,Richard,McClenahan MD,TD - Patients >18yrs with TD in last 10 years,1098,1399,0.7848,35:12.5
+1.3745E+15,Karen,O'Keefe MD,TD - Patients >18yrs with TD in last 10 years,723,834,0.8669,35:12.5
+1.37045E+15,Steven,Alexander MD,HgbA1c NOT > 9.0 (poor control) ,159,170,0.9353,33:16.7
+1.37442E+15,Bertha,Safford MD,HgbA1c NOT > 9.0 (poor control) ,90,104,0.8654,33:16.7
+1.37442E+15,Richard,Binder MD,HgbA1c NOT > 9.0 (poor control) ,71,78,0.9103,33:16.7
+1.37442E+15,S. Harry,Herdman MD,HgbA1c NOT > 9.0 (poor control) ,80,87,0.9195,33:16.7
+1.3745E+15,Margaret,Burden MD,HgbA1c NOT > 9.0 (poor control) ,34,39,0.8718,33:16.7
+1.3745E+15,Robin,Caldwell MD,HgbA1c NOT > 9.0 (poor control) ,172,191,0.9005,33:16.7
+1.3745E+15,David,Gavareski MD,HgbA1c NOT > 9.0 (poor control) ,106,111,0.955,33:16.7
+1.3745E+15,Karen,Goodman ARNP,HgbA1c NOT > 9.0 (poor control) ,70,80,0.875,33:16.7
+1.3745E+15,Larry,Hartwell MD,HgbA1c NOT > 9.0 (poor control) ,142,154,0.9221,33:16.7
+1.3745E+15,James,Hopper MD,HgbA1c NOT > 9.0 (poor control) ,66,75,0.88,33:16.7
+1.3745E+15,John,Hruby MD,HgbA1c NOT > 9.0 (poor control) ,93,103,0.9029,33:16.7
+1.3745E+15,Kellie,Jacobs MD,HgbA1c NOT > 9.0 (poor control) ,52,59,0.8814,33:16.7
+1.3745E+15,Stephen,Lewis MD,HgbA1c NOT > 9.0 (poor control) ,174,186,0.9355,33:16.7
+1.3745E+15,Richard,McClenahan MD,HgbA1c NOT > 9.0 (poor control) ,97,101,0.9604,33:16.7
+1.3745E+15,Karen,O'Keefe MD,HgbA1c NOT > 9.0 (poor control) ,49,56,0.875,33:16.7
+1.3745E+15,Bruce,Pederson MD,HgbA1c NOT > 9.0 (poor control) ,163,200,0.815,33:16.7
+1.3745E+15,Melana,"Schimke, MD",HgbA1c NOT > 9.0 (poor control) ,20,23,0.8696,33:16.7
+1.3745E+15,Miriam,Shapiro MD,HgbA1c NOT > 9.0 (poor control) ,47,53,0.8868,33:16.7
+1.3745E+15,Chao-Ying,Wu MD,HgbA1c NOT > 9.0 (poor control) ,100,108,0.9259,33:16.7
+1.37822E+15,Steven,Bloom MD,HgbA1c NOT > 9.0 (poor control) ,95,120,0.7917,33:16.7
+1.37822E+15,Jason,Short MD,HgbA1c NOT > 9.0 (poor control) ,111,120,0.925,33:16.7
+1.4004E+15,Matt,Werner MD,HgbA1c NOT > 9.0 (poor control) ,76,87,0.8736,33:16.7
+1.41225E+15,Jennifer,Bates MD,HgbA1c NOT > 9.0 (poor control) ,64,69,0.9275,33:16.7
+1.42737E+15,Edward,Bloom MD,HgbA1c NOT > 9.0 (poor control) ,134,144,0.9306,33:16.7
+1.43401E+15,Jessica,Bloom MD,HgbA1c NOT > 9.0 (poor control) ,18,19,0.9474,33:16.7
+1.43523E+15,April,Wakefield-Pagels MD,HgbA1c NOT > 9.0 (poor control) ,78,86,0.907,33:16.7
+1.44067E+15,John,Hiemstra DO,HgbA1c NOT > 9.0 (poor control) ,200,221,0.905,33:16.7
+1.45553E+15,Teresa,Regier ARNP,HgbA1c NOT > 9.0 (poor control) ,79,84,0.9405,33:16.7
+1.37045E+15,Steven,Alexander MD,Hypertension Patients over 18 BP <140/90,408,445,0.9169,33:46.3
+1.37442E+15,Bertha,Safford MD,Hypertension Patients over 18 BP <140/90,223,274,0.8139,33:46.3
+1.37442E+15,Richard,Binder MD,Hypertension Patients over 18 BP <140/90,296,315,0.9397,33:46.3
+1.37442E+15,S. Harry,Herdman MD,Hypertension Patients over 18 BP <140/90,354,432,0.8194,33:46.3
+1.3745E+15,Margaret,Burden MD,Hypertension Patients over 18 BP <140/90,150,181,0.8287,33:46.3
+1.3745E+15,Robin,Caldwell MD,Hypertension Patients over 18 BP <140/90,512,574,0.892,33:46.3
+1.3745E+15,David,Gavareski MD,Hypertension Patients over 18 BP <140/90,360,423,0.8511,33:46.3
+1.3745E+15,Karen,Goodman ARNP,Hypertension Patients over 18 BP <140/90,244,286,0.8531,33:46.3
+1.3745E+15,Larry,Hartwell MD,Hypertension Patients over 18 BP <140/90,390,457,0.8534,33:46.3
+1.3745E+15,James,Hopper MD,Hypertension Patients over 18 BP <140/90,200,242,0.8264,33:46.3
+1.3745E+15,John,Hruby MD,Hypertension Patients over 18 BP <140/90,184,236,0.7797,33:46.3
+1.3745E+15,Kellie,Jacobs MD,Hypertension Patients over 18 BP <140/90,219,251,0.8725,33:46.3
+1.3745E+15,Stephen,Lewis MD,Hypertension Patients over 18 BP <140/90,498,602,0.8272,33:46.3
+1.3745E+15,Richard,McClenahan MD,Hypertension Patients over 18 BP <140/90,314,369,0.8509,33:46.3
+1.3745E+15,Karen,O'Keefe MD,Hypertension Patients over 18 BP <140/90,170,208,0.8173,33:46.3
+1.3745E+15,Bruce,Pederson MD,Hypertension Patients over 18 BP <140/90,479,669,0.716,33:46.3
+1.3745E+15,Melana,"Schimke, MD",Hypertension Patients over 18 BP <140/90,83,103,0.8058,33:46.3
+1.3745E+15,Miriam,Shapiro MD,Hypertension Patients over 18 BP <140/90,207,238,0.8697,33:46.3
+1.3745E+15,Chao-Ying,Wu MD,Hypertension Patients over 18 BP <140/90,349,383,0.9112,33:46.3
+1.37822E+15,Steven,Bloom MD,Hypertension Patients over 18 BP <140/90,296,371,0.7978,33:46.3
+1.37822E+15,Jason,Short MD,Hypertension Patients over 18 BP <140/90,339,414,0.8188,33:46.3
+1.4004E+15,Matt,Werner MD,Hypertension Patients over 18 BP <140/90,274,358,0.7654,33:46.3
+1.41225E+15,Jennifer,Bates MD,Hypertension Patients over 18 BP <140/90,207,225,0.92,33:46.3
+1.42737E+15,Edward,Bloom MD,Hypertension Patients over 18 BP <140/90,498,612,0.8137,33:46.3
+1.43401E+15,Jessica,Bloom MD,Hypertension Patients over 18 BP <140/90,83,101,0.8218,33:46.3
+1.43523E+15,April,Wakefield-Pagels MD,Hypertension Patients over 18 BP <140/90,238,287,0.8293,33:46.3
+1.44067E+15,John,Hiemstra DO,Hypertension Patients over 18 BP <140/90,618,691,0.8944,33:46.3
+1.45553E+15,Teresa,Regier ARNP,Hypertension Patients over 18 BP <140/90,194,260,0.7462,33:46.3
+1.48275E+15,Deborah,Hall MD,Hypertension Patients over 18 BP <140/90,247,309,0.7994,33:46.3
+1.4913E+15,Ian,"Bonner, MD",Hypertension Patients over 18 BP <140/90,249,309,0.8058,33:46.3
+1.51359E+15,Laura,Fox DO,Hypertension Patients over 18 BP <140/90,149,186,0.8011,33:46.3
+1.51868E+15,Mary,Swanson MD,Hypertension Patients over 18 BP <140/90,121,140,0.8643,33:46.3
+1.52207E+15,Rodney,Anderson MD,Hypertension Patients over 18 BP <140/90,439,505,0.8693,33:46.3
+1.52258E+15,Anneliese,Floyd MD,Hypertension Patients over 18 BP <140/90,120,137,0.8759,33:46.3
+1.53182E+15,Elizabeth,"Gaylord ARNP, ND",Hypertension Patients over 18 BP <140/90,118,146,0.8082,33:46.3
+1.69133E+15,Rory,Bradt DO,Diabetes Care Gaps ,87,96,0.9063,45:33.4
+1.69254E+15,Greg,Anderson MD,Diabetes Care Gaps ,95,103,0.9223,45:33.4
+1.69701E+15,Claudia,Rey MD,Diabetes Care Gaps ,75,98,0.7653,45:33.4
+1.69943E+15,Erik,Bylund MD,Diabetes Care Gaps ,116,124,0.9355,45:33.4
+1.69943E+15,Martin,Dubek MD,Diabetes Care Gaps ,,,,45:33.4
+1.69943E+15,Roger,Estep MD,Diabetes Care Gaps ,83,87,0.954,45:33.4
+1.69943E+15,Jonathan,Gamson MD,Diabetes Care Gaps ,132,152,0.8684,45:33.4
+1.69943E+15,Janet,Hansom MD,Diabetes Care Gaps ,60,67,0.8955,45:33.4
+1.69943E+15,Lucia,Muller MD,Diabetes Care Gaps ,39,39,1,45:33.4
+1.69943E+15,Jonathan,Ploudre MD,Diabetes Care Gaps ,104,109,0.9541,45:33.4
+1.69943E+15,L Sloane,Winkes MD,Diabetes Care Gaps ,48,49,0.9796,45:33.4
+1.69943E+15,Joseph,McConahey PA-C,Diabetes Care Gaps ,,,,45:33.4
+1.69943E+15,Erinn,Case ARNP,Diabetes Care Gaps ,50,57,0.8772,45:33.4
+1.70464E+15,Lisa,Brodsky,Diabetes Care Gaps ,14,18,0.7778,45:33.4
+1.7054E+15,Jessica,Klassen ARNP,Diabetes Care Gaps ,17,24,0.7083,45:33.4
+1.72069E+15,Margaret,Sweeney,Diabetes Care Gaps ,66,71,0.9296,45:33.4
+1.72069E+15,Franklin,Bjorseth,Diabetes Care Gaps ,102,106,0.9623,45:33.4
+1.72069E+15,Michael,James,Diabetes Care Gaps ,123,141,0.8723,45:33.4
+1.72069E+15,Robert,Rieger,Diabetes Care Gaps ,69,71,0.9718,45:33.4
+1.72121E+15,Meghan,Lelonek,Diabetes Care Gaps ,48,54,0.8889,45:33.4
+1.7443E+15,Sally,McPherson ARNP,Diabetes Care Gaps ,73,82,0.8902,45:33.4
+1.74454E+15,Michael,Fleming PA-C,Diabetes Care Gaps ,20,23,0.8696,45:33.4
+1.75121E+15,Sara,Bowling,Diabetes Care Gaps ,24,34,0.7059,45:33.4
+1.77055E+15,William,Eiford PA-C,Diabetes Care Gaps ,,,,45:33.4
+1.77659E+15,Sarah,Herrman ARNP,Diabetes Care Gaps ,,,,45:33.4
+1.78471E+15,Patricia,Payne-Zajac PA-C,Diabetes Care Gaps ,,,,45:33.4
+1.78472E+15,Lillian,Pavlik ARNP,Diabetes Care Gaps ,,,,45:33.4
+1.78627E+15,Lauren,Sauve ARNP,Diabetes Care Gaps ,78,89,0.8764,45:33.4
+1.7962E+15,Catherine,Gambs MD,Diabetes Care Gaps ,83,95,0.8737,45:33.4
+1.7962E+15,Rebecca,Brejcha ARNP,Diabetes Care Gaps ,,,,45:33.4
+1.80589E+15,Vicki,Short MD,Diabetes Care Gaps ,70,79,0.8861,45:33.4
+1.80624E+15,Heather,Thomson ARNP,Diabetes Care Gaps ,1,2,0.5,45:33.4
+1.81237E+15,Patrick,McLaughlin MD,Diabetes Care Gaps ,31,38,0.8158,45:33.4
+1.72069E+15,Franklin,Bjorseth,Chlamydia,1,3,0.3333,34:21.5
+1.72069E+15,Michael,James,Chlamydia,1,5,0.2,34:21.5
+1.72069E+15,Robert,Rieger,Chlamydia,3,13,0.2308,34:21.5
+1.72121E+15,Meghan,Lelonek,Chlamydia,11,37,0.2973,34:21.5
+1.7443E+15,Sally,McPherson ARNP,Chlamydia,,2,,34:21.5
+1.74454E+15,Michael,Fleming PA-C,Chlamydia,2,7,0.2857,34:21.5
+1.75121E+15,Sara,Bowling,Chlamydia,7,30,0.2333,34:21.5
+1.77055E+15,William,Eiford PA-C,Chlamydia,,,,34:21.5
+1.77659E+15,Sarah,Herrman ARNP,Chlamydia,,,,34:21.5
+1.78471E+15,Patricia,Payne-Zajac PA-C,Chlamydia,,,,34:21.5
+1.78472E+15,Lillian,Pavlik ARNP,Chlamydia,,,,34:21.5
+1.78627E+15,Lauren,Sauve ARNP,Chlamydia,1,1,1,34:21.5
+1.7962E+15,Catherine,Gambs MD,Chlamydia,3,5,0.6,34:21.5
+1.7962E+15,Rebecca,Brejcha ARNP,Chlamydia,,,,34:21.5
+1.80589E+15,Vicki,Short MD,Chlamydia,7,27,0.2593,34:21.5
+1.80624E+15,Heather,Thomson ARNP,Chlamydia,,1,,34:21.5
+1.81237E+15,Patrick,McLaughlin MD,Chlamydia,1,14,0.0714,34:21.5
+1.69943E+15,Jonathan,Gamson MD,AAA Screening,21,109,0.1927,34:33.3
+1.69943E+15,Janet,Hansom MD,AAA Screening,1,15,0.0667,34:33.3
+1.69943E+15,Lucia,Muller MD,AAA Screening,12,15,0.8,34:33.3
+1.69943E+15,Jonathan,Ploudre MD,AAA Screening,15,93,0.1613,34:33.3
+1.69943E+15,L Sloane,Winkes MD,AAA Screening,1,13,0.0769,34:33.3
+1.69943E+15,Joseph,McConahey PA-C,AAA Screening,,,,34:33.3
+1.69943E+15,Erinn,Case ARNP,AAA Screening,,6,,34:33.3
+1.70464E+15,Lisa,Brodsky,AAA Screening,,6,,34:33.3
+1.7054E+15,Jessica,Klassen ARNP,AAA Screening,,6,,34:33.3
+1.72069E+15,Margaret,Sweeney,AAA Screening,,15,,34:33.3
+1.72069E+15,Franklin,Bjorseth,AAA Screening,4,91,0.044,34:33.3
+1.72069E+15,Michael,James,AAA Screening,1,79,0.0127,34:33.3
+1.72069E+15,Robert,Rieger,AAA Screening,,56,,34:33.3
+1.72121E+15,Meghan,Lelonek,AAA Screening,,9,,34:33.3
+1.7443E+15,Sally,McPherson ARNP,AAA Screening,1,40,0.025,34:33.3
+1.74454E+15,Michael,Fleming PA-C,AAA Screening,3,7,0.4286,34:33.3
+1.75121E+15,Sara,Bowling,AAA Screening,6,29,0.2069,34:33.3
+1.77055E+15,William,Eiford PA-C,AAA Screening,,,,34:33.3
+1.77659E+15,Sarah,Herrman ARNP,AAA Screening,,,,34:33.3
+1.78471E+15,Patricia,Payne-Zajac PA-C,AAA Screening,,,,34:33.3
+1.78472E+15,Lillian,Pavlik ARNP,AAA Screening,,,,34:33.3
+1.78627E+15,Lauren,Sauve ARNP,AAA Screening,5,50,0.1,34:33.3
+1.7962E+15,Catherine,Gambs MD,AAA Screening,4,36,0.1111,34:33.3
+1.7962E+15,Rebecca,Brejcha ARNP,AAA Screening,,,,34:33.3
+1.80589E+15,Vicki,Short MD,AAA Screening,10,57,0.1754,34:33.3
+1.80624E+15,Heather,Thomson ARNP,AAA Screening,,,,34:33.3
+1.81237E+15,Patrick,McLaughlin MD,AAA Screening,11,48,0.2292,34:33.3
+1.37045E+15,Steven,Alexander MD,WCV 3-6 yr,75,85,0.8824,18:09.0
+1.37442E+15,Bertha,Safford MD,WCV 3-6 yr,16,17,0.9412,18:09.0
+1.37442E+15,Richard,Binder MD,WCV 3-6 yr,14,15,0.9333,18:09.0
+1.37442E+15,S. Harry,Herdman MD,WCV 3-6 yr,102,108,0.9444,18:09.0
+1.3745E+15,Margaret,Burden MD,WCV 3-6 yr,43,58,0.7414,18:09.0
+1.3745E+15,Robin,Caldwell MD,WCV 3-6 yr,70,85,0.8235,18:09.0
+1.3745E+15,David,Gavareski MD,WCV 3-6 yr,16,16,1,18:09.0
+1.3745E+15,Karen,Goodman ARNP,WCV 3-6 yr,16,20,0.8,18:09.0
+1.3745E+15,Larry,Hartwell MD,WCV 3-6 yr,10,18,0.5556,18:09.0
+1.3745E+15,James,Hopper MD,WCV 3-6 yr,26,26,1,18:09.0
+1.3745E+15,John,Hruby MD,WCV 3-6 yr,9,10,0.9,18:09.0
+1.3745E+15,Kellie,Jacobs MD,WCV 3-6 yr,33,34,0.9706,18:09.0
+1.3745E+15,Stephen,Lewis MD,WCV 3-6 yr,76,82,0.9268,18:09.0
+1.3745E+15,Richard,McClenahan MD,WCV 3-6 yr,15,20,0.75,18:09.0
+1.3745E+15,Karen,O'Keefe MD,WCV 3-6 yr,24,29,0.8276,18:09.0
+1.3745E+15,Bruce,Pederson MD,WCV 3-6 yr,18,26,0.6923,18:09.0
+1.3745E+15,Melana,"Schimke, MD",WCV 3-6 yr,38,44,0.8636,18:09.0
+1.3745E+15,Miriam,Shapiro MD,WCV 3-6 yr,28,32,0.875,18:09.0
+1.3745E+15,Chao-Ying,Wu MD,WCV 3-6 yr,13,13,1,18:09.0
+1.37822E+15,Steven,Bloom MD,WCV 3-6 yr,31,35,0.8857,18:09.0
+1.37822E+15,Jason,Short MD,WCV 3-6 yr,37,44,0.8409,18:09.0
+1.4004E+15,Matt,Werner MD,WCV 3-6 yr,64,70,0.9143,18:09.0
+1.41225E+15,Jennifer,Bates MD,WCV 3-6 yr,80,92,0.8696,18:09.0
+1.42737E+15,Edward,Bloom MD,WCV 3-6 yr,66,74,0.8919,18:09.0
+1.43401E+15,Jessica,Bloom MD,WCV 3-6 yr,100,104,0.9615,18:09.0
+1.43523E+15,April,Wakefield-Pagels MD,WCV 3-6 yr,111,111,1,18:09.0
+1.44067E+15,John,Hiemstra DO,WCV 3-6 yr,97,109,0.8899,18:09.0
+1.45553E+15,Teresa,Regier ARNP,WCV 3-6 yr,15,20,0.75,18:09.0
+1.48275E+15,Deborah,Hall MD,WCV 3-6 yr,42,45,0.9333,18:09.0
+1.4913E+15,Ian,"Bonner, MD",WCV 3-6 yr,24,29,0.8276,18:09.0
+1.51359E+15,Laura,Fox DO,WCV 3-6 yr,59,63,0.9365,18:09.0
+1.51868E+15,Mary,Swanson MD,WCV 3-6 yr,105,105,1,18:09.0
+1.52207E+15,Rodney,Anderson MD,WCV 3-6 yr,69,75,0.92,18:09.0
+1.52258E+15,Anneliese,Floyd MD,WCV 3-6 yr,99,106,0.934,18:09.0
+1.53182E+15,Elizabeth,"Gaylord ARNP, ND",WCV 3-6 yr,36,37,0.973,18:09.0
+1.53865E+15,Sarah,Stewart ARNP,WCV 3-6 yr,52,57,0.9123,18:09.0
+1.54522E+15,Frederick,Gunningham MD,WCV 3-6 yr,114,132,0.8636,18:09.0
+1.56252E+15,John,Raduege MD,WCV 3-6 yr,59,61,0.9672,18:09.0
+1.5688E+15,Erin,Maloney PA-C,WCV 3-6 yr,,,,18:09.0
+1.57225E+15,Renay,"Fredette MD, MSNu",WCV 3-6 yr,90,95,0.9474,18:09.0
+1.59785E+15,Michael,Steele MD,WCV 3-6 yr,59,74,0.7973,18:09.0
+1.61408E+15,Lisa,VanHofwegen MD,WCV 3-6 yr,72,76,0.9474,18:09.0
+1.6363E+15,Shannon,Billau DO,WCV 3-6 yr,53,58,0.9138,18:09.0
+1.66055E+15,Deborah,Roessler MD,WCV 3-6 yr,64,79,0.8101,18:09.0
+1.68536E+15,Shelby,Hein MD,WCV 3-6 yr,42,50,0.84,18:09.0
+1.69133E+15,Rory,Bradt DO,WCV 3-6 yr,27,42,0.6429,18:09.0
+1.69254E+15,Greg,Anderson MD,WCV 3-6 yr,16,16,1,18:09.0
+1.69701E+15,Claudia,Rey MD,WCV 3-6 yr,95,106,0.8962,18:09.0
+1.69943E+15,Erik,Bylund MD,WCV 3-6 yr,72,74,0.973,18:09.0
+1.69943E+15,Martin,Dubek MD,WCV 3-6 yr,,,,18:09.0
+1.69943E+15,Roger,Estep MD,WCV 3-6 yr,69,72,0.9583,18:09.0
+1.69943E+15,Jonathan,Gamson MD,WCV 3-6 yr,20,29,0.6897,18:09.0
+1.69943E+15,Janet,Hansom MD,WCV 3-6 yr,13,15,0.8667,18:09.0
+1.69943E+15,Lucia,Muller MD,WCV 3-6 yr,48,52,0.9231,18:09.0
+1.69943E+15,Jonathan,Ploudre MD,WCV 3-6 yr,45,48,0.9375,18:09.0
