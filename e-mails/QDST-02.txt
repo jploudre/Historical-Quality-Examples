@@ -1,0 +1,54 @@
+the-message =
+(
+Hello!
+
+Here's your pap smear graph again. On this graph, I apologize,  but there are actually 2 adjustments. So it makes it a bit harder to see your personal trend.
+
+Adjustment #1: In August we realized that our 'Seen in the last 3 years' report was actually pulling 'Seen in the last 1 year'.
+
+Adjustment #2: A few weeks later, we changed the age range. It had looked at at 24-65. (24 was starting at age 21 but up to 3 year interval.) It was changed to be 21 to be more consistent with guidelines. 
+
+Jonathan Ploudre
+)
+
+; Assumes in Outlook Subject
+#j::
+Send Quality Data: Show & Tell #2 {tab}
+clip(the-message)
+return
+
+Clip(Text="", Reselect="") ; http://www.autohotkey.com/forum/viewtopic.php?p=467710 , modified August 2012
+{
+	Static BackUpClip, Stored, LastClip
+	If (A_ThisLabel = A_ThisFunc) {
+		If (Clipboard == LastClip)
+			Clipboard := BackUpClip
+		BackUpClip := LastClip := Stored := ""
+	} Else {
+		If !Stored {
+			Stored := True
+			BackUpClip := ClipboardAll
+		} Else
+			SetTimer, %A_ThisFunc%, Off
+		LongCopy := A_TickCount, Clipboard := "", LongCopy -= A_TickCount
+		If (Text = "") {
+			Send, ^c
+			ClipWait, LongCopy ? 0.5 : 0.25
+		} Else {
+			Clipboard := LastClip := Text
+			ClipWait, 10
+			Send, ^v
+		}
+		SetTimer, %A_ThisFunc%, -700
+		If (Text = "")
+			Return LastClip := Clipboard
+		Else If (ReSelect = True) or (Reselect and (StrLen(Text) < 3000)) {
+			Sleep 30
+			StringReplace, Text, Text, `r, , All
+			SendInput, % "{Shift Down}{Left " StrLen(Text) "}{Shift Up}"
+		}
+	}
+	Return
+	Clip:
+	Return Clip()
+}
