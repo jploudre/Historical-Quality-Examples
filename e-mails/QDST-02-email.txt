@@ -1,0 +1,33 @@
+The first graph shows paps in the first 3 quarters this year for the clinic. Sorry about the redefined reports. We changed the ‘denominator’ because it wasn’t reporting correctly. And it has the effect of making the numbers go down. 
+
+(Then include each clinic’s specifics)
+
+---
+
+BBFM has some improvement this year but overall has a very long way to go. Given that provider changes are coming, probably best to focus on clinic processes like records requests or CAs reminding patients. Could your staff get training with Crystel Sherlock so they could use Meridios to print patient exception lists?
+
+Bellingham Bay is improving somewhat this year. Interesting the difference between female and male providers. Maybe male providers haven’t focused on this as much lately? Could CAs help get the ball rolling?
+
+Don’t send to EFM
+
+Ferndale has strong group performance – providers are pretty tightly packed. The big drop in August is when we realized that we were reporting patients seen in the last year (instead of last 3 years.). So performance on patients seen recently is strong and improving. Keep it up!
+
+FHA has strong group performance – providers are pretty tightly packed. The big drop in August is when we realized that we were reporting patients seen in the last year (instead of last 3 years.). So performance on patients seen recently is strong and improving. Keep it up!
+
+IFP appears to be doing something in the past few months – paps are going up. Big variation between providers. Any way to share best practices?
+
+LFM has a long way to go on Paps. Is there a documentation issue? (Does everyone know to append Paps in the prevention form?) Are there issues with getting outside records? Could LFM consider a training by Crystel Sherlock for CAs so CAs could know how to use Meridios – and how to get patient exception lists for paps?
+
+NCFP has been rapidly improving. The pap project near the beginning of the year has been a success. That said, lots of variability in providers – is there a way to share best practices?
+
+NSFM hasn’t focused on paps this year. Could NSFM consider a training by Crystel Sherlock for CAs so CAs could know how to use Meridios – and how to get patient exception lists for paps?
+
+SFM hasn’t focused on paps this year. Providers are pretty tightly packed. What could CAs do to improve Paps – more reminding for appointments? More records requests?
+
+WFM hasn’t focused on paps this year. Looks like more paps are going out of date than are being done – are patient overdue? Could reception look at who needs to be recalled for well woman care?
+
+
+
+The second graph shows every provider in FCN. Which clinic is best – how would you define that? Interestingly: FCN as a whole has only 1 provider above 85%. (Congrats on the hard work to Meg  Sweeney at IFP.) Some people wonder if being a male or female provider matters. Looks like it. Second graph is color coded with blue for male providers and green for female providers. 
+
+The third graph shows a histogram – you can see the large amount of providers in the low 60s – about 20% below our target of 85%. Paps are one of our hardest core measures. How do we focus as a team? Are PSRs getting outside records? Are CAs asking women where they get their paps? Has anyone printed a patient exception report from meridios so you can see if patients have moved/etc?
